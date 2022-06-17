@@ -6,7 +6,6 @@ https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
 https://mycloudstream.akamaized.net/hls/live/2035990/ymty1j6r/1654571350463/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="CDN" tvg-logo="https://i.postimg.cc/QVLGXWpQ/CDN-Canal-37.png", CDN | DO
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
-
 #EXTINF:-1 tvg-id="709" tvg-name="Color Vision" tvg-logo="https://i0.wp.com/momentodeportivord.com/wp-content/uploads/2021/10/Color-Visio%CC%81n.jpg", Color Vision | DO
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8
 #EXTINF:-1 tvg-id="853" tvg-name="La Fe Mueve Montanas" tvg-logo="https://www.m3u.cl/logo/853_La_Fe_Mueve_Montanas.png", La Fe Mueve Montanas  | DO
@@ -52,10 +51,8 @@ https://cdn4.hostlagarto.com:8081/static/lunatv/playlist.m3u8?PlaylistM3UCL
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="728" tvg-name="Microvision" tvg-logo="https://www.m3u.cl/logo/728_Microvision.jpg", Microvision  | DO
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1882494547.m3u8
-
 #EXTINF:-1 tvg-id="732" tvg-name="Ready TV" tvg-logo="https://www.m3u.cl/logo/732_Ready_TV.png", Ready TV  | DO
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="734" tvg-name="RNN" tvg-logo="https://www.m3u.cl/logo/734_RNN.png", RNN  | DO
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="735" tvg-name="Romana TV" tvg-logo="https://www.m3u.cl/logo/735_Romana_TV.jpg", Romana TV  | DO
@@ -88,54 +85,32 @@ http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8?Playlis
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="708" tvg-name="Telenovisa 43" tvg-logo="https://www.m3u.cl/logo/708_Telenovisa_43.png", Telenovisa 43  | DO
 http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="748" tvg-name="Teleradio America" tvg-logo="https://www.m3u.cl/logo/748_Teleradio_America.jpg", Teleradio America  | DO
 https://live.teledom.info:3625/live/tra45live.m3u8
-
 #EXTINF:-1 tvg-id="749" tvg-name="Teleradio Norte" tvg-logo="https://www.m3u.cl/logo/749_Teleradio_Norte.jpg", Teleradio Norte  | DO
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="750" tvg-name="Telesistema" tvg-logo="https://www.m3u.cl/logo/750_Telesistema.jpg", Telesistema  | DO
 https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2sFsSVx_D3kjgPq1i976vQWL242fU94XjtpYlTtZqQ9_)/dm/3/x80ac48/s/live-0.m3u8#cell=lnyc
-
 #EXTINF:-1 tvg-id="751" tvg-name="Teleunion" tvg-logo="https://www.m3u.cl/logo/751_Teleunion.jpg", Teleunion  | DO
 http://server3.prostudionetwork.com:1945/teleunion/TU/manifest.m3u8
-
 #EXTINF:-1 tvg-id="752" tvg-name="Teleuniverso Canal 29" tvg-logo="https://www.m3u.cl/logo/752_Teleuniverso_Canal_29.png", Teleuniverso Canal 29  | DO
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
-
 #EXTINF:-1 tvg-id="754" tvg-name="Antena Latina" tvg-logo="https://i.postimg.cc/4x6Zxw2m/antenalatina.jpg", Antena Latina  | DO
 https://tunzilla.com/http://51.81.106.157:8084/hls/alatina.m3u8
-
-#EXTINF:-1 tvg-id="753" tvg-name="Telever Canal 12" tvg-logo="https://www.m3u.cl/logo/753_Telever_Canal_12.jpg", Telever Canal 12  | DO
-http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="754" tvg-name="Television A1" tvg-logo="https://www.m3u.cl/logo/754_Television_A1.png", Television A1  | DO
-https://ss6.domint.net:2940/a1_str/a1tv/manifest.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="755" tvg-name="Televisión del Este" tvg-logo="https://www.m3u.cl/logo/755_Television_del_Este.png", Televisión del Este  | DO
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="756" tvg-name="TNI 51" tvg-logo="https://www.m3u.cl/logo/756_TNI_51.jpg", TNI 51  | DO
-https://ss8.domint.net:3126/tni_str/tni51/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="707" tvg-name="TV Cotui" tvg-logo="https://www.m3u.cl/logo/707_TV_Cotui.jpg", TV Cotui  | DO
-https://vdo2.streamgato.us:3095/live/tvcotuilive.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="757" tvg-name="TV Montaña" tvg-logo="https://www.m3u.cl/logo/757_TV_Montana.jpg", TV Montaña  | DO
 https://ss5.domint.net:3064/tvm_str/montanatv/chunklist_w1733352446.m3u8
-
 #EXTINF:-1 tvg-id="758" tvg-name="TV Plata" tvg-logo="https://www.m3u.cl/logo/758_TV_Plata.jpg", TV Plata  | DO
 https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
-
 #EXTINF:-1 tvg-id="759" tvg-name="TVS TV" tvg-logo="https://www.m3u.cl/logo/759_TVS_TV.png", TVS TV  | DO
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="760" tvg-name="Vallevisión" tvg-logo="https://www.m3u.cl/logo/760_Vallevision.png", Vallevisión  | DO
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-
 #EXTINF:-1 tvg-id="761" tvg-name="Vegavision Canal 18" tvg-logo="https://www.m3u.cl/logo/761_Vegavision_Canal_18.png", Vegavision Canal 18  | DO
 https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8
-
 #EXTINF:-1 tvg-id="762" tvg-name="Yunavision" tvg-logo="https://www.m3u.cl/logo/762_Yunavision.jpg", Yunavision  | DO
 https://ss9.domint.net:3036/yv_str/yunavision/chunklist_w1986034524.m3u8
-
 #EXTINF:-1 tvg-id="763" tvg-name="Zol 106.5 FM" tvg-logo="https://www.m3u.cl/logo/763_Zol_106_5_FM.jpg", Zol 106.5 FM  | DO
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 

@@ -6,6 +6,8 @@ https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
 https://mycloudstream.akamaized.net/hls/live/2035990/ymty1j6r/1654571350463/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="CDN" tvg-logo="https://i.postimg.cc/QVLGXWpQ/CDN-Canal-37.png", CDN | DO
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
+#EXTINF:-1 tvg-id="709" tvg-name="CDN Deporte" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/07/cdn-deportes-online-cdn-sportmax-en-vivo.jpg", CDN Deporte | DO
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/03ab3a290c9a4845b435d8948088bb7f/chunklist_b4628000.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="Color Vision" tvg-logo="https://i0.wp.com/momentodeportivord.com/wp-content/uploads/2021/10/Color-Visio%CC%81n.jpg", Color Vision | DO
 https://stream-04.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY-EDweehar0DkA6w4E0h5Jf5Re516N2jWEbQh_4-3QQE)/dm/3/x7gy059/d/live-2.m3u8
 #EXTINF:-1 tvg-id="853" tvg-name="La Fe Mueve Montanas" tvg-logo="https://www.m3u.cl/logo/853_La_Fe_Mueve_Montanas.png", La Fe Mueve Montanas  | DO

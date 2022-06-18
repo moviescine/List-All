@@ -70,7 +70,7 @@ https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="740" tvg-name="Telecanal 28" tvg-logo="https://www.m3u.cl/logo/740_Telecanal_28.jpg", Telecanal 28  | DO
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="741" tvg-name="Telecentro" tvg-logo="https://www.m3u.cl/logo/741_Telecentro.png", Telecentro  | DO
-https://playback.akamaized.net/streams/28126860_9438854_lsi97knwnueztwmbc4z_1/media/28126860_9438854_lsi97knwnueztwmbc4z_1@678000p.m3u8?PlaylistM3UCL
+https://playback.akamaized.net/streams/28126860_9438854_lsibpbntsfbv5lcm29r_1/media/28126860_9438854_lsibpbntsfbv5lcm29r_1@1628000p.m3u8?dw=14400&ts=1655550000&hdnts=exp=1655725201~acl=/streams/28126860_9438854_lsibpbntsfbv5lcm29r_1/media*~hmac=938e7c40079bc1ee43d356abb489a4ddfb4207608cc3de1a8099cccc454a98bd
 #EXTINF:-1 tvg-id="742" tvg-name="Telecibao" tvg-logo="https://www.m3u.cl/logo/742_Telecibao.jpg", Telecibao  | DO
 https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="743" tvg-name="Telefuturo" tvg-logo="https://www.m3u.cl/logo/743_Telefuturo.png", Telefuturo  | DO
@@ -121,3 +121,5 @@ https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVSpotlightSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Movies",Rakuten Spotlight Spain (720p)
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CubaVision.cu" tvg-country="CU" tvg-language="Spanish" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cubavision.jpg" group-title="Undefined",CubaVision
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8

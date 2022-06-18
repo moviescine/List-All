@@ -115,5 +115,11 @@ https://ss9.domint.net:3036/yv_str/yunavision/chunklist_w1986034524.m3u8
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/512px-Ecuavisa_Logo_2019.png" group-title="Undefined",Ecuavisa [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
-
-
+#EXTINF:-1 tvg-id="Digital15.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/15_republica_dominicana-mediano.png" group-title="Undefined",Digital 15 (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/8268514/player
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten Action Movies Spain (720p)
+https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="Movies",Rakuten Comedy Movies Spain (720p)
+https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Movies",Rakuten Spotlight Spain (720p)
+https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8

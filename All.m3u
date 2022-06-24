@@ -64,7 +64,7 @@ https://ss2.domint.net:3236/stv_str/supertv55/chunklist_w1491112514.m3u8
 #EXTINF:-1 tvg-id="848" tvg-name="Tele Oriental Digital" tvg-logo="https://www.m3u.cl/logo/848_Tele_Oriental_Digital.png", Tele Oriental Digital  | DO
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="738" tvg-name="Teleantillas" tvg-logo="https://www.m3u.cl/logo/738_Teleantillas.jpg", Teleantillas  | DO
-https://stream-04.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2rIQixuHu7CgEbm8iNj3Z02WeVUanHcOU5VRGyAmHz6U)/dm/3/x809r6i/s/live-1.m3u8
+https://stream-03.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2gV45T_wEldMbivBxjNUAqkvK57DOy_H1MZBi_RtVrq9)/dm/3/x809r6i/s/live-1.m3u8
 #EXTINF:-1 tvg-id="739" tvg-name="Telecanal 12" tvg-logo="https://www.m3u.cl/logo/739_Telecanal_12.jpg", Telecanal 12  | DO
 https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="740" tvg-name="Telecanal 28" tvg-logo="https://www.m3u.cl/logo/740_Telecanal_28.jpg", Telecanal 28  | DO
@@ -90,7 +90,7 @@ https://live.teledom.info:3625/live/tra45live.m3u8
 #EXTINF:-1 tvg-id="749" tvg-name="Teleradio Norte" tvg-logo="https://www.m3u.cl/logo/749_Teleradio_Norte.jpg", Teleradio Norte  | DO
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="750" tvg-name="Telesistema" tvg-logo="https://www.m3u.cl/logo/750_Telesistema.jpg", Telesistema  | DO
-https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2ghw835x-8SSYMYFbT5UWdOFm0vRFSe_8IHqEYd-Hkw-)/dm/3/x80ac48/s/live-0.m3u8
+https://stream-01.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2pTejc1QVPmIxOIrwdqh3DcV1Jn_slNjyuu3ETgEDthd)/dm/3/x80ac48/s/live-3.m3u8
 #EXTINF:-1 tvg-id="751" tvg-name="Teleunion" tvg-logo="https://www.m3u.cl/logo/751_Teleunion.jpg", Teleunion  | DO
 http://server3.prostudionetwork.com:1945/teleunion/TU/manifest.m3u8
 #EXTINF:-1 tvg-id="752" tvg-name="Teleuniverso Canal 29" tvg-logo="https://www.m3u.cl/logo/752_Teleuniverso_Canal_29.png", Teleuniverso Canal 29  | DO

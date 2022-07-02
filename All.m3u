@@ -1,5 +1,9 @@
+#EXTINF:-1,HD | Telemicro | Do
+https://playback.akamaized.net/27456795_8825585_lsix8m5p1q03fpvrwit_1/segments/27456795_8825585_lsix8m5p1q03fpvrwit_1@628000p/media-uzdtunf9y_2326.ts?z=p&hdnts=exp=1656896400~acl=/27456795_8825585_lsix8m5p1q03fpvrwit_1/segments/27456795_8825585_lsix8m5p1q03fpvrwit_1@628000p*~hmac=5e54a9e65431f3c9b3b90841d732fed94a21f5119723536b3bcd044ff979a217
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png", TV Exitos  | DO
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+#EXTINF:-1,HD | Digital 15 | Do
+https://playback.akamaized.net/27456795_8268514_lsisad4cvwm55d2qmhx_1/segments/27456795_8268514_lsisad4cvwm55d2qmhx_1@628000p/media-up4rb8bg7_4438.ts?z=p&hdnts=exp=1656896400~acl=/27456795_8268514_lsisad4cvwm55d2qmhx_1/segments/27456795_8268514_lsisad4cvwm55d2qmhx_1@628000p*~hmac=c2188bd023615cfef02409dca250e00288762ad833cc592fe28519b7f584e863
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://i.imgur.com/TQMIFOD.png", Telecontacto Canal 57  | DO
 https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
 #EXTINF:-1 tvg-id="861" tvg-name="Cielo TV Cristiana" tvg-logo="https://www.m3u.cl/logo/861_Cielo_TV_Cristiana.png", Cielo TV Cristiana  | DO
@@ -24,7 +28,6 @@ https://acentotv01.streamprolive.com/hls/live.m3u8
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 #EXTINF:-1 tvg-id="711" tvg-name="Bajo Techo TV" tvg-logo="https://www.m3u.cl/logo/711_Bajo_Techo_TV.jpg", Bajo Techo TV  | DO
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="712" tvg-name="Bonao TV" tvg-logo="https://www.m3u.cl/logo/712_Bonao_TV.jpg", Bonao TV  | DO
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="713" tvg-name="Boreal Televisión" tvg-logo="https://www.m3u.cl/logo/713_Boreal_Television.jpg", Boreal Televisión  | DO

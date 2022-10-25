@@ -27,7 +27,7 @@ https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="712" tvg-name="Bonao TV" tvg-logo="https://www.m3u.cl/logo/712_Bonao_TV.jpg", Bonao TV  | DO
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="713" tvg-name="Boreal Televisión" tvg-logo="https://www.m3u.cl/logo/713_Boreal_Television.jpg", Boreal Televisión  | DO
-https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-id="715" tvg-name="Canal 25 Santiago" tvg-logo="https://www.m3u.cl/logo/715_Canal_25_Santiago.jpg", Canal 25 Santiago  | DO
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w897263989.m3u8
 #EXTINF:-1 tvg-id="714" tvg-name="Canal 4 RD" tvg-logo="https://www.m3u.cl/logo/714_Canal_4_RD.png", Canal 4 RD  | DO
@@ -63,7 +63,7 @@ https://ss2.domint.net:3236/stv_str/supertv55/chunklist_w1491112514.m3u8
 #EXTINF:-1 tvg-id="848" tvg-name="Tele Oriental Digital" tvg-logo="https://www.m3u.cl/logo/848_Tele_Oriental_Digital.png", Tele Oriental Digital  | DO
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="738" tvg-name="Teleantillas" tvg-logo="https://www.m3u.cl/logo/738_Teleantillas.jpg", Teleantillas  | DO
-https://stream-04.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2hoTGcvgBRyFe1zLRELrHztTHdMGusxywRI00JPh4gy0)/dm/3/x809r6i/d/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2kd7ov2BXnBTibHSw7CySsWfpvzHcGXrnYdM2CwBgPU9)/dm/3/x809r6i/d/live-0.m3u8
 #EXTINF:-1 tvg-id="739" tvg-name="Telecanal 12" tvg-logo="https://www.m3u.cl/logo/739_Telecanal_12.jpg", Telecanal 12  | DO
 https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="740" tvg-name="Telecanal 28" tvg-logo="https://www.m3u.cl/logo/740_Telecanal_28.jpg", Telecanal 28  | DO

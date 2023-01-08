@@ -63,13 +63,13 @@ https://ss2.domint.net:3236/stv_str/supertv55/chunklist_w1491112514.m3u8
 #EXTINF:-1 tvg-id="848" tvg-name="Tele Oriental Digital" tvg-logo="https://www.m3u.cl/logo/848_Tele_Oriental_Digital.png", Tele Oriental Digital  | DO
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="738" tvg-name="Teleantillas" tvg-logo="https://www.m3u.cl/logo/738_Teleantillas.jpg", Teleantillas  | DO
-https://stream-01.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2kJ6Xk1tZmxdYHAzl7tHq3_L_Zxysn0ppmVasv5al8aj)/dm/3/x809r6i/s/live-1.m3u8
+https://tunzilla.com/http://51.81.106.157:8084/hls/tantillas.m3u8
 #EXTINF:-1 tvg-id="739" tvg-name="Telecanal 12" tvg-logo="https://www.m3u.cl/logo/739_Telecanal_12.jpg", Telecanal 12  | DO
 https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="740" tvg-name="Telecanal 28" tvg-logo="https://www.m3u.cl/logo/740_Telecanal_28.jpg", Telecanal 28  | DO
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="741" tvg-name="Telecentro" tvg-logo="https://www.m3u.cl/logo/741_Telecentro.png", Telecentro  | DO
-https://playback.akamaized.net/streams/28126860_9438854_lsin9n8ekqzbwkr487q_1/media/28126860_9438854_lsin9n8ekqzbwkr487q_1@1628000p.m3u8?dw=14400&ts=1656723600&hdnts=exp=1656897861~acl=/streams/28126860_9438854_lsin9n8ekqzbwkr487q_1/media*~hmac=3d6adf99d4c3a39b6c211b5eb887a7ac36263c6c310beab733d14fa281f6ef9f
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/10501048/live
 #EXTINF:-1 tvg-id="742" tvg-name="Telecibao" tvg-logo="https://www.m3u.cl/logo/742_Telecibao.jpg", Telecibao  | DO
 https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="743" tvg-name="Telefuturo" tvg-logo="https://www.m3u.cl/logo/743_Telefuturo.png", Telefuturo  | DO
@@ -96,6 +96,12 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/manifest.m3u8
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTINF:-1 tvg-id="754" tvg-name="Antena Latina" tvg-logo="https://i.postimg.cc/4x6Zxw2m/antenalatina.jpg", Antena Latina  | DO
 https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7_270.m3u8
+#EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News",Antena 21 (360p)
+https://d3qhvst5vzq4y9.cloudfront.net/hls/canal21.m3u8
+#EXTINF:-1 tvg-id="TRA2.do" tvg-logo="https://i.imgur.com/iwJ42rD.png" group-title="News",TRA 2 (720p)
+https://live.teledom.info:3242/live/teleradiohdlive.m3u8
+#EXTINF:-1 tvg-id="TRANoticias.do" tvg-logo="https://i.imgur.com/M6ZhJqM.png" group-title="News",TRA Noticias
+https://live.teledom.info:3625/live/tra45live.m3u8
 #EXTINF:-1 tvg-id="755" tvg-name="Televisión del Este" tvg-logo="https://www.m3u.cl/logo/755_Television_del_Este.png", Televisión del Este  | DO
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="757" tvg-name="TV Montaña" tvg-logo="https://www.m3u.cl/logo/757_TV_Montana.jpg", TV Montaña  | DO

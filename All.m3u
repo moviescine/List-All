@@ -98,6 +98,8 @@ https://live.teledom.info:3625/live/tra45live.m3u8
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News",Antena 21 (360p)
 https://d3qhvst5vzq4y9.cloudfront.net/hls/canal21.m3u8
+#EXTINF:-1 tvg-id="710" tvg-name="Dreiko Tv" tvg-logo="https://platcon.tv/img/p/4/3/9/439-thickbox_default.jpg", Driko Tv  | PAN
+https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TRA2.do" tvg-logo="https://i.imgur.com/iwJ42rD.png" group-title="News",TRA 2 (720p)
 https://live.teledom.info:3242/live/teleradiohdlive.m3u8
 #EXTINF:-1 tvg-id="TRANoticias.do" tvg-logo="https://i.imgur.com/M6ZhJqM.png" group-title="News",TRA Noticias

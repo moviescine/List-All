@@ -30,10 +30,6 @@ https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
 https://streaming.servervideo.net:1936/cielotv/cielotv/chunklist_w835623951.m3u8
 #EXTINF:-1 tvg-id="853" tvg-name="La Fe Mueve Montanas" tvg-logo="https://www.m3u.cl/logo/853_La_Fe_Mueve_Montanas.png", La Fe Mueve Montanas  | DO
 https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="190" tvg-name="Urbancris TV" tvg-logo="https://www.m3u.cl/logo/190_Urbancris_TV.png", Urbancris TV  | DO
-https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="193" tvg-name="Urbancrist2 Worship" tvg-logo="https://www.m3u.cl/logo/193_Urbancrist2_Worship.png", Urbancrist2 Worship  | DO
-https://5790d294af2dc.streamlock.net:443/8090/8090/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="709" tvg-name="Acento TV" tvg-logo="https://www.m3u.cl/logo/709_Acento_TV.png", Acento TV  | DO
 https://stream-04.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOOWZ4AxJeMYLzlp5wK43HixdsJD93xhiJ-CZT9gTJHoT)/p/dm/3/x8dxadh/s/live-3.m3u8
 #EXTINF:-1 tvg-id="710" tvg-name="Amé" tvg-logo="https://www.m3u.cl/logo/710_Ame.jpg", Amé  | DO
@@ -102,8 +98,6 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-id="761" tvg-name="Vegavision Canal 18" tvg-logo="https://www.m3u.cl/logo/761_Vegavision_Canal_18.png", Vegavision Canal 18  | DO
 https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8
-#EXTINF:-1 tvg-id="762" tvg-name="Yunavision" tvg-logo="https://www.m3u.cl/logo/762_Yunavision.jpg", Yunavision  | DO
-https://ss9.domint.net:3036/yv_str/yunavision/chunklist_w1986034524.m3u8
 #EXTINF:-1 tvg-id="763" tvg-name="Zol 106.5 FM" tvg-logo="https://www.m3u.cl/logo/763_Zol_106_5_FM.jpg", Zol 106.5 FM  | DO
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-id="1106" tvg-name="ACS Network TV" tvg-logo="https://i2.paste.pics/f4e6f06a328814e84dd4da2c89843129.png", ACS Network TV | PR

@@ -21,18 +21,7 @@ https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="CDN" tvg-logo="https://i.postimg.cc/QVLGXWpQ/CDN-Canal-37.png", CDN | DO
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="CDN Deporte" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/07/cdn-deportes-online-cdn-sportmax-en-vivo.jpg", CDN Deporte | DO
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:561159639
-#EXT-X-PROGRAM-DATE-TIME:2023-05-07T17:01:57.831+00:00
-#EXTINF:4.004,
-media_b4628000_561159639.ts?p=79&s=1683478918&e=1683479518&h=30d4dabbd0d74fa643e15873a3e64a77
-#EXTINF:2.002,
-media_b4628000_561159640.ts?p=79&s=1683478918&e=1683479518&h=30d4dabbd0d74fa643e15873a3e64a77
-#EXTINF:3.103,
-media_b4628000_561159641.ts?p=79&s=1683478918&e=1683479518&h=30d4dabbd0d74fa643e15873a3e64a77
-
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/98c5ff12adca4abc9921e8e54f115092/chunklist_b4628000.m3u8?p=79&s=1683479353&e=1683479953&h=65619a1d981ec0bc16fd67fcbda11e59
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png", TV Exitos  | DO
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://i.imgur.com/TQMIFOD.png", Telecontacto Canal 57  | DO
@@ -41,8 +30,6 @@ https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
 https://streaming.servervideo.net:1936/cielotv/cielotv/chunklist_w835623951.m3u8
 #EXTINF:-1 tvg-id="853" tvg-name="La Fe Mueve Montanas" tvg-logo="https://www.m3u.cl/logo/853_La_Fe_Mueve_Montanas.png", La Fe Mueve Montanas  | DO
 https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="180" tvg-name="RVida TV" tvg-logo="https://www.m3u.cl/logo/180_RVida_TV.png", RVida TV  | DO
-https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="190" tvg-name="Urbancris TV" tvg-logo="https://www.m3u.cl/logo/190_Urbancris_TV.png", Urbancris TV  | DO
 https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="193" tvg-name="Urbancrist2 Worship" tvg-logo="https://www.m3u.cl/logo/193_Urbancrist2_Worship.png", Urbancrist2 Worship  | DO
@@ -68,17 +55,13 @@ https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="723" tvg-name="GH Television" tvg-logo="https://www.m3u.cl/logo/723_GH_Television.jpg", GH Television  | DO
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 #EXTINF:-1 tvg-id="726" tvg-name="Luna TV" tvg-logo="https://www.m3u.cl/logo/726_Luna_TV.png", Luna TV  | DO
-https://cdn4.hostlagarto.com:8081/static/lunatv/playlist.m3u8?PlaylistM3UCL
+https://streaming.ath.cx:1936/lunatv/lunatv/chunklist_w88341690.m3u8
 #EXTINF:-1 tvg-id="727" tvg-name="Megavision" tvg-logo="https://www.m3u.cl/logo/727_Megavision.png", Megavision  | DO
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="732" tvg-name="Ready TV" tvg-logo="https://www.m3u.cl/logo/732_Ready_TV.png", Ready TV  | DO
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="734" tvg-name="RNN" tvg-logo="https://www.m3u.cl/logo/734_RNN.png", RNN  | DO
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="735" tvg-name="Romana TV" tvg-logo="https://www.m3u.cl/logo/735_Romana_TV.jpg", Romana TV  | DO
 https://rctvhd.net:8081/tvoromanalive/index.m3u8
-#EXTINF:-1 tvg-id="736" tvg-name="Sport Vision" tvg-logo="https://www.m3u.cl/logo/736_Sport_Vision.jpg", Sport Vision  | DO
-https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/playlist.m3u8
 #EXTINF:-1 tvg-id="737" tvg-name="Super TV 55" tvg-logo="https://www.m3u.cl/logo/737_Super_TV_55.jpg", Super TV 55  | DO
 https://ss2.domint.net:3236/stv_str/supertv55/chunklist_w1491112514.m3u8
 #EXTINF:-1 tvg-id="848" tvg-name="Tele Oriental Digital" tvg-logo="https://www.m3u.cl/logo/848_Tele_Oriental_Digital.png", Tele Oriental Digital  | DO

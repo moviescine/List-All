@@ -21,7 +21,18 @@ https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="CDN" tvg-logo="https://i.postimg.cc/QVLGXWpQ/CDN-Canal-37.png", CDN | DO
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="CDN Deporte" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/07/cdn-deportes-online-cdn-sportmax-en-vivo.jpg", CDN Deporte | DO
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/98c5ff12adca4abc9921e8e54f115092/chunklist_b4628000.m3u8?p=79&s=1683476352&e=1683476952&h=86b07003f5ad28d7aa56e90b428c57e1
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:561159639
+#EXT-X-PROGRAM-DATE-TIME:2023-05-07T17:01:57.831+00:00
+#EXTINF:4.004,
+media_b4628000_561159639.ts?p=79&s=1683478918&e=1683479518&h=30d4dabbd0d74fa643e15873a3e64a77
+#EXTINF:2.002,
+media_b4628000_561159640.ts?p=79&s=1683478918&e=1683479518&h=30d4dabbd0d74fa643e15873a3e64a77
+#EXTINF:3.103,
+media_b4628000_561159641.ts?p=79&s=1683478918&e=1683479518&h=30d4dabbd0d74fa643e15873a3e64a77
+
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png", TV Exitos  | DO
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://i.imgur.com/TQMIFOD.png", Telecontacto Canal 57  | DO
@@ -37,13 +48,11 @@ https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="193" tvg-name="Urbancrist2 Worship" tvg-logo="https://www.m3u.cl/logo/193_Urbancrist2_Worship.png", Urbancrist2 Worship  | DO
 https://5790d294af2dc.streamlock.net:443/8090/8090/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="709" tvg-name="Acento TV" tvg-logo="https://www.m3u.cl/logo/709_Acento_TV.png", Acento TV  | DO
-https://acentotv01.streamprolive.com/hls/live.m3u8
+https://stream-04.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOOWZ4AxJeMYLzlp5wK43HixdsJD93xhiJ-CZT9gTJHoT)/p/dm/3/x8dxadh/s/live-3.m3u8
 #EXTINF:-1 tvg-id="710" tvg-name="Amé" tvg-logo="https://www.m3u.cl/logo/710_Ame.jpg", Amé  | DO
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 #EXTINF:-1 tvg-id="711" tvg-name="Bajo Techo TV" tvg-logo="https://www.m3u.cl/logo/711_Bajo_Techo_TV.jpg", Bajo Techo TV  | DO
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="712" tvg-name="Bonao TV" tvg-logo="https://www.m3u.cl/logo/712_Bonao_TV.jpg", Bonao TV  | DO
-https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="713" tvg-name="Boreal Televisión" tvg-logo="https://www.m3u.cl/logo/713_Boreal_Television.jpg", Boreal Televisión  | DO
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-id="718" tvg-name="Cinevision Canal 19" tvg-logo="https://www.m3u.cl/logo/718_Cinevision_Canal_19.jpg", Cinevision Canal 19  | DO
@@ -97,7 +106,7 @@ https://live.teledom.info:3625/live/tra45live.m3u8
 #EXTINF:-1 tvg-id="749" tvg-name="Teleradio Norte" tvg-logo="https://www.m3u.cl/logo/749_Teleradio_Norte.jpg", Teleradio Norte  | DO
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News",Antena 21 (360p)
-https://d3qhvst5vzq4y9.cloudfront.net/hls/canal21.m3u8
+https://d1coqlhpf8wrax.cloudfront.net/hls/canal21_360.m3u8
 #EXTINF:-1 tvg-id="710" tvg-name="Dreiko Tv" tvg-logo="https://platcon.tv/img/p/4/3/9/439-thickbox_default.jpg", Driko Tv  | PAN
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TRA2.do" tvg-logo="https://i.imgur.com/iwJ42rD.png" group-title="News",TRA 2 (720p)

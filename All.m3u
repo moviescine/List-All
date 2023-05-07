@@ -82,8 +82,8 @@ http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="745" tvg-name="Telenord 8" tvg-logo="https://www.m3u.cl/logo/745_Telenord_8.jpg", Telenord 8  | DO
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Telecontacto.do" tvg-logo="https://i.ytimg.com/vi/cdsVldEE6eg/hqdefault.jpg" group-title="Undefined",Telecontacto | DO
-https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
+#EXTINF:-1 tvg-id="770" tvg-logo="https://peru21.pe/resizer/WmZKc4ad05m59XR5uFUMkaAxUKI=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/GKBRM3Z6QJBLNKGMHDBNNW7RXA.jpg" group-title="Retro",Locomotion | DO
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="708" tvg-name="Telenovisa 43" tvg-logo="https://www.m3u.cl/logo/708_Telenovisa_43.png", Telenovisa 43  | DO
 http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="748" tvg-name="Teleradio America" tvg-logo="https://www.m3u.cl/logo/748_Teleradio_America.jpg", Teleradio America  | DO

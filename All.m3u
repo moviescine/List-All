@@ -64,14 +64,12 @@ https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
 https://rctvhd.net:8081/tvoromanalive/index.m3u8
 #EXTINF:-1 tvg-id="737" tvg-name="Super TV 55" tvg-logo="https://www.m3u.cl/logo/737_Super_TV_55.jpg", Super TV 55  | DO
 https://ss2.domint.net:3236/stv_str/supertv55/chunklist_w1491112514.m3u8
-#EXTINF:-1 tvg-id="848" tvg-name="Tele Oriental Digital" tvg-logo="https://www.m3u.cl/logo/848_Tele_Oriental_Digital.png", Tele Oriental Digital  | DO
-https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="739" tvg-name="Telecanal 12" tvg-logo="https://www.m3u.cl/logo/739_Telecanal_12.jpg", Telecanal 12  | DO
 https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="740" tvg-name="Telecanal 28" tvg-logo="https://www.m3u.cl/logo/740_Telecanal_28.jpg", Telecanal 28  | DO
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="742" tvg-name="Telecibao" tvg-logo="https://www.m3u.cl/logo/742_Telecibao.jpg", Telecibao  | DO
-https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8?PlaylistM3UCL
+https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
 #EXTINF:-1 tvg-id="743" tvg-name="Telefuturo" tvg-logo="https://www.m3u.cl/logo/743_Telefuturo.png", Telefuturo  | DO
 https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
 #EXTINF:-1 tvg-id="744" tvg-name="Telemilenio" tvg-logo="https://www.m3u.cl/logo/744_Telemilenio.png", Telemilenio  | DO
@@ -82,14 +80,10 @@ http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="745" tvg-name="Telenord 8" tvg-logo="https://www.m3u.cl/logo/745_Telenord_8.jpg", Telenord 8  | DO
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="770" tvg-logo="https://peru21.pe/resizer/WmZKc4ad05m59XR5uFUMkaAxUKI=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/GKBRM3Z6QJBLNKGMHDBNNW7RXA.jpg" group-title="Retro",Locomotion | DO
+#EXTINF:-1 tvg-id="770" tvg-logo="https://peru21.pe/resizer/WmZKc4ad05m59XR5uFUMkaAxUKI=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/GKBRM3Z6QJBLNKGMHDBNNW7RXA.jpg" group-title="Retro",Locomotion | Ar
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-id="708" tvg-name="Telenovisa 43" tvg-logo="https://www.m3u.cl/logo/708_Telenovisa_43.png", Telenovisa 43  | DO
-http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="748" tvg-name="Teleradio America" tvg-logo="https://www.m3u.cl/logo/748_Teleradio_America.jpg", Teleradio America  | DO
 https://live.teledom.info:3625/live/tra45live.m3u8
-#EXTINF:-1 tvg-id="749" tvg-name="Teleradio Norte" tvg-logo="https://www.m3u.cl/logo/749_Teleradio_Norte.jpg", Teleradio Norte  | DO
-https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News",Antena 21 (360p)
 https://d1coqlhpf8wrax.cloudfront.net/hls/canal21_360.m3u8
 #EXTINF:-1 tvg-id="710" tvg-name="Dreiko Tv" tvg-logo="https://platcon.tv/img/p/4/3/9/439-thickbox_default.jpg", Driko Tv  | PAN
@@ -100,8 +94,6 @@ https://live.teledom.info:3242/live/teleradiohdlive.m3u8
 https://live.teledom.info:3625/live/tra45live.m3u8
 #EXTINF:-1 tvg-id="755" tvg-name="Televisión del Este" tvg-logo="https://www.m3u.cl/logo/755_Television_del_Este.png", Televisión del Este  | DO
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="757" tvg-name="TV Montaña" tvg-logo="https://www.m3u.cl/logo/757_TV_Montana.jpg", TV Montaña  | DO
-https://ss5.domint.net:3064/tvm_str/montanatv/chunklist_w1733352446.m3u8
 #EXTINF:-1 tvg-id="758" tvg-name="TV Plata" tvg-logo="https://www.m3u.cl/logo/758_TV_Plata.jpg", TV Plata  | DO
 https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
 #EXTINF:-1 tvg-id="759" tvg-name="TVS TV" tvg-logo="https://www.m3u.cl/logo/759_TVS_TV.png", TVS TV  | DO

@@ -27,7 +27,7 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://i.imgur.com/TQMIFOD.png", Telecontacto Canal 57  | DO
 https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
 #EXTINF:-1 tvg-id="861" tvg-name="Cielo TV Cristiana" tvg-logo="https://www.m3u.cl/logo/861_Cielo_TV_Cristiana.png", Cielo TV Cristiana  | DO
-https://mycloudstream.akamaized.net/hls/live/2035990/ymty1j6r/1654571350463/tracks-v1a1/mono.m3u8
+https://streaming.servervideo.net:1936/cielotv/cielotv/chunklist_w835623951.m3u8
 #EXTINF:-1 tvg-id="853" tvg-name="La Fe Mueve Montanas" tvg-logo="https://www.m3u.cl/logo/853_La_Fe_Mueve_Montanas.png", La Fe Mueve Montanas  | DO
 https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="180" tvg-name="RVida TV" tvg-logo="https://www.m3u.cl/logo/180_RVida_TV.png", RVida TV  | DO

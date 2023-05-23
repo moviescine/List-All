@@ -102,8 +102,12 @@ https://lstv.duckdns.org:449/hls/stv.m3u8
 https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="782" tvg-name="FREE TV 8-2" tvg-logo="https://i.ibb.co/FHwmGPQ/FREEETEEEVV.jpg", FREE TV 8-2  | USA
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
-#EXTINF:-1 tvg-id="781" tvg-name="SEO TV-PELICULAS" tvg-logo="https://i.ibb.co/Lr8XYhg/SEEOOSPELIISIS.jpg", SEO TV-PELICULAS  | USA
+#EXTINF:-1 tvg-id="781" tvg-name="SEO TV-PELICULAS" tvg-logo="https://i.ibb.co/Lr8XYhg/SEEOOSPELIISIS.jpg", SEO TV-PELICULAS  | PAN
 https://seo.tv.bo/tv/q4PE.m3u8
+#EXTINF:-1 tvg-id="800" tvg-name="SEO TV-KIDS" tvg-logo="https://i.ibb.co/WVtSBrj/seo-tv-kids-bo.png", SEO TV-KIDS  | PAN
+https://list.iptvcat.com/my_list/s/c54bb3a4ae80419b1134e863ebb535d5.m3u8
+#EXTINF:-1 tvg-id="800" tvg-name="SEO TV-NOVELA" tvg-logo="https://i.ibb.co/m0Wm6LZ/seo-tv-novelas-bo.png", SEO TV-NOVELA | PAN
+https://list.iptvcat.com/my_list/s/4e407deee677c22ec68d69b33761140e.m3u8
 #EXTINF:-1 tvg-id="788" tvg-name="GRJNGO" tvg-logo="https://i.ibb.co/Y2z9Nrj/GRGGGAGS.jpg", GRJNGO  | USA
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="783" tvg-name="FLOU CARIBEÑO" tvg-logo="https://i.ibb.co/YQDSKYK/FLOOOWCARRIBEE.jpg", FLOU CARIBEÑO | DO

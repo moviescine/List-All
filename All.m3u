@@ -76,7 +76,7 @@ http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="745" tvg-name="Telenord 8" tvg-logo="https://www.m3u.cl/logo/745_Telenord_8.jpg", Telenord 8  | DO
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="770" tvg-logo="https://peru21.pe/resizer/WmZKc4ad05m59XR5uFUMkaAxUKI=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/GKBRM3Z6QJBLNKGMHDBNNW7RXA.jpg" group-title="Retro",Locomotion | Ar
+#EXTINF:-1 tvg-id="756" tvg-logo="https://i.ibb.co/HNxN9st/locomotion1-120550-preview-1083-545-white.png" group-title="Retro",Locomotion | Ar
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="748" tvg-name="Teleradio America" tvg-logo="https://www.m3u.cl/logo/748_Teleradio_America.jpg", Teleradio America  | DO
 https://live.teledom.info:3625/live/tra45live.m3u8
@@ -94,7 +94,7 @@ http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&Pl
 https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
 #EXTINF:-1 tvg-id="759" tvg-name="TVS TV" tvg-logo="https://www.m3u.cl/logo/759_TVS_TV.png", TVS TV  | DO
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="780" tvg-name="TleClasica Tv" tvg-logo="https://i.ibb.co/WKCghWS/318953392-152520087525070-763550339019320332-n.jpg", TeleClasica  | PA
+#EXTINF:-1 tvg-id="780" tvg-name="TeleClasica Tv" tvg-logo="https://i.ibb.co/WKCghWS/318953392-152520087525070-763550339019320332-n.jpg", TeleClasica  | PA
 https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8
 #EXTINF:-1 tvg-id="781" tvg-name="STV" tvg-logo="https://i.ibb.co/hC9SXdy/SAARRARASPIQIQQ.jpg", STV  | PA
 https://lstv.duckdns.org:449/hls/stv.m3u8
@@ -114,6 +114,8 @@ https://list.iptvcat.com/my_list/s/a4d4397b7325fdfd3a745a57219608d3.m3u8
 https://seo.tv.bo/tv/q1SEO.m3u8
 #EXTINF:-1 tvg-id="788" tvg-name="GRJNGO" tvg-logo="https://i.ibb.co/Y2z9Nrj/GRGGGAGS.jpg", GRJNGO  | USA
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="788" tvg-name="CINEMA RETRO" tvg-logo="https://i.ibb.co/2Yj4LCN/CINEEMAREET-1.jpg", CINEMA RETRO  | USA
+https://stream.ads.ottera.tv/cl/230523chml6hv4vpidnt363rsg/960x540_1927200_1_f.m3u8?i=475_4653&fstate=CgAQrSQaGjIzMDUyM2NobWw2aHY0dnBpZG50MzYzcnNnIosBaHR0cHM6Ly9vdi1tbC1kZWNvcmF0ZS5vdHRlcmEudHYvYXp0L2Npbi9jaW4ubTN1OD9kZXZpY2VfbW9kZWw9JmRldmljZV90eXBlPSZkZXZpY2VfbWFudWZhY3R1cmVyPSZkZXZpY2VfaWQ9JnBhcnRuZXI9JnBsYXRmb3JtPSZnZW9fcmVnaW9uPSoICgJpcBICZmgqCAoCdWESAmZoKigKCnNlc3Npb25faWQSGjIzMDUyM2NobWw2aHY0dnBpZG50MzYzcnNnKhAKAmNiEgoxNjg0ODg2MzQzKhgKE2xpbWl0ZWRfYWRfdHJhY2tpbmcSATAqCwoGaXNfbGF0EgExKgoKBWNvcHBhEgExMhUKDVBUX25ldHdvcmtfaWQSBDQ2NTMyDAoHUFRfYXZvZBIBMTINCghQVF9jb3BwYRIBMTIOCglQVF9pc19sYXQSATE4AkAC6gEEEAMYPA==
 #EXTINF:-1 tvg-id="783" tvg-name="FLOU CARIBEÑO" tvg-logo="https://i.ibb.co/YQDSKYK/FLOOOWCARRIBEE.jpg", FLOU CARIBEÑO | DO
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2b-63adf8eff3d69d1885731c06/variant.m3u8
 #EXTINF:-1 tvg-id="783" tvg-name="FLOU CINE" tvg-logo="https://i.ibb.co/x60WzrM/FLOOOUUCIIIEEE.jpg", FLOU CINE | LAT

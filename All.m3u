@@ -74,15 +74,13 @@ http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="745" tvg-name="Telenord 8" tvg-logo="https://www.m3u.cl/logo/745_Telenord_8.jpg", Telenord 8  | DO
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="748" tvg-name="Teleradio America" tvg-logo="https://www.m3u.cl/logo/748_Teleradio_America.jpg", Teleradio America  | DO
-https://live.teledom.info:3625/live/tra45live.m3u8
 #EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News",Antena 21 | DO
 https://d1coqlhpf8wrax.cloudfront.net/hls/canal21_360.m3u8
 #EXTINF:-1 tvg-id="755" tvg-name="Televisión del Este" tvg-logo="https://www.m3u.cl/logo/755_Television_del_Este.png", Televisión del Este  | DO
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="TRA2.do" tvg-logo="https://i.imgur.com/iwJ42rD.png" group-title="News",TRA 2 | DO
 https://live.teledom.info:3242/live/teleradiohdlive.m3u8
-#EXTINF:-1 tvg-id="TRANoticias.do" tvg-logo="https://i.imgur.com/M6ZhJqM.png" group-title="News",TRA Noticias
+#EXTINF:-1 tvg-id="TRANoticias.do" tvg-logo="https://i.imgur.com/M6ZhJqM.png" group-title="News",TRA Noticias | DO
 https://live.teledom.info:3625/live/tra45live.m3u8
 #EXTINF:-1 tvg-id="758" tvg-name="TV Plata" tvg-logo="https://www.m3u.cl/logo/758_TV_Plata.jpg", TV Plata  | DO
 https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
@@ -102,7 +100,7 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2b-63adf8eff3d69d1885731c06/variant.m3u8
 #EXTINF:-1 tvg-id="710" tvg-name="Dreiko Tv" tvg-logo="https://platcon.tv/img/p/4/3/9/439-thickbox_default.jpg", Dreiko Tv  | PAN
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="756" tvg-logo="https://i.ibb.co/HNxN9st/locomotion1-120550-preview-1083-545-white.png" group-title="Retro",Locomotion | Ar
+#EXTINF:-1 tvg-id="756" tvg-logo="https://i.ibb.co/HNxN9st/locomotion1-120550-preview-1083-545-white.png" group-title="Retro",Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="780" tvg-name="TeleClasica Tv" tvg-logo="https://i.ibb.co/WKCghWS/318953392-152520087525070-763550339019320332-n.jpg", TeleClasica  | PA
 https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8
@@ -144,19 +142,19 @@ https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="0003" tvg-name="Citrustv" tvg-logo="https://static.wixstatic.com/media/ee77a7_19c9a584fe7a48858e56e66b246146a7~mv2.png/v1/fill/w_600,h_232,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png", Citrustv  | PAN
 https://5fa5de1a545ae.streamlock.net/8024/8024/chunklist_w1471256235.m3u8
-#EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro | AR
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
-#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 (720p)
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 | LAT
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroMagico.ar" tvg-logo="https://i.imgur.com/jh1VknJ.png" group-title="Entertainment",RetroMágico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Animation;Classic;Kids",Xtrema Retro Cartoons (360p)
+#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Animation;Classic;Kids",Xtrema Retro Cartoons | LAT
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaRetroSeries.ar" tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="Classic;Series",Xtrema Retro Series (360p)
+#EXTINF:-1 tvg-id="XtremaRetroSeries.ar" tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="Classic;Series",Xtrema Retro Series | LAT
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVBobEsponja.us" tvg-logo="https://i.imgur.com/npxaOtl.png" group-title="Kids",Pluto TV Bob Esponja (720p)
+#EXTINF:-1 tvg-id="PlutoTVBobEsponja.us" tvg-logo="https://i.imgur.com/npxaOtl.png" group-title="Kids",Pluto TV Bob Esponja | LAT
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVKidsSpain.es" tvg-logo="https://i.imgur.com/eilI830.png" group-title="Kids",Pluto TV Kids (720p)
+#EXTINF:-1 tvg-id="PlutoTVKidsSpain.es" tvg-logo="https://i.imgur.com/eilI830.png" group-title="Kids",Pluto TV Kids | LAT
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9b648e738977e2c312131&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=30292edb-0714-11eb-97af-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVToonsClasicoSpain.es" tvg-logo="https://i.imgur.com/gQcuJSE.png" group-title="Kids",Pluto TV Toons Clásico (720p)
+#EXTINF:-1 tvg-id="PlutoTVToonsClasicoSpain.es" tvg-logo="https://i.imgur.com/gQcuJSE.png" group-title="Kids",Pluto TV Toons Clásico | LAT
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS

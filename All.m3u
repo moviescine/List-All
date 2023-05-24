@@ -11,7 +11,7 @@ https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1882494547.m3u
 #EXTINF:-1 tvg-id="Telesistema.do" tvg-logo="https://i.imgur.com/XVcUUy3.png" group-title="Undefined",Telesistema | DO
 https://tunzilla.com/http://51.81.93.239:8084/hls/tsistemas.m3u8
 #EXTINF:-1 tvg-id="Telecentro.do" tvg-logo="https://i.imgur.com/Spp8rQs.png" group-title="Undefined",Telecentro | DO
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/10501048/live
+https://player-api.new.livestream.com/accounts/27456795/events/10234042/broadcasts/236313640.secure.m3u8?dw=14400&hdnea=st%3D1684888705~exp%3D1684890505~acl%3D%2Fi%2F27456795_10234042_lsibq4e5y3948uv8id4_1%40408644%2F%2A~hmac%3D1563e27b2a8ad0199cbe585b296ea83430be22905e2a00cf0e50747040204140&token=646d5dad_6e978c4332bcdb2effac3f72fb4e2749d34f35c1
 #EXTINF:-1 tvg-id="Digital15.do" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Undefined",Digital 15 | DO
 https://player-api.new.livestream.com/accounts/27456795/events/10234042/broadcasts/236313640.secure.m3u8?dw=14400&hdnea=st%3D1684888705~exp%3D1684890505~acl%3D%2Fi%2F27456795_10234042_lsibq4e5y3948uv8id4_1%40408644%2F%2A~hmac%3D1563e27b2a8ad0199cbe585b296ea83430be22905e2a00cf0e50747040204140&token=646d5dad_6e978c4332bcdb2effac3f72fb4e2749d34f35c1
 #EXTINF:-1 tvg-id="751" tvg-name="Teleunion" tvg-logo="https://www.m3u.cl/logo/751_Teleunion.jpg", Teleunion  | DO

@@ -74,24 +74,36 @@ http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="745" tvg-name="Telenord 8" tvg-logo="https://www.m3u.cl/logo/745_Telenord_8.jpg", Telenord 8  | DO
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="756" tvg-logo="https://i.ibb.co/HNxN9st/locomotion1-120550-preview-1083-545-white.png" group-title="Retro",Locomotion | Ar
-http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="748" tvg-name="Teleradio America" tvg-logo="https://www.m3u.cl/logo/748_Teleradio_America.jpg", Teleradio America  | DO
 https://live.teledom.info:3625/live/tra45live.m3u8
-#EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News",Antena 21 (360p)
+#EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News",Antena 21 | DO
 https://d1coqlhpf8wrax.cloudfront.net/hls/canal21_360.m3u8
-#EXTINF:-1 tvg-id="710" tvg-name="Dreiko Tv" tvg-logo="https://platcon.tv/img/p/4/3/9/439-thickbox_default.jpg", Driko Tv  | PAN
-https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TRA2.do" tvg-logo="https://i.imgur.com/iwJ42rD.png" group-title="News",TRA 2 (720p)
+#EXTINF:-1 tvg-id="755" tvg-name="Televisión del Este" tvg-logo="https://www.m3u.cl/logo/755_Television_del_Este.png", Televisión del Este  | DO
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="TRA2.do" tvg-logo="https://i.imgur.com/iwJ42rD.png" group-title="News",TRA 2 | DO
 https://live.teledom.info:3242/live/teleradiohdlive.m3u8
 #EXTINF:-1 tvg-id="TRANoticias.do" tvg-logo="https://i.imgur.com/M6ZhJqM.png" group-title="News",TRA Noticias
 https://live.teledom.info:3625/live/tra45live.m3u8
-#EXTINF:-1 tvg-id="755" tvg-name="Televisión del Este" tvg-logo="https://www.m3u.cl/logo/755_Television_del_Este.png", Televisión del Este  | DO
-http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="758" tvg-name="TV Plata" tvg-logo="https://www.m3u.cl/logo/758_TV_Plata.jpg", TV Plata  | DO
 https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
 #EXTINF:-1 tvg-id="759" tvg-name="TVS TV" tvg-logo="https://www.m3u.cl/logo/759_TVS_TV.png", TVS TV  | DO
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="790" tvg-name="VISIÓN TV" tvg-logo="https://i.ibb.co/2N6L2tR/VISIIOASA.jpg", VISIÓN TV | DO
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 tvg-id="784" tvg-name="WU TANG TV" tvg-logo="https://i.ibb.co/JcPH40g/EUUEUWUUTANN.jpg", WU TANG TV | DO
+https://d1nk51nnze0twt.cloudfront.net/073d17d8-fcc5-4967-af3b-a82786bdb5f0/stream_1/data0359.ts
+#EXTINF:-1 tvg-id="760" tvg-name="Vallevisión" tvg-logo="https://www.m3u.cl/logo/760_Vallevision.png", Vallevisión  | DO
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 tvg-id="761" tvg-name="Vegavision Canal 18" tvg-logo="https://www.m3u.cl/logo/761_Vegavision_Canal_18.png", Vegavision Canal 18  | DO
+https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8
+#EXTINF:-1 tvg-id="763" tvg-name="Zol 106.5 FM" tvg-logo="https://www.m3u.cl/logo/763_Zol_106_5_FM.jpg", Zol 106.5 FM  | DO
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
+#EXTINF:-1 tvg-id="783" tvg-name="FLOU CARIBEÑO" tvg-logo="https://i.ibb.co/YQDSKYK/FLOOOWCARRIBEE.jpg", FLOU CARIBEÑO | DO
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2b-63adf8eff3d69d1885731c06/variant.m3u8
+#EXTINF:-1 tvg-id="710" tvg-name="Dreiko Tv" tvg-logo="https://platcon.tv/img/p/4/3/9/439-thickbox_default.jpg", Dreiko Tv  | PAN
+https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="756" tvg-logo="https://i.ibb.co/HNxN9st/locomotion1-120550-preview-1083-545-white.png" group-title="Retro",Locomotion | Ar
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="780" tvg-name="TeleClasica Tv" tvg-logo="https://i.ibb.co/WKCghWS/318953392-152520087525070-763550339019320332-n.jpg", TeleClasica  | PA
 https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8
 #EXTINF:-1 tvg-id="781" tvg-name="STV" tvg-logo="https://i.ibb.co/hC9SXdy/SAARRARASPIQIQQ.jpg", STV  | PA
@@ -114,33 +126,21 @@ https://seo.tv.bo/tv/q1SEO.m3u8
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="788" tvg-name="CINEMA RETRO" tvg-logo="https://i.ibb.co/2Yj4LCN/CINEEMAREET-1.jpg", CINEMA RETRO  | USA
 https://stream.ads.ottera.tv/cl/230523chml6hv4vpidnt363rsg/960x540_1927200_1_f.m3u8?i=475_4653&fstate=CgAQrSQaGjIzMDUyM2NobWw2aHY0dnBpZG50MzYzcnNnIosBaHR0cHM6Ly9vdi1tbC1kZWNvcmF0ZS5vdHRlcmEudHYvYXp0L2Npbi9jaW4ubTN1OD9kZXZpY2VfbW9kZWw9JmRldmljZV90eXBlPSZkZXZpY2VfbWFudWZhY3R1cmVyPSZkZXZpY2VfaWQ9JnBhcnRuZXI9JnBsYXRmb3JtPSZnZW9fcmVnaW9uPSoICgJpcBICZmgqCAoCdWESAmZoKigKCnNlc3Npb25faWQSGjIzMDUyM2NobWw2aHY0dnBpZG50MzYzcnNnKhAKAmNiEgoxNjg0ODg2MzQzKhgKE2xpbWl0ZWRfYWRfdHJhY2tpbmcSATAqCwoGaXNfbGF0EgExKgoKBWNvcHBhEgExMhUKDVBUX25ldHdvcmtfaWQSBDQ2NTMyDAoHUFRfYXZvZBIBMTINCghQVF9jb3BwYRIBMTIOCglQVF9pc19sYXQSATE4AkAC6gEEEAMYPA==
-#EXTINF:-1 tvg-id="783" tvg-name="FLOU CARIBEÑO" tvg-logo="https://i.ibb.co/YQDSKYK/FLOOOWCARRIBEE.jpg", FLOU CARIBEÑO | DO
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2b-63adf8eff3d69d1885731c06/variant.m3u8
 #EXTINF:-1 tvg-id="783" tvg-name="FLOU CINE" tvg-logo="https://i.ibb.co/x60WzrM/FLOOOUUCIIIEEE.jpg", FLOU CINE | LAT
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/41549d29-c359-4bc2-83c2-35054de8e016/1.m3u8
-#EXTINF:-1 tvg-id="790" tvg-name="VISIÓN TV" tvg-logo="https://i.ibb.co/2N6L2tR/VISIIOASA.jpg", VISIÓN TV | DO
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-#EXTINF:-1 tvg-id="784" tvg-name="WU TANG TV" tvg-logo="https://i.ibb.co/JcPH40g/EUUEUWUUTANN.jpg", WU TANG TV | DO
-https://d1nk51nnze0twt.cloudfront.net/073d17d8-fcc5-4967-af3b-a82786bdb5f0/stream_1/data0359.ts
-#EXTINF:-1 tvg-id="760" tvg-name="Vallevisión" tvg-logo="https://www.m3u.cl/logo/760_Vallevision.png", Vallevisión  | DO
-https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-#EXTINF:-1 tvg-id="761" tvg-name="Vegavision Canal 18" tvg-logo="https://www.m3u.cl/logo/761_Vegavision_Canal_18.png", Vegavision Canal 18  | DO
-https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8
-#EXTINF:-1 tvg-id="763" tvg-name="Zol 106.5 FM" tvg-logo="https://www.m3u.cl/logo/763_Zol_106_5_FM.jpg", Zol 106.5 FM  | DO
-https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-id="1106" tvg-name="ACS Network TV" tvg-logo="https://i2.paste.pics/f4e6f06a328814e84dd4da2c89843129.png", ACS Network TV | PR
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CHHb8C2/unnamed-1.png" group-title="Undefined",Rakuten TV Family Spain (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CHHb8C2/unnamed-1.png" group-title="Undefined",Rakuten TV Family Spain | ES
 https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTV Action Movies Spain" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten Action Movies Spain (720p)
+#EXTINF:-1 tvg-id="RakutenTV Action Movies Spain" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten Action Movies Spain | ES
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Rakuten TV Comedy Movies Spain" tvg-logo="https://i.imgur.com/H08jcJi.png" group-title="Movies",Rakuten Comedy Movies
+#EXTINF:-1 tvg-id="Rakuten TV Comedy Movies Spain" tvg-logo="https://i.imgur.com/H08jcJi.png" group-title="Movies",Rakuten Comedy Movies | ES
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CHHb8C2/unnamed-1.png" group-title="Undefined",Rakuten Top Free Spain (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CHHb8C2/unnamed-1.png" group-title="Undefined",Rakuten Top Free Spain | ES
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Rakuten TV SpotlightSpain" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Movies",Rakuten Spotlight Spain (720p)
+#EXTINF:-1 tvg-id="Rakuten TV SpotlightSpain" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Movies",Rakuten Spotlight Spain | ES
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CHHb8C2/unnamed-1.png" group-title="Undefined",Rakuten TV Shows Spain (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CHHb8C2/unnamed-1.png" group-title="Undefined",Rakuten TV Shows Spain | ES
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="0003" tvg-name="Citrustv" tvg-logo="https://static.wixstatic.com/media/ee77a7_19c9a584fe7a48858e56e66b246146a7~mv2.png/v1/fill/w_600,h_232,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png", Citrustv  | PAN
 https://5fa5de1a545ae.streamlock.net/8024/8024/chunklist_w1471256235.m3u8

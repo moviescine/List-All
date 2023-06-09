@@ -89,7 +89,7 @@ https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
 #EXTINF:-1 tvg-id="759" tvg-name="TVS TV" tvg-logo="https://www.m3u.cl/logo/759_TVS_TV.png", TVS TV  | DO
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="759" tvg-name="MI TV CLASICA" tvg-logo="https://mi-television.com/img/imagen-final-2_orig.png", MI TV CLASICA  | USA
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?nimblesessionid=0
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?nimblesessionid=205849983
 #EXTINF:-1 tvg-id="790" tvg-name="VISIÓN TV" tvg-logo="https://i.ibb.co/2N6L2tR/VISIIOASA.jpg", VISIÓN TV | DO
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="784" tvg-name="WU TANG TV" tvg-logo="https://i.ibb.co/JcPH40g/EUUEUWUUTANN.jpg", WU TANG TV | DO

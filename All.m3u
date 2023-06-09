@@ -89,7 +89,7 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="790" tvg-name="VISIÓN TV" tvg-logo="https://i.ibb.co/2N6L2tR/VISIIOASA.jpg", VISIÓN TV | DO
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="784" tvg-name="WU TANG TV" tvg-logo="https://i.ibb.co/JcPH40g/EUUEUWUUTANN.jpg", WU TANG TV | DO
-https://d1nk51nnze0twt.cloudfront.net/513d902f-ce7b-49d2-b29c-7a05e9437644/stream_1/data0252.ts
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2b-63c99b835feb7b9655cb196f/variant.m3u8?url=ad189becd69fd4daad1857d4773e83f5-1afc0b5aacf3bcae115f99a8f80b5b1e10d943957eea6f317512326a73e2d73d744f2a1427625191cecc1d4c63496b83aae54d3ec5f4e0ea3350489c4c1cc982cc843c661a409218c4fb2508f2d0d1a614c65d084f5ef6e91ea3adaae3a1e3f198f7105c9eb4fe4ecd8a797a06440dcb9d05edc7c46028b6ee5f07b0c05f7c4d1a265a6f8c5be46a536ed27a00cb4a6f9fbc5a281887defc109abe403d4f4f54&x-plex-token=rG1syZ7jsQnPs9hYqpRS&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1686350009
 #EXTINF:-1 tvg-id="760" tvg-name="Vallevisión" tvg-logo="https://www.m3u.cl/logo/760_Vallevision.png", Vallevisión  | DO
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-id="761" tvg-name="Vegavision Canal 18" tvg-logo="https://www.m3u.cl/logo/761_Vegavision_Canal_18.png", Vegavision Canal 18  | DO

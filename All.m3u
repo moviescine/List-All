@@ -92,6 +92,8 @@ https://video20.klm99.com:3558/live/teleredlive.m3u8
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="759" tvg-name="MI TV CLASICA" tvg-logo="https://mi-television.com/img/imagen-final-2_orig.png", MI TV CLASICA  | USA
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:-1 tvg-id="759" tvg-name="CLASICOS RUN TIME" tvg-logo="https://https://i.ibb.co/0FsjPdv/IUEIOLLO.png", CLASICOS RUN TIME  | USA
+https://run-cl-es.otteravision.com/run/cl_es/cl_es_720.m3u8
 #EXTINF:-1 tvg-id="790" tvg-name="VISIÓN TV" tvg-logo="https://i.ibb.co/2N6L2tR/VISIIOASA.jpg", VISIÓN TV | DO
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="784" tvg-name="WU TANG TV" tvg-logo="https://i.ibb.co/JcPH40g/EUUEUWUUTANN.jpg", WU TANG TV | DO

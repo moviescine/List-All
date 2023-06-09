@@ -89,7 +89,7 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="790" tvg-name="VISIÓN TV" tvg-logo="https://i.ibb.co/2N6L2tR/VISIIOASA.jpg", VISIÓN TV | DO
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="784" tvg-name="WU TANG TV" tvg-logo="https://i.ibb.co/JcPH40g/EUUEUWUUTANN.jpg", WU TANG TV | DO
-https://d1nk51nnze0twt.cloudfront.net/073d17d8-fcc5-4967-af3b-a82786bdb5f0/stream_1/data0359.ts
+https://d1nk51nnze0twt.cloudfront.net/513d902f-ce7b-49d2-b29c-7a05e9437644/stream_1/data0252.ts
 #EXTINF:-1 tvg-id="760" tvg-name="Vallevisión" tvg-logo="https://www.m3u.cl/logo/760_Vallevision.png", Vallevisión  | DO
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-id="761" tvg-name="Vegavision Canal 18" tvg-logo="https://www.m3u.cl/logo/761_Vegavision_Canal_18.png", Vegavision Canal 18  | DO
@@ -97,7 +97,7 @@ https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8
 #EXTINF:-1 tvg-id="763" tvg-name="Zol 106.5 FM" tvg-logo="https://www.m3u.cl/logo/763_Zol_106_5_FM.jpg", Zol 106.5 FM  | DO
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-id="783" tvg-name="FLOU CARIBEÑO" tvg-logo="https://i.ibb.co/YQDSKYK/FLOOOWCARRIBEE.jpg", FLOU CARIBEÑO | DO
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2b-63adf8eff3d69d1885731c06/variant.m3u8
+https://amg01768-flou-floucaribesalatv-salatv-ix7h2.amagi.tv/playlist/amg01768-flou-floucaribesalatv-salatv/cb563d177b6c6c8a84cd3d78d5f262ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec58a96852db80148b6f4adafb8c2360625f5c98435ee3b24aa6ffe55b17dc68a6ac1c4f942a58e683179cc915e9d686469e41d522f416cfc3f28dda46e01ba059846f3ec0bf39581fbdaf3be1ed52bbd394603a9d7f68741b45f3a19ff74d4efe2d2172d98f063bf89d69a3a72a93743ffb21954a9639896ad048cf33b615ccc9a5714037b0cd5a6628e0e1a5caf73a20fd45faa0e8d17f798bf9073a07a1bb20974a4af2af9e6ef1f30799a02a8bb7601c78c49405a89cbc97e6b18a45d645988c9cec4c3a085061c1940e82e35668f55e0c65ffb36b296c49a8885cc787966d316c5b89bf7adb1e12b7dc84b9126f51c54d1440e16cd55a4a3982642c34d224f79e337b9a6624b1756cab1665db02cbb122a3f380a51e6de1978763ef7fe3b03dd7f429a079730c51e4bc7f09050456f8da4b217c39cf4cefd68ac6720a0be3be8dddc841370a3c58035ddfacb73ecbc090692e17c75234693b4544c14a853fad75236a19c010d7a31e67c557715f81890b1d0b3cd898cbc2edb0ed4bba78dfca87490c334b6cb036456b2ee4bf835df22f583c1d79851c6f57b2175021bbc79bfbab8b6fec44c88a28dfb2fd021b220d/122/1280x720_2657019/index.m3u8
 #EXTINF:-1 tvg-id="710" tvg-name="Dreiko Tv" tvg-logo="https://platcon.tv/img/p/4/3/9/439-thickbox_default.jpg", Dreiko Tv  | PAN
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="756" tvg-logo="https://i.ibb.co/HNxN9st/locomotion1-120550-preview-1083-545-white.png" group-title="Retro",Locomotion | AR

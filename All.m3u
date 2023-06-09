@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="714" tvg-name="Canal 4 RD" tvg-logo="https://www.m3u.cl/logo/714_Canal_4_RD.png", Canal 4 RD  | DO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w690074025_b3203072.m3u8
 #EXTINF:-1 tvg-id="Telemicro" tvg-logo="https://i.ibb.co/mN7P5Sd/Logo-Creation.jpg" group-title="Undefined", Telemicro 5 | DO
-https://playback.akamaized.net/streams/27456795_10633798_lsimuhnmkgwr0c67fo1_1/media/27456795_10633798_lsimuhnmkgwr0c67fo1_1@2756000p.m3u8?dw=14400&ts=1684886400&hdnts=exp=1685061008~acl=/streams/27456795_10633798_lsimuhnmkgwr0c67fo1_1/media*~hmac=8430c00a18398f1f20444604903912d3eae81bdfeef16f5c7bfd6f1391875129
+https://playback.akamaized.net/streams/27456795_10633780_lsijrv6xom6f5y5wq3t_1/media/27456795_10633780_lsijrv6xom6f5y5wq3t_1@5256000p.m3u8?dw=14400&ts=1686348000&hdnts=exp=1686521433~acl=/streams/27456795_10633780_lsijrv6xom6f5y5wq3t_1/media*~hmac=e7072704c314d5386dd4d51abddef57c7eeb6675bec6b0f48f6ea1a2ecb7f688
 #EXTINF:-1 tvg-id="754" tvg-name="Antena Latina" tvg-logo="https://i.postimg.cc/4x6Zxw2m/antenalatina.jpg", Antena Latina  | DO
 https://d1coqlhpf8wrax.cloudfront.net/hls/antena7_360.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="Color Vision" tvg-logo="https://i.ibb.co/b5NZGjB/unnamed-2.png", Color Vision | DO

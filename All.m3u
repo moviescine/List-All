@@ -96,6 +96,8 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 https://run-cl-es.otteravision.com/run/cl_es/cl_es_720.m3u8
 #EXTINF:-1 tvg-id="759" tvg-name="COMEDIA RUNTIME" tvg-logo="https://i.ibb.co/HYYw7v0/ICJJJKAJ.png", COMEDIA RUNTIME  | USA
 https://stream.ads.ottera.tv/cl/230610ci1umn2753pr03jang80/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 tvg-id="759" tvg-name="FAMILIA RUNTIME" tvg-logo="https://i.ibb.co/8jXJMp7/KSKKSKKSAPPP.png", FAMILIA RUNTIME  | USA
+https://stream.ads.ottera.tv/cl/230610ci1umn2753pr03jang80/1280x720_3071200_0_f.m3u8
 #EXTINF:-1 tvg-id="790" tvg-name="VISIÓN TV" tvg-logo="https://i.ibb.co/2N6L2tR/VISIIOASA.jpg", VISIÓN TV | DO
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="784" tvg-name="WU TANG TV" tvg-logo="https://i.ibb.co/JcPH40g/EUUEUWUUTANN.jpg", WU TANG TV | DO

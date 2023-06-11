@@ -23,7 +23,7 @@ https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="CDN" tvg-logo="https://i.postimg.cc/QVLGXWpQ/CDN-Canal-37.png", CDN | DO
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="CDN Deporte" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/07/cdn-deportes-online-cdn-sportmax-en-vivo.jpg", CDN Deporte | DO
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/98c5ff12adca4abc9921e8e54f115092/chunklist_b4628000.m3u8?p=79&s=1686494578&e=0=f9f3b6b60a1a8ea36ef790ac121ebf67
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/98c5ff12adca4abc9921e8e54f115092/chunklist_b4628000.m3u8?p=0&s=0&e=0&h=f9f3b6b60a1a8ea36ef790ac121ebf67
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png", TV Exitos  | DO
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="La Voz de Maria Tv" tvg-logo="https://pbs.twimg.com/profile_images/1429155252/LVM___4_0000_400x400.png", La Voz de Maria Tv  | DO

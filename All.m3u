@@ -123,15 +123,15 @@ https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8
 #EXTINF:-1 tvg-id="781" tvg-name="STV" tvg-logo="https://i.ibb.co/hC9SXdy/SAARRARASPIQIQQ.jpg", STV  | PA
 https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1 tvg-id="781" tvg-name="RETROX TV" tvg-logo="https://i.ibb.co/7b7f86S/REEETXSSSA.jpg", RETROX TV  | PA
-https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/chunklist.m3u8
+https://tgn.bozztv.com/ssh101/ssh101/123456789/chunks.m3u8
 #EXTINF:-1 tvg-id="782" tvg-name="FREE TV 8-2" tvg-logo="https://i.ibb.co/FHwmGPQ/FREEETEEEVV.jpg", FREE TV 8-2  | USA
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
 #EXTINF:-1 tvg-id="781" tvg-name="SEO TV-PELICULAS" tvg-logo="https://i.ibb.co/Lr8XYhg/SEEOOSPELIISIS.jpg", SEO TV-PELICULAS  | PAN
-https://live.seo.tv.bo/live/4SEO.m3u8
+https://live.seo.tv.bo/live/SEO-4.m3u8
 #EXTINF:-1 tvg-id="800" tvg-name="SEO TV-KIDS" tvg-logo="https://i.ibb.co/WVtSBrj/seo-tv-kids-bo.png", SEO TV-KIDS  | PAN
-https://live.seo.tv.bo/live/2SEO.m3u8
+https://live.seo.tv.bo/live/SEO-2.m3u8
 #EXTINF:-1 tvg-id="800" tvg-name="SEO TV-NOVELA" tvg-logo="https://i.ibb.co/m0Wm6LZ/seo-tv-novelas-bo.png", SEO TV-NOVELA | PAN
-https://live.seo.tv.bo/live/3SEO.m3u8
+https://live.seo.tv.bo/live/SEO-3.m3u8
 #EXTINF:-1 tvg-id="805" tvg-name="RETROCRUSH" tvg-logo="https://i.ibb.co/q06crZN/unnamed.png[/img", RETROCRUSH | PAN
 https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/cb563d177b6c6c8a84cd3d78d5f262c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d177d8498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d469fb294757ec5d3a02338ebc5bb0765ac280178a7e7cdeb0d46568294756ce0e55b3f15ef2fbe65a13d24d9b8b590bfa6f07bec4139a9d3e88bae55b9460bc4aa640ddd09fd88c4ec1d3cf278b64885559024917fd877d83db2fd5b0fb390b5110423b76891215f2842c18a9053178f7f2c2b16cfc12c0c917847022b90c914cf648e0098428d72cca3dcfc1b26c4e2bb0cc1b402aa5f7a989fa4f72d5b4031788af094f98f8007146ce6298262e789cf2d854a7c21797ba2f80a6660e7a80f9936328d3f18de2d830e915d8c8e291334147624406831d919b63cf20dc7fa7847373172530dce213f7e31a4c634236bd33825767d6887bc1f6fe033ed869185ba753d8551163f3106371ec23fe95069ce84c3aa83a27f25439810da9f67cb5efecec083fbac9d402d15bafe45a9ca659e95a355754e7a96c4713182690fc705761299a0bb49a8ac6720a0be3b89fae910368566946122a82f0e27694968f784c428f0354151e7a209f0ad266c81309517ebb79fd984925d5487157a3cd587055769fc4bd80fda7ec4da77ad5c0e579627b6e6ab3370a317d91d1a95cee335f716a57e35e341b32d39f4c25781d2a0f9269cc69943625/108/640x360_1020588/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fwww.retrocrush.tv%2F
 #EXTINF:-1 tvg-id="800" tvg-name="SEO TV" tvg-logo="https://i.ibb.co/r7JygDp/descarga.jpg", SEO TV | PAN
@@ -143,7 +143,7 @@ https://stream.ads.ottera.tv/cl/230611ci2unl0gv6tlo0j3fk7g/1280x720_3071200_0_f.
 #EXTINF:-1 tvg-id="783" tvg-name="FLOU CINE" tvg-logo="https://i.ibb.co/x60WzrM/FLOOOUUCIIIEEE.jpg", FLOU CINE | LAT
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/41549d29-c359-4bc2-83c2-35054de8e016/1.m3u8
 #EXTINF:-1 tvg-id="1106" tvg-name="ACS Network TV" tvg-logo="https://i2.paste.pics/f4e6f06a328814e84dd4da2c89843129.png", ACS Network TV | PR
-https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w556318719.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CHHb8C2/unnamed-1.png" group-title="Undefined",Rakuten TV Family Spain | ES
 https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTV Action Movies Spain" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten Action Movies Spain | ES

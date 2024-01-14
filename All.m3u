@@ -1,15 +1,15 @@
 #EXTINF:-1 tvg-id="714" tvg-name="Canal 4 RD" tvg-logo="https://www.m3u.cl/logo/714_Canal_4_RD.png", Canal 4 RD  | DO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w690074025_b3203072.m3u8
 #EXTINF:-1 tvg-id="Telemicro" tvg-logo="https://i.ibb.co/mN7P5Sd/Logo-Creation.jpg" group-title="Undefined", Telemicro 5 | DO
-https://playback.akamaized.net/streams/27456795_10633780_lsijrv6xom6f5y5wq3t_1/media/27456795_10633780_lsijrv6xom6f5y5wq3t_1@5256000p.m3u8?dw=14400&ts=1686348000&hdnts=exp=1686521433~acl=/streams/27456795_10633780_lsijrv6xom6f5y5wq3t_1/media*~hmac=e7072704c314d5386dd4d51abddef57c7eeb6675bec6b0f48f6ea1a2ecb7f688
+http://51.81.93.239:8084/hls/tmicro.m3u8
 #EXTINF:-1 tvg-id="754" tvg-name="Antena Latina" tvg-logo="https://i.postimg.cc/4x6Zxw2m/antenalatina.jpg", Antena Latina  | DO
-https://d1coqlhpf8wrax.cloudfront.net/hls/antena7_360.m3u8
+https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="Color Vision" tvg-logo="https://i.ibb.co/b5NZGjB/unnamed-2.png", Color Vision | DO
 https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY9UdkFua2taXmmCKl4jBPCmPY62DZMqq1rtErwGyChse)/dm/3/x7gy059/d/live-2.m3u8#cell=lnyc|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fwww.dailymotion.com%2F
 #EXTINF:-1 tvg-id="728" tvg-name="Microvision" tvg-logo="https://www.m3u.cl/logo/728_Microvision.jpg", Microvision  | DO
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1882494547.m3u8
 #EXTINF:-1 tvg-id="Telesistema.do" tvg-logo="https://i.imgur.com/XVcUUy3.png" group-title="Undefined",Telesistema | DO
-https://stream-04.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2pYooLrMag7ZgEVOV6xnSFKGxxQAaSiKx84-dkbfkIpo)/dm/3/x80ac48/s/live-1.m3u8#cell=lnyc|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fwww.dailymotion.com%2F
+https://stream-01.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2ueONJwZYqJLguPX74r5JwBgB1H_596aybOTDXBFcijb)/dm/3/x80ac48/s/stream-3-1705242335.ts
 #EXTINF:-1 tvg-id="Teleantillas" tvg-logo="https://i.ibb.co/31y5YRR/descarga-1.jpg" group-title="Undefined",Teleantillas | DO
 https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2lEGV-4ZFbdmPhRM39TaV7cbxDHcmqXRL-LbNRvgOvaw)/dm/3/x809r6i/s/live-1.m3u8#cell=lnyc|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fwww.dailymotion.com%2F
 #EXTINF:-1 tvg-id="Telecentro.do" tvg-logo="https://i.imgur.com/Spp8rQs.png" group-title="Undefined",Telecentro | DO
@@ -17,7 +17,7 @@ https://playback.akamaized.net/streams/27456795_10234042_lsixxh2ogt2min0edwy_1/m
 #EXTINF:-1 tvg-id="Digital15.do" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Undefined",Digital 15 | DO
 https://playback.akamaized.net/streams/27456795_10633798_lsiw7zmu9clpoktcwu6_1/media/27456795_10633798_lsiw7zmu9clpoktcwu6_1@2756000p.m3u8?dw=14400&ts=1686348000&hdnts=exp=1686521104~acl=/streams/27456795_10633798_lsiw7zmu9clpoktcwu6_1/media*~hmac=2d94ee7d6b78c3afba976d67dac2df1ced690f694ac3a073bdceada8ea5bec81
 #EXTINF:-1 tvg-id="751" tvg-name="Teleunion" tvg-logo="https://www.m3u.cl/logo/751_Teleunion.jpg", Teleunion  | DO
-http://server3.prostudionetwork.com:1945/teleunion/TU/manifest.m3u8
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-id="715" tvg-name="Canal 25 Santiago" tvg-logo="https://www.m3u.cl/logo/715_Canal_25_Santiago.jpg", Canal 25 Santiago  | DO
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w897263989.m3u8
 #EXTINF:-1 tvg-id="752" tvg-name="Teleuniverso Canal 29" tvg-logo="https://www.m3u.cl/logo/752_Teleuniverso_Canal_29.png", Teleuniverso Canal 29  | DO
@@ -31,7 +31,7 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="La Voz de Maria Tv" tvg-logo="https://pbs.twimg.com/profile_images/1429155252/LVM___4_0000_400x400.png", La Voz de Maria Tv  | DO
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w778843740.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://i.imgur.com/TQMIFOD.png", Telecontacto Canal 57  | DO
-https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
+https://streaming.grupomediosdelnorte.com:19360/telecontacto/480p.m3u8
 #EXTINF:-1 tvg-id="861" tvg-name="Cielo TV Cristiana" tvg-logo="https://www.m3u.cl/logo/861_Cielo_TV_Cristiana.png", Cielo TV Cristiana  | DO
 https://streaming.servervideo.net:1936/cielotv/cielotv/chunklist_w835623951.m3u8
 #EXTINF:-1 tvg-id="853" tvg-name="La Fe Mueve Montanas" tvg-logo="https://www.m3u.cl/logo/853_La_Fe_Mueve_Montanas.png", La Fe Mueve Montanas  | DO
@@ -79,7 +79,7 @@ http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8?Playlis
 #EXTINF:-1 tvg-id="745" tvg-name="Telenord 8" tvg-logo="https://www.m3u.cl/logo/745_Telenord_8.jpg", Telenord 8  | DO
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News",Antena 21 | DO
-https://d1coqlhpf8wrax.cloudfront.net/hls/canal21_360.m3u8
+https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="755" tvg-name="Televisión del Este" tvg-logo="https://www.m3u.cl/logo/755_Television_del_Este.png", Televisión del Este  | DO
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="TRA2.do" tvg-logo="https://i.imgur.com/iwJ42rD.png" group-title="News",TRA 2 | DO
@@ -89,7 +89,7 @@ https://live.teledom.info:3625/live/tra45live.m3u8
 #EXTINF:-1 tvg-id="758" tvg-name="TV Plata" tvg-logo="https://www.m3u.cl/logo/758_TV_Plata.jpg", TV Plata  | DO
 https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
 #EXTINF:-1 tvg-id="758" tvg-name="Telered" tvg-logo="https://www.voiceovercr.com/mayorkilling_weapons/2020/10/LOGO-TELERED-OFICIAL.png", TELERED  | CO
-https://video20.klm99.com:3558/live/teleredlive.m3u8
+https://video20.klm99.com:3558/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="759" tvg-name="TVS TV" tvg-logo="https://www.m3u.cl/logo/759_TVS_TV.png", TVS TV  | DO
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="759" tvg-name="MI TV CLASICA" tvg-logo="https://mi-television.com/img/imagen-final-2_orig.png", MI TV CLASICA  | USA

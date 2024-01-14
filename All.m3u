@@ -11,7 +11,7 @@ https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1882494547.m3u
 #EXTINF:-1 tvg-id="Telesistema.do" tvg-logo="https://i.imgur.com/XVcUUy3.png" group-title="Undefined",Telesistema | DO
 https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2ueONJwZYqJLguPX74r5JwBgB1H_596aybOTDXBFcijb)/dm/3/x80ac48/s/live-3.m3u8
 #EXTINF:-1 tvg-id="Teleantillas" tvg-logo="https://i.ibb.co/31y5YRR/descarga-1.jpg" group-title="Undefined",Teleantillas | DO
-https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2lEGV-4ZFbdmPhRM39TaV7cbxDHcmqXRL-LbNRvgOvaw)/dm/3/x809r6i/s/live-1.m3u8#cell=lnyc|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fwww.dailymotion.com%2F
+https://stream-04.nyc.dailymotion.com/sec(_i51VaJAaJ6AK3dDJPgpsaqbDoXTP5KD5anV-yqMmvDDVL4YThUPdFt95Lnv5l1p)/dm/3/x8mwmvs/s/live-1.m3u8
 #EXTINF:-1 tvg-id="Telecentro.do" tvg-logo="https://i.imgur.com/Spp8rQs.png" group-title="Undefined",Telecentro | DO
 https://playback.akamaized.net/streams/27456795_10234042_lsig2lwlmhrd19fwfsr_1/media/27456795_10234042_lsig2lwlmhrd19fwfsr_1@2756000p.m3u8?dw=14400&ts=1705240800&hdnts=exp=1705417197~acl=/streams/27456795_10234042_lsig2lwlmhrd19fwfsr_1/media*~hmac=d1360320393a8e61684d407c0c3b3664ff0efd04f169c8ba43cd776a411df335
 #EXTINF:-1 tvg-id="Digital15.do" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Undefined",Digital 15 | DO
@@ -125,7 +125,7 @@ https://live.seo.tv.bo/live/SEO-3.m3u8
 #EXTINF:-1 tvg-id="805" tvg-name="RETROCRUSH" tvg-logo="https://i.ibb.co/q06crZN/unnamed.png[/img", RETROCRUSH | PAN
 https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/cb563d177b6c6c8a84cd3d78d5f262c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d177d8498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d469fb294757ec5d3a02338ebc5bb0765ac280178a7e7cdeb0d46568294756ce0e55b3f15ef2fbe65a13d24d9b8b590bfa6f07bec4139a9d3e88bae55b9460bc4aa640ddd09fd88c4ec1d3cf278b64885559024917fd877d83db2fd5b0fb390b5110423b76891215f2842c18a9053178f7f2c2b16cfc12c0c917847022b90c914cf648e0098428d72cca3dcfc1b26c4e2bb0cc1b402aa5f7a989fa4f72d5b4031788af094f98f8007146ce6298262e789cf2d854a7c21797ba2f80a6660e7a80f9936328d3f18de2d830e915d8c8e291334147624406831d919b63cf20dc7fa7847373172530dce213f7e31a4c634236bd33825767d6887bc1f6fe033ed869185ba753d8551163f3106371ec23fe95069ce84c3aa83a27f25439810da9f67cb5efecec083fbac9d402d15bafe45a9ca659e95a355754e7a96c4713182690fc705761299a0bb49a8ac6720a0be3b89fae910368566946122a82f0e27694968f784c428f0354151e7a209f0ad266c81309517ebb79fd984925d5487157a3cd587055769fc4bd80fda7ec4da77ad5c0e579627b6e6ab3370a317d91d1a95cee335f716a57e35e341b32d39f4c25781d2a0f9269cc69943625/108/640x360_1020588/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fwww.retrocrush.tv%2F
 #EXTINF:-1 tvg-id="800" tvg-name="SEO TV" tvg-logo="https://i.ibb.co/r7JygDp/descarga.jpg", SEO TV | PAN
-https://live.seo.tv.bo/live/1SEO.m3u8
+https://live.seo.tv.bo/live/SEO-1.m3u8
 #EXTINF:-1 tvg-id="788" tvg-name="GRJNGO" tvg-logo="https://i.ibb.co/Y2z9Nrj/GRGGGAGS.jpg", GRJNGO  | USA
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="788" tvg-name="CINEMA RETRO" tvg-logo="https://i.ibb.co/2Yj4LCN/CINEEMAREET-1.jpg", CINEMA RETRO  | USA
@@ -158,9 +158,5 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaRetroSeries.ar" tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="Classic;Series",Xtrema Retro Series | LAT
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVBobEsponja.us" tvg-logo="https://i.imgur.com/npxaOtl.png" group-title="Kids",Pluto TV Bob Esponja | LAT
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVKidsSpain.es" tvg-logo="https://i.imgur.com/eilI830.png" group-title="Kids",Pluto TV Kids | LAT
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9b648e738977e2c312131&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=30292edb-0714-11eb-97af-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVToonsClasicoSpain.es" tvg-logo="https://i.imgur.com/gQcuJSE.png" group-title="Kids",Pluto TV Toons Clásico | LAT
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="Xtremaplanetatvfamily" tvg-logo="https://i.ibb.co/2tX7RDZ/descarga-1.jpg" group-title="Classic;Series",Xtrema PlanetaTv Family | LAT
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8

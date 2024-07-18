@@ -104,8 +104,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8
 #EXTINF:-1 tvg-id="781" tvg-name="STV" tvg-logo="https://i.ibb.co/hC9SXdy/SAARRARASPIQIQQ.jpg", STV  | PA
 https://lstv.duckdns.org:449/hls/stv.m3u8
-#EXTINF:-1 tvg-id="781" tvg-name="RETROX TV" tvg-logo="https://i.ibb.co/7b7f86S/REEETXSSSA.jpg", RETROX TV  | PA
-https://tgn.bozztv.com/ssh101/ssh101/123456789/chunks.m3u8
 #EXTINF:-1 tvg-id="782" tvg-name="FREE TV 8-2" tvg-logo="https://i.ibb.co/FHwmGPQ/FREEETEEEVV.jpg", FREE TV 8-2  | USA
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
 #EXTINF:-1 tvg-id="781" tvg-name="SEO TV-PELICULAS" tvg-logo="https://i.ibb.co/Lr8XYhg/SEEOOSPELIISIS.jpg", SEO TV-PELICULAS  | PAN
@@ -114,8 +112,6 @@ https://seo.tv.bo/tv/SEO-TV-4.m3u8
 https://seo.tv.bo/tv/SEO-TV-2.m3u8
 #EXTINF:-1 tvg-id="800" tvg-name="SEO TV-NOVELA" tvg-logo="https://i.ibb.co/m0Wm6LZ/seo-tv-novelas-bo.png", SEO TV-NOVELA | PAN
 https://seo.tv.bo/tv/SEO-TV-3.m3u8
-#EXTINF:-1 tvg-id="805" tvg-name="RETROCRUSH" tvg-logo="https://i.ibb.co/q06crZN/unnamed.png[/img", RETROCRUSH | PAN
-https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/cb563d177b6c6c8a84cd3d78d5f262c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d177d8498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d469fb294757ec5d3a02338ebc5bb0765ac280178a7e7cdeb0d46568294756ce0e55b3f15ef2fbe65a13d24d9b8b590bfa6f07bec4139a9d3e88bae55b9460bc4aa640ddd09fd88c4ec1d3cf278b64885559024917fd877d83db2fd5b0fb390b5110423b76891215f2842c18a9053178f7f2c2b16cfc12c0c917847022b90c914cf648e0098428d72cca3dcfc1b26c4e2bb0cc1b402aa5f7a989fa4f72d5b4031788af094f98f8007146ce6298262e789cf2d854a7c21797ba2f80a6660e7a80f9936328d3f18de2d830e915d8c8e291334147624406831d919b63cf20dc7fa7847373172530dce213f7e31a4c634236bd33825767d6887bc1f6fe033ed869185ba753d8551163f3106371ec23fe95069ce84c3aa83a27f25439810da9f67cb5efecec083fbac9d402d15bafe45a9ca659e95a355754e7a96c4713182690fc705761299a0bb49a8ac6720a0be3b89fae910368566946122a82f0e27694968f784c428f0354151e7a209f0ad266c81309517ebb79fd984925d5487157a3cd587055769fc4bd80fda7ec4da77ad5c0e579627b6e6ab3370a317d91d1a95cee335f716a57e35e341b32d39f4c25781d2a0f9269cc69943625/108/640x360_1020588/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fwww.retrocrush.tv%2F
 #EXTINF:-1 tvg-id="800" tvg-name="SEO TV" tvg-logo="https://i.ibb.co/r7JygDp/descarga.jpg", SEO TV | PAN
 https://seo.tv.bo/tv/SEO-TV-1.m3u8
 #EXTINF:-1 tvg-id="788" tvg-name="GRJNGO" tvg-logo="https://i.ibb.co/Y2z9Nrj/GRGGGAGS.jpg", GRJNGO  | USA
@@ -141,11 +137,11 @@ https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro | AR
 https://wifispeed.trapemn.tv:1936/energeek/canal-1p/chunks.m3u8?nimblesessionid=65407314
-#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 | LAT
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w1302063044.m3u8
-#EXTINF:-1 tvg-id="RetroMagico.ar" tvg-logo="https://i.imgur.com/jh1VknJ.png" group-title="Entertainment",RetroMágico
-https://ok.ru/video/6035274800769
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282" tvg-id="608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" , Grjngo - Películas Del Oeste
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81" tvg-id="608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ba0b7563-f805-4ee2-903f-f4fc5149ad0c/artflix_logo_light_-_Toni_Newesil.png" , ARTFLIX - Películas Clásicas
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81.m3u8
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947" tvg-id="608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947" tvg-logo="https://provider-static.plex.tv/epg/cms/production/11c70d32-00fb-4c9d-9818-90c73fcc2ef4/CM-Plex-Dark_background_color-CanelaClasicos_-_Camila_Conti.png" , Canela Clásicos
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947.m3u8
+#EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-64e6eff227a915f9b5184e9e" tvg-id="608049aefa2b8ae93c2c3a63-64e6eff227a915f9b5184e9e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/63ad0b3b-b708-4160-896c-a7c5e11b36e0/Ultimate_Classic_Wrestling_-_WHiteRDX.png" , Ultimate Classic Wrestling
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-64e6eff227a915f9b5184e9e.m3u8

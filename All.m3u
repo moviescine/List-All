@@ -65,11 +65,11 @@ https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
 #EXTINF:-1 tvg-id="744" tvg-name="Telemilenio" tvg-logo="https://www.m3u.cl/logo/744_Telemilenio.png", Telemilenio  | DO
 https://vdo1.streamgato.us:3677/live/telemileniolive.m3u8
 #EXTINF:-1 tvg-id="746" tvg-name="Telenord 10" tvg-logo="https://www.m3u.cl/logo/746_Telenord_10.png", Telenord 10  | DO
-http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM3UCL
+https://rdn.essastream.com:3676/live/telenord10live.m3u8
 #EXTINF:-1 tvg-id="747" tvg-name="Telenord 12" tvg-logo="https://www.m3u.cl/logo/747_Telenord_12.jpg", Telenord 12  | DO
-http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8?PlaylistM3UCL
+https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
 #EXTINF:-1 tvg-id="745" tvg-name="Telenord 8" tvg-logo="https://www.m3u.cl/logo/745_Telenord_8.jpg", Telenord 8  | DO
-http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
+https://rdn.essastream.com:3170/live/telenord8live.m3u8
 #EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News",Antena 21 | DO
 https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="755" tvg-name="Televisión del Este" tvg-logo="https://www.m3u.cl/logo/755_Television_del_Este.png", Televisión del Este  | DO
@@ -176,7 +176,6 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaSeries.ar" tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="Movies",Xtrema Series (360p)
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Rakuten TV SpotlightSpain" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Movies",Rakuten Spotlight Spain | ES
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CHHb8C2/unnamed-1.png" group-title="Undefined",Rakuten TV Shows Spain | ES

@@ -24,8 +24,6 @@ https://ss3.domint.net:3150/c25_str/canal25/chunklist_w897263989.m3u8
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="CDN" tvg-logo="https://i.postimg.cc/QVLGXWpQ/CDN-Canal-37.png", CDN | DO
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
-#EXTINF:-1 tvg-id="709" tvg-name="CDN Deporte" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/07/cdn-deportes-online-cdn-sportmax-en-vivo.jpg", CDN Deporte | DO
-https://f.gmsiptv.com/memfs/7fd30a2a-481e-42aa-8d65-8fd7af679bcd.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png", TV Exitos  | DO
 https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="La Voz de Maria Tv" tvg-logo="https://pbs.twimg.com/profile_images/1429155252/LVM___4_0000_400x400.png", La Voz de Maria Tv  | DO
@@ -36,8 +34,6 @@ https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 https://streaming.servervideo.net:1936/cielotv/cielotv/chunklist_w835623951.m3u8
 #EXTINF:-1 tvg-id="853" tvg-name="La Fe Mueve Montanas" tvg-logo="https://www.m3u.cl/logo/853_La_Fe_Mueve_Montanas.png", La Fe Mueve Montanas  | DO
 https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="709" tvg-name="Acento TV" tvg-logo="https://www.m3u.cl/logo/709_Acento_TV.png", Acento TV  | DO
-https://live-b.cf.dmcdn.net/sec2(ngW2LWkaPuJddYbRdOqPpaMX9puUDRd0FRSBoT_RRVyfoQDj5wsFCDEYHHEzq3AkkcWG03HfOBJWOIDcROH6tJBxW7IbXOo1FEXV-yPild8)/dm/3/x8dxadh/s/live-3.m3u8
 #EXTINF:-1 tvg-id="710" tvg-name="Amé" tvg-logo="https://www.m3u.cl/logo/710_Ame.jpg", Amé  | DO
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 #EXTINF:-1 tvg-id="711" tvg-name="Bajo Techo TV" tvg-logo="https://www.m3u.cl/logo/711_Bajo_Techo_TV.jpg", Bajo Techo TV  | DO
@@ -116,8 +112,6 @@ https://seo.tv.bo/tv/SEO-TV-3.m3u8
 https://seo.tv.bo/tv/SEO-TV-1.m3u8
 #EXTINF:-1 tvg-id="788" tvg-name="GRJNGO" tvg-logo="https://i.ibb.co/Y2z9Nrj/GRGGGAGS.jpg", GRJNGO  | USA
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="788" tvg-name="CINEMA RETRO" tvg-logo="https://i.ibb.co/2Yj4LCN/CINEEMAREET-1.jpg", CINEMA RETRO  | USA
-https://stream.ads.ottera.tv/cl/230611ci2unl0gv6tlo0j3fk7g/1280x720_3071200_0_f.m3u8?i=475_4653|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fcableparatodos-peliculas-player.blogspot.com%2F
 #EXTINF:-1 tvg-id="783" tvg-name="FLOU CINE" tvg-logo="https://i.ibb.co/x60WzrM/FLOOOUUCIIIEEE.jpg", FLOU CINE | LAT
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6323ac0f8f253768c26b5529.m3u8
 #EXTINF:-1 tvg-id="1106" tvg-name="ACS Network TV" tvg-logo="https://i2.paste.pics/f4e6f06a328814e84dd4da2c89843129.png", ACS Network TV | PR
@@ -175,8 +169,6 @@ https://tv.streaming-chile.com:19360/8068/8068.m3u8
 https://mitv.zplay.cl/Ztv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", Chilevisual Retro
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/b07b1dab89e9fb0ddbc3e830bf55b1be.png", AniRetro
-https://tv.streaming-chile.com:19360/8068/8068.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", Chilevisual Retro
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e1ff8587666990c8f6c8a6fa24d3055f.png", Latino Kids TV

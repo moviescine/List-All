@@ -175,3 +175,49 @@ https://tv.streaming-chile.com:19360/8068/8068.m3u8
 https://mitv.zplay.cl/Ztv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", Chilevisual Retro
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/b07b1dab89e9fb0ddbc3e830bf55b1be.png", AniRetro
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", Chilevisual Retro
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/e1ff8587666990c8f6c8a6fa24d3055f.png", Latino Kids TV
+https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/1043b2e3c76ae62a369b8063eb40c168.png", 24-7 TV
+https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/55bee1f7aa13803eacd319eaeb348b9a.png", Magic Kids
+https://ssh101-fl.bozztv.com/ssh101/magic2019/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/9ee335287b9df49409c9ecfd9303b73e.png", Suyai TV
+https://stream.skarnetchile.com:19360/suyaitv/suyaitv.m3u8
+#EXTINF:-1 tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png", Retro Magico
+https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/67d9f3e4ef5510055f68b7edba6d87f0.png", Diti TV
+https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV
+https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", Chilevisual Kids
+https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", Chilevisual Film
+https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", Chilevisual Classic
+https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/bbb0373472ad737d7f75d40d9c3d1839.png", Opinionsur TV
+https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/50a9c65e95704dfb71609323ab845ded.png", TV Prime Peliculas
+https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png", +Cine
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+#EXTINF:-1 tvg-logo="https://i.paste.pics/d4c6f55f55efbda0faf59a7835b568b7.png", Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.paste.pics/2187dd0bf17bc4d9120ec79f47ad0145.png", Radio Lado Oscuro TV
+https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/18b445e2ec674ae21c12e73f6714501d.png", Taltal TV
+https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/cf0fa48150c7a524d1b1cc37881a7928.png", Estacion TV
+https://v4.tustreaming.cl/limachemovil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/c222500733a7a838f6c986f0b46c43cd.png", Canal 74 TeVe
+https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/f1bc9762fc091f72206cac3d4d4111da.png", El Galpon 80
+https://streamlov.alsolnet.com/amplificacion/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/13cbed7a89e361bba1e00c29db2e5336.png", Gogo Play Bolivia HD
+https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/0ac03650f0084a61e8e53d149310ac99.png", Doble C TV
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8

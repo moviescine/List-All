@@ -169,3 +169,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cine ¡¡jaja!!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cedbdba-6871-4161-a12d-d20faa66e6b8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/b07b1dab89e9fb0ddbc3e830bf55b1be.png", AniRetro
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/ef0bf95dfe58815d33a87539bb6e3cd4.png", ZTV Anime
+https://mitv.zplay.cl/Ztv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", Chilevisual Retro
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8

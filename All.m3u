@@ -72,8 +72,6 @@ http://51.81.106.157:8084/hls/a21.m3u8
 http://51.81.93.29:8084/hls/tra1.m3u8
 #EXTINF:-1 tvg-id="758" tvg-name="Telered" tvg-logo="https://www.voiceovercr.com/mayorkilling_weapons/2020/10/LOGO-TELERED-OFICIAL.png", TELERED  | CO
 https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="758" tvg-name="Telered" tvg-logo="https://www.coolstreaming.us/img/ch/image10924749355.jpg", Telesitama  | CO
-https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="759" tvg-name="TVS TV" tvg-logo="https://www.m3u.cl/logo/759_TVS_TV.png", TVS TV  | DO
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="759" tvg-name="MI TV CLASICA" tvg-logo="https://mi-television.com/img/imagen-final-2_orig.png", MI TV CLASICA  | USA
@@ -90,8 +88,6 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8
 #EXTINF:-1 tvg-id="763" tvg-name="Zol 106.5 FM" tvg-logo="https://www.m3u.cl/logo/763_Zol_106_5_FM.jpg", Zol 106.5 FM  | DO
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
-#EXTINF:-1 tvg-id="783" tvg-name="FLOU CARIBEÑO" tvg-logo="https://i.ibb.co/YQDSKYK/FLOOOWCARRIBEE.jpg", FLOU CARIBEÑO | DO
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-63adf8eff3d69d1885731c06.m3u8
 #EXTINF:-1 tvg-id="710" tvg-name="Dreiko Tv" tvg-logo="https://platcon.tv/img/p/4/3/9/439-thickbox_default.jpg", Dreiko Tv  | PAN
 https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="756" tvg-logo="https://i.ibb.co/HNxN9st/locomotion1-120550-preview-1083-545-white.png" group-title="Retro",Locomotion | AR
@@ -106,14 +102,8 @@ https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
 https://seo.tv.bo/tv/SEO-TV-4.m3u8
 #EXTINF:-1 tvg-id="800" tvg-name="SEO TV-KIDS" tvg-logo="https://i.ibb.co/WVtSBrj/seo-tv-kids-bo.png", SEO TV-KIDS  | PAN
 https://seo.tv.bo/tv/SEO-TV-2.m3u8
-#EXTINF:-1 tvg-id="800" tvg-name="SEO TV-NOVELA" tvg-logo="https://i.ibb.co/m0Wm6LZ/seo-tv-novelas-bo.png", SEO TV-NOVELA | PAN
-https://seo.tv.bo/tv/SEO-TV-3.m3u8
 #EXTINF:-1 tvg-id="800" tvg-name="SEO TV" tvg-logo="https://i.ibb.co/r7JygDp/descarga.jpg", SEO TV | PAN
 https://seo.tv.bo/tv/SEO-TV-1.m3u8
-#EXTINF:-1 tvg-id="788" tvg-name="GRJNGO" tvg-logo="https://i.ibb.co/Y2z9Nrj/GRGGGAGS.jpg", GRJNGO  | USA
-https://amogonetworx-grjngo-2-eu.plex.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="783" tvg-name="FLOU CINE" tvg-logo="https://i.ibb.co/x60WzrM/FLOOOUUCIIIEEE.jpg", FLOU CINE | LAT
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6323ac0f8f253768c26b5529.m3u8
 #EXTINF:-1 tvg-id="1106" tvg-name="ACS Network TV" tvg-logo="https://i2.paste.pics/f4e6f06a328814e84dd4da2c89843129.png", ACS Network TV | PR
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w556318719.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CHHb8C2/unnamed-1.png" group-title="Undefined",Rakuten TV Family Spain | ES
@@ -130,7 +120,7 @@ https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CHHb8C2/unnamed-1.png" group-title="Undefined",Rakuten TV Shows Spain | ES
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro | AR
-https://wifispeed.trapemn.tv:1936/energeek/canal-1p/chunks.m3u8?nimblesessionid=65407314
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282" tvg-id="608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" , Grjngo - Películas Del Oeste
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81" tvg-id="608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ba0b7563-f805-4ee2-903f-f4fc5149ad0c/artflix_logo_light_-_Toni_Newesil.png" , ARTFLIX - Películas Clásicas
@@ -145,8 +135,6 @@ https://d3m10mlzdolmch.cloudfront.net/v1/master/840a24ccd7c75076211d060179b3ad0c
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Music",Retro Music Television (360p)
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="KardelenTV.tr" tvg-logo="https://i.imgur.com/0RATxcN.png" group-title="Undefined",Kardelen TV (1080p)
-https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Kids",Kartoon Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80's
@@ -159,40 +147,26 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineClasico.es" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Movies",Pluto TV Cine Clásico (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cine Clásico
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cine ¡¡jaja!!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cedbdba-6871-4161-a12d-d20faa66e6b8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/b07b1dab89e9fb0ddbc3e830bf55b1be.png", AniRetro
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/ef0bf95dfe58815d33a87539bb6e3cd4.png", ZTV Anime
 https://mitv.zplay.cl/Ztv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", Chilevisual Retro
-https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", Chilevisual Retro
-https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e1ff8587666990c8f6c8a6fa24d3055f.png", Latino Kids TV
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/1043b2e3c76ae62a369b8063eb40c168.png", 24-7 TV
-https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/55bee1f7aa13803eacd319eaeb348b9a.png", Magic Kids
-https://ssh101-fl.bozztv.com/ssh101/magic2019/index.m3u8
+https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9ee335287b9df49409c9ecfd9303b73e.png", Suyai TV
-https://stream.skarnetchile.com:19360/suyaitv/suyaitv.m3u8
+https://stream.skarnetchile.com:19360/suyai-tv/suyai-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png", Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/67d9f3e4ef5510055f68b7edba6d87f0.png", Diti TV
 https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV
 https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", Chilevisual Kids
-https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", Chilevisual Film
-https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", Chilevisual Classic
 https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/bbb0373472ad737d7f75d40d9c3d1839.png", Opinionsur TV
-https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/50a9c65e95704dfb71609323ab845ded.png", TV Prime Peliculas
 https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png", +Cine
@@ -211,8 +185,6 @@ https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
 https://streamlov.alsolnet.com/amplificacion/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/13cbed7a89e361bba1e00c29db2e5336.png", Gogo Play Bolivia HD
 https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/0ac03650f0084a61e8e53d149310ac99.png", Doble C TV
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G2fNxS4/unnamed.jpg", Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjCpCM8/vhi5o1.jpg", Invasiva TV

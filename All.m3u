@@ -217,3 +217,5 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8
 http://tv.teleclub.xyz/envivo/Entretenimiento/TNT_SERIES/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Infantil", Tooncast 
 http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura", Discovery Channel
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_CHANNEL/index.m3u8

@@ -203,4 +203,5 @@ https://bozztv.com/gusa/gusa-hitops/index.m3u8
 https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
 #EXTINF:-1 tvg-id="TVSCipherNetwork.us" tvg-logo="https://i.imgur.com/yyz1S2W.png" group-title="Classic",TVS Cipher Network
 https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="Entretenimiento", HBO http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="Entretenimiento", HBO
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8

@@ -208,6 +208,6 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-logo="https://i.ibb.co/rvqtXBp/png-transparent-las-estrellas-televisa-television-channel-logo-star-television-angle-triangle.png" group-title="Bics", MX: LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="Univision NY" tvg-logo="https://i.ibb.co/2hZJQwb/channels4-profile.jpg"  group-title="Bics LIGA MX", LIGA MX: UNIVISION NY
-http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/585890
+http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/585890 
 #EXTINF:-1 tvg-id="Telemundo NY" tvg-logo="https://i.ibb.co/nB5hjG3/channels5-profile-1.jpg" group-title="Bics LIGA MX", LIGA MX: TELEMUNDO NY
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8

@@ -185,9 +185,9 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="Retro TV Online" tvg-logo="https://i.ibb.co/Pw6DrkQ/34298a-dbe9b2d0def84535beca857e505c19d8-mv2.png" , Retro TV Online
 https://ssh101-fl.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Retro TV Palmare" tvg-logo="https://i.ibb.co/4Y6qPkJ/images.jpg" , Retro TV Palmare
+#EXTINF:-1 tvg-id="Retro TV Palmare" tvg-logo="https://i.ibb.co/JryHQxt/unnamed.png" , Retro TV Palmare
 https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
-#EXTINF:-1 tvg-id="Telesistema CR" tvg-logo="https://i.ibb.co/JryHQxt/unnamed.png" , Telesistema CR
+#EXTINF:-1 tvg-id="Telesistema CR" tvg-logo="https://i.ibb.co/4Y6qPkJ/images.jpg" , Telesistema CR
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Retrox TV" tvg-logo="https://i.ibb.co/Fbj182j/1200x630bb.png" , Retrox TV
 https://5790d294af2dc.streamlock.net/retroxtv/retroxtv/chunklist_w2081424601.m3u8

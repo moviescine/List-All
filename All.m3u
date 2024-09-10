@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="714" tvg-name="Canal 4 RD" tvg-logo="https://www.m3u.cl/logo/714_Canal_4_RD.png", Canal 4 RD  | DO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1413191423_b3235840.m3u8
 #EXTINF:-1 tvg-id="Telemicro" tvg-logo="https://i.ibb.co/mN7P5Sd/Logo-Creation.jpg" group-title="Undefined", Telemicro 5 | DO
-http://51.81.93.239:8084/hls/tmicro.m3u8
+https://playback.akamaized.net/streams/27456795_10633780_lsirwcyek5x7a6zormo_1/media/27456795_10633780_lsirwcyek5x7a6zormo_1@2756000p.m3u8?dw=14400&ts=1726009200&hdnts=exp=1726185421~acl=/streams/27456795_10633780_lsirwcyek5x7a6zormo_1/media*~hmac=22029ff4b7448380a7ad952f3b9ac391a37b0780de5a559439ef15d613222e52
 #EXTINF:-1 tvg-id="754" tvg-name="Antena Latina" tvg-logo="https://i.postimg.cc/4x6Zxw2m/antenalatina.jpg", Antena Latina  | DO
 https://alba-do-antena7-antena7.stream.mediatiquestream.com:443/original.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="Color Vision" tvg-logo="https://i.ibb.co/b5NZGjB/unnamed-2.png", Color Vision | DO
@@ -9,7 +9,7 @@ https://live-b.cf.dmcdn.net/sec2(h3wX39y71lwoFAoyLx8SmGW8oq4aeeooPPAOstO8oKtohKX
 #EXTINF:-1 tvg-id="728" tvg-name="Microvision" tvg-logo="https://www.m3u.cl/logo/728_Microvision.jpg", Microvision  | DO
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1882494547.m3u8
 #EXTINF:-1 tvg-id="Telesistema.do" tvg-logo="https://i.imgur.com/XVcUUy3.png" group-title="Undefined",Telesistema | DO
-https://f.gmsiptv.com/memfs/19b4d941-b056-48bb-85c1-97423f9f7da9.m3u8
+https://live-b.cf.dmcdn.net/sec2(-YA7B3zNY9D-pTEqubcp1V0ravPumOdmS9gqUV5aEJDZuUkRBa2AW0KSxI56SlV5bCO2qYSFkm0_rFLIZP-4Z6D1TS0Z0qvu_Lzfy_ipdJ0)/dm/3/x80ac48/d/live-480.m3u8
 #EXTINF:-1 tvg-id="Teleantillas" tvg-logo="https://i.ibb.co/31y5YRR/descarga-1.jpg" group-title="Undefined",Teleantillas | DO
 http://51.81.93.29:8084/hls/tantillas.m3u8
 #EXTINF:-1 tvg-id="Telecentro.do" tvg-logo="https://i.imgur.com/Spp8rQs.png" group-title="Undefined",Telecentro | DO

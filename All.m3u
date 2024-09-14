@@ -5,7 +5,7 @@ https://playback.akamaized.net/streams/27456795_10633780_lsidkzgs3zb4x0xbxzu_1/m
 #EXTINF:-1 tvg-id="754" tvg-name="Antena Latina" tvg-logo="https://i.postimg.cc/4x6Zxw2m/antenalatina.jpg", Antena Latina  | DO
 https://alba-do-antena7-antena7.stream.mediatiquestream.com:443/original.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="Color Vision" tvg-logo="https://i.ibb.co/b5NZGjB/unnamed-2.png", Color Vision | DO
-https://fl1002.bozztv.com/ssh101/0009/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/0009/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-id="728" tvg-name="Microvision" tvg-logo="https://www.m3u.cl/logo/728_Microvision.jpg", Microvision  | DO
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1882494547.m3u8
 #EXTINF:-1 tvg-id="Telesistema.do" tvg-logo="https://i.imgur.com/XVcUUy3.png" group-title="Undefined",Telesistema | DO

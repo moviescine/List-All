@@ -181,6 +181,8 @@ https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
 https://streamlov.alsolnet.com/amplificacion/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png", AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GJC20d5/81ppyq-EOn5-L.png", Anime Onegai 
+https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png", Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="Retro TV Online" tvg-logo="https://i.ibb.co/Pw6DrkQ/34298a-dbe9b2d0def84535beca857e505c19d8-mv2.png" , Retro TV Online

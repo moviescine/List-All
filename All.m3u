@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="714" tvg-name="Canal 4 RD" tvg-logo="https://www.m3u.cl/logo/714_Canal_4_RD.png", Canal 4 RD  | DO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1413191423_b3235840.m3u8
 #EXTINF:-1 tvg-id="Telemicro" tvg-logo="https://i.ibb.co/mN7P5Sd/Logo-Creation.jpg" group-title="Undefined", Telemicro 5 | DO
-https://playback.akamaized.net/streams/27456795_10633780_lsidkzgs3zb4x0xbxzu_1/media/27456795_10633780_lsidkzgs3zb4x0xbxzu_1@2756000p.m3u8?dw=14400&ts=1726272000&hdnts=exp=1726445621~acl=/streams/27456795_10633780_lsidkzgs3zb4x0xbxzu_1/media*~hmac=18c810543380861d2b57698cbee822d7496964416ab31fc4ccde806c5e378c78
+https://fl1002.bozztv.com/ssh101/0005/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="754" tvg-name="Antena Latina" tvg-logo="https://i.postimg.cc/4x6Zxw2m/antenalatina.jpg", Antena Latina  | DO
 https://alba-do-antena7-antena7.stream.mediatiquestream.com:443/original.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="Color Vision" tvg-logo="https://i.ibb.co/b5NZGjB/unnamed-2.png", Color Vision | DO

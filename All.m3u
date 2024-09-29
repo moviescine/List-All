@@ -96,23 +96,15 @@ https://lstv.duckdns.org:449/hls/stv.m3u8
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
 #EXTINF:-1 tvg-id="781" tvg-name="SEO TV-PELICULAS" tvg-logo="https://i.ibb.co/Lr8XYhg/SEEOOSPELIISIS.jpg", SEO TV-PELICULAS  | PAN
 https://seo.tv.bo/tv/SEO-TV-4.m3u8
-#EXTINF:-1 tvg-id="800" tvg-name="SEO TV-KIDS" tvg-logo="https://i.ibb.co/WVtSBrj/seo-tv-kids-bo.png", SEO TV-KIDS  | PAN
-https://seo.tv.bo/tv/SEO-TV-2.m3u8
 #EXTINF:-1 tvg-id="800" tvg-name="SEO TV" tvg-logo="https://i.ibb.co/r7JygDp/descarga.jpg", SEO TV | PAN
 https://seo.tv.bo/tv/SEO-TV-1.m3u8
 #EXTINF:-1 tvg-id="1106" tvg-name="ACS Network TV" tvg-logo="https://i2.paste.pics/f4e6f06a328814e84dd4da2c89843129.png", ACS Network TV | PR
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w556318719.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CHHb8C2/unnamed-1.png" group-title="Undefined",Rakuten TV Family Spain | ES
 https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTV Action Movies Spain" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten Action Movies Spain | ES
-https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Rakuten TV Comedy Movies Spain" tvg-logo="https://i.imgur.com/H08jcJi.png" group-title="Movies",Rakuten Comedy Movies | ES
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CHHb8C2/unnamed-1.png" group-title="Undefined",Rakuten Top Free Spain | ES
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:-1 tvg-id="Rakuten TV SpotlightSpain" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Movies",Rakuten Spotlight Spain | ES
-https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CHHb8C2/unnamed-1.png" group-title="Undefined",Rakuten TV Shows Spain | ES
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro | AR
@@ -141,8 +133,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Culture;Education",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineClasico.es" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Movies",Pluto TV Cine Clásico (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cine ¡¡jaja!!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cedbdba-6871-4161-a12d-d20faa66e6b8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/b07b1dab89e9fb0ddbc3e830bf55b1be.png", AniRetro

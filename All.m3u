@@ -1,19 +1,19 @@
 #EXTINF:-1 tvg-id="714" tvg-name="Canal 4 RD" tvg-logo="https://www.m3u.cl/logo/714_Canal_4_RD.png", Canal 4 RD  | DO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1413191423_b3235840.m3u8
 #EXTINF:-1 tvg-id="Telemicro" tvg-logo="https://i.ibb.co/mN7P5Sd/Logo-Creation.jpg" group-title="Undefined", Telemicro 5 | DO
-https://fl1002.bozztv.com/ssh101/0005/tracks-v1a1/mono.m3u8
+https://live-b.cf.dmcdn.net/sec2(PUXW_43FglIfRGMCqfdh0oE2A139GMIeO0trZmo7kJtlW5busOTaQ81HUDRFZN3OfW6y8XK0nBXlUKkQFTLUasM78zpG1T3hTrEPsQD9Ip0AdtvYTgUbYzkzNlIEhFkA)/dm/3/x7gy059/d/live-480.m3u8
 #EXTINF:-1 tvg-id="754" tvg-name="Antena Latina" tvg-logo="https://i.postimg.cc/4x6Zxw2m/antenalatina.jpg", Antena Latina  | DO
 https://alba-do-antena7-antena7.stream.mediatiquestream.com:443/original.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="Color Vision" tvg-logo="https://i.ibb.co/b5NZGjB/unnamed-2.png", Color Vision | DO
-https://fl1002.bozztv.com/ssh101/0009/tracks-v1a1/mono.m3u8 
+https://live-b.cf.dmcdn.net/sec2(PUXW_43FglIfRGMCqfdh0oE2A139GMIeO0trZmo7kJtlW5busOTaQ81HUDRFZN3OfW6y8XK0nBXlUKkQFTLUasM78zpG1T3hTrEPsQD9Ip0AdtvYTgUbYzkzNlIEhFkA)/dm/3/x7gy059/d/live-480.m3u8
 #EXTINF:-1 tvg-id="728" tvg-name="Microvision" tvg-logo="https://www.m3u.cl/logo/728_Microvision.jpg", Microvision  | DO
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1882494547.m3u8
 #EXTINF:-1 tvg-id="Telesistema.do" tvg-logo="https://i.imgur.com/XVcUUy3.png" group-title="Undefined",Telesistema | DO
-https://fl1002.bozztv.com/ssh101/0011/tracks-v1a1/mono.m3u8 
+https://live-c.cf.dmcdn.net/sec2(v3_VcNwoJAyhoNYCx0HH-KxFhi7mPQQAkTL1FmAedF5CxekRcctpoSLUaNQs0KJXAjrSF_-GxFKptlc_xzwCUCHqdMFnAMrkapG46gQT5A3J4uueKAJ9R4b1qRTrWiXu)/dm/3/x80ac48/d/live-480.m3u8 
 #EXTINF:-1 tvg-id="Teleantillas" tvg-logo="https://i.ibb.co/31y5YRR/descarga-1.jpg" group-title="Undefined",Teleantillas | DO
 https://fl1002.bozztv.com/ssh101/0010/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telecentro.do" tvg-logo="https://i.imgur.com/Spp8rQs.png" group-title="Undefined",Telecentro | DO
-https://fl1002.bozztv.com/ssh101/0013/tracks-v1a1/mono.m3u8
+https://live-b.cf.dmcdn.net/sec2(PUXW_43FglIfRGMCqfdh0oE2A139GMIeO0trZmo7kJtlW5busOTaQ81HUDRFZN3OfW6y8XK0nBXlUKkQFTLUasM78zpG1T3hTrEPsQD9Ip0AdtvYTgUbYzkzNlIEhFkA)/dm/3/x7gy059/d/live-480.m3u8
 #EXTINF:-1 tvg-id="Digital15.do" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Undefined",Digital 15 | DO
 http://51.81.93.29:8084/hls/d15.m3u8
 #EXTINF:-1 tvg-id="751" tvg-name="Teleunion" tvg-logo="https://www.m3u.cl/logo/751_Teleunion.jpg", Teleunion  | DO

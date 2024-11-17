@@ -182,7 +182,7 @@ https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
 #EXTINF:-1 tvg-id="Telesistema CR" tvg-logo="https://i.ibb.co/4Y6qPkJ/images.jpg" , Telesistema CR
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Retrox TV" tvg-logo="https://i.ibb.co/Fbj182j/1200x630bb.png" , Retrox TV
-https://5790d294af2dc.streamlock.net/retroxtv/retroxtv/chunklist_w2081424601.m3u8
+https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/13cbed7a89e361bba1e00c29db2e5336.png", Gogo Play Bolivia HD
 https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G2fNxS4/unnamed.jpg", Moni TV
@@ -205,3 +205,5 @@ https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
 https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8
 #EXTINF:-1 group-title="Bics US", US: TELEMUNDO
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
+#EXTINF:-1 tvg-id="Cartoon Classics" tvg-logo="https://i.ibb.co/wS2SmpV/channel-ld-724.png" , Cartoon Classics
+https://rpn.bozztv.com/gusa/gusa-cartoonclassics/tracks-v1a1/mono.m3u8?nimblesessionid=475085539

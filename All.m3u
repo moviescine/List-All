@@ -128,9 +128,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchan
 #EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hallmark en español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hallmark Movies & More
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Culture;Education",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cine ¡¡jaja!!

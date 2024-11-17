@@ -94,10 +94,6 @@ https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8
 https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1 tvg-id="782" tvg-name="FREE TV 8-2" tvg-logo="https://i.ibb.co/FHwmGPQ/FREEETEEEVV.jpg", FREE TV 8-2  | USA
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
-#EXTINF:-1 tvg-id="781" tvg-name="SEO TV-PELICULAS" tvg-logo="https://i.ibb.co/Lr8XYhg/SEEOOSPELIISIS.jpg", SEO TV-PELICULAS  | PAN
-https://seo.tv.bo/tv/SEO-TV-4.m3u8
-#EXTINF:-1 tvg-id="800" tvg-name="SEO TV" tvg-logo="https://i.ibb.co/r7JygDp/descarga.jpg", SEO TV | PAN
-https://seo.tv.bo/tv/SEO-TV-1.m3u8
 #EXTINF:-1 tvg-id="1106" tvg-name="ACS Network TV" tvg-logo="https://i2.paste.pics/f4e6f06a328814e84dd4da2c89843129.png", ACS Network TV | PR
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w556318719.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CHHb8C2/unnamed-1.png" group-title="Undefined",Rakuten TV Family Spain | ES
@@ -157,8 +153,6 @@ https://tv.streaming-chile.com:19360/8142/8142.m3u8
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/2187dd0bf17bc4d9120ec79f47ad0145.png", Radio Lado Oscuro TV
 https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/18b445e2ec674ae21c12e73f6714501d.png", Taltal TV
-https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/cf0fa48150c7a524d1b1cc37881a7928.png", Estacion TV
 https://v4.tustreaming.cl/limachemovil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c222500733a7a838f6c986f0b46c43cd.png", Canal 74 TeVe
@@ -183,8 +177,6 @@ https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
 https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G2fNxS4/unnamed.jpg", Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KjCpCM8/vhi5o1.jpg", Invasiva TV
-https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFvm8Hw/max-anime.jpg", MAX Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/chunklist_w116236818.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3ywhxTh/images.jpg", BayresTV
@@ -205,3 +197,13 @@ https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 https://rpn.bozztv.com/gusa/gusa-cartoonclassics/tracks-v1a1/mono.m3u8?nimblesessionid=475085539
 #EXTINF:0 channel-id="hallmark-en-espanol-ptv1" channel-number="282" tvg-logo="https://images.pluto.tv/channels/65453ee6056b97000880302a/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65453ee6056b97000880302a/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Hallmark en español" tvc-guide-description="Hallmark en español te ofrece películas originales de romance y festividades orientadas a la familia que los hispanos adoran. Con una amplia colección de contenido del catálogo de Hallmark doblado al español, hay algo para todos." group-title="Season's Greetings", Hallmark en español
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65453ee6056b97000880302a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f6714952-a515-11ef-aef5-e50e06b1764b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=13ec9385-5623-4d50-a961-293ae47f77f2&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canela Clasicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canela Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canela Music Presents
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canela Telenovelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152

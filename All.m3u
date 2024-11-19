@@ -5,7 +5,7 @@ https://s1.tvabierta.net/memfs/dbd6de14-6a3a-49d8-afa8-2f2fba6e26ea_output_0.m3u
 #EXTINF:-4 tvg-id="754" tvg-name="Antena Latina" tvg-logo="https://i.postimg.cc/4x6Zxw2m/antenalatina.jpg", Antena Latina  | DO
 https://alba-do-antena7-antena7.stream.mediatiquestream.com:443/original.m3u8
 #EXTINF:-5 tvg-id="709" tvg-name="Color Vision" tvg-logo="https://i.ibb.co/b5NZGjB/unnamed-2.png", Color Vision | DO
-https://live-b.cf.dmcdn.net/sec2(MN0209v0h1xJg_JEQCvRY6wDz9PEEf2nH_1IGVWq0J0nDZjlH8BAZR-FhPH2szZfJCu25ej-Cs6td8hXlrw849YamV4Z7PQuun2LQ0vv_tOxyZ4krsPY-N7TOuVoftb_)/dm/3/x7gy059/d/live-480.m3u8
+https://live-b.cf.dmcdn.net/sec2(NYG7VSzcXahMTUAT4AkXiioPKQ-3mZQkDmIaGkhAtw5LHF216GLpdTQxnorg4SWqGPwoQ_kPVzmy2mo28AyvytF38Pr2wawl91Qas1x3c3bgbe4oBLBDN9U7Hp6K5CX3)/dm/3/x7gy059/d/live-480.m3u8
 #EXTINF:-6 tvg-id="728" tvg-name="Microvision" tvg-logo="https://www.m3u.cl/logo/728_Microvision.jpg", Microvision  | DO
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1882494547.m3u8
 #EXTINF:-7 tvg-id="Telesistema.do" tvg-logo="https://i.imgur.com/XVcUUy3.png" group-title="Undefined",Telesistema | DO
@@ -167,8 +167,8 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 https://vcp14.myplaytv.com/maxanime/maxanime/chunklist_w116236818.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3ywhxTh/images.jpg", BayresTV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1 tvg-id="TVSPinballNetwork.us" tvg-logo="https://i.imgur.com/HHmc14i.png" group-title="Kids",TVS Pinball Network
-https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/tracks-v1a1/mono.m3u8?nimblesessionid=479062203
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6tXq9w5/220px-La-2-HD.png", La 2 HD
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_576.m3u8
 #EXTINF:-1 tvg-id="TVSFlashbackNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-flashback-network.jpg" group-title="Entertainment",TVS Flashback Network
 https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
 #EXTINF:-1 tvg-id="TVSHiTops.us" tvg-logo="https://i.imgur.com/RiWg1IA.png" group-title="Kids",TVS Hi Tops

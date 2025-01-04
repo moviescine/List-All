@@ -16,9 +16,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_3
 https://u.tvabierta.net/memfs/966badef-a62a-4386-9db4-0665ff13ae37_output_0.m3u8?session=D7oQXFGZ5oXbM2cuSouX3m
 #EXTINF:-9 tvg-id="Digital15.do" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Undefined",Digital 15 | DO
 http://51.81.93.29:8084/hls/d15.m3u8
-#EXTINF:-10 tvg-id="751" tvg-name="Teleunion" tvg-logo="https://i.ibb.co/Fmr3ksP/PELIDOM.jpg", Teleunion  | DO
+#EXTINF:-10 tvg-id="751" tvg-name="Teleunion" tvg-logo="https://www.m3u.cl/logo/751_Teleunion.jpg", Teleunion  | DO
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
-#EXTINF:-10 tvg-id="751" tvg-name="PeliDom" tvg-logo="https://www.m3u.cl/logo/751_Teleunion.jpg", PeliDom  | DO
+#EXTINF:-11 tvg-id="751" tvg-name="PeliDom" tvg-logo="https://i.ibb.co/Fmr3ksP/PELIDOM.jpg", PeliDom  | DO
 https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2823/amlst:mainstream/chunklist_b5236394.m3u8?p=local&op_id=58&userId=0&channelId=2823&stime=1735953468&etime=1736039868&token=0e89bd1285274bf4cb87f
 #EXTINF:-12 tvg-id="715" tvg-name="Canal 25 Santiago" tvg-logo="https://www.m3u.cl/logo/715_Canal_25_Santiago.jpg", Canal 25 Santiago  | DO
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w897263989.m3u8

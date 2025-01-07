@@ -1,0 +1,196 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="714" tvg-name="Canal" tvg-logo="https://www.m3u.cl/logo/714_Canal_4_RD.png" group-title="Latino Retro",  Canal 4 RD  | DO
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1438332506_b1163840.m3u8
+#EXTINF:-1 tvg-ID="Telemicro" tvg-name="" tvg-logo="https://i.ibb.co/mN7P5Sd/Logo-Creation.jpg" group-title="Latino Retro",  Telemicro 5 | DO
+https://u.tvabierta.net/memfs/b97163c9-f21f-49d9-8076-a4926861b305_output_0_317059.ts?session=9abA7Pdky3gk8GRSHy9qh8
+#EXTINF:-1 tvg-ID="754" tvg-name="Antena" tvg-logo="https://i.postimg.cc/4x6Zxw2m/antenalatina.jpg" group-title="Latino Retro",  Antena Latina  | DO
+https://alba-do-antena7-antena7.stream.mediatiquestream.com:443/original.m3u8
+#EXTINF:-1 tvg-ID="709" tvg-name="Color" tvg-logo="https://i.ibb.co/b5NZGjB/unnamed-2.png" group-title="Latino Retro",  Color Vision | DO
+https://u.tvabierta.net/memfs/1d58d166-adc9-4cbe-921d-07da03925317_output_0_519318.ts?session=DnFvu2xt5T6KmykUepNM2X
+#EXTINF:-1 tvg-ID="728" tvg-name="Microvision" tvg-logo="https://www.m3u.cl/logo/728_Microvision.jpg" group-title="Latino Retro",  Microvision  | DO
+https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1882494547.m3u8
+#EXTINF:-1 tvg-ID="Telesistema.do" tvg-name="" tvg-logo="https://i.imgur.com/XVcUUy3.png" group-title="Latino Retro", Telesistema | DO
+https://live-c2.cf.dmcdn.net/sec2(Qu2fRx0hiuzCLpd_a1Z4Klxx3PRnpPqlJWP2PQeBJv6coJqUylybOEXDcAeZMLh0HMpBwYx4j0F0s4BP-j00LwXIGRt__qKj6DwAn8gCO3EaHj3z4Nc2ndxl0Fh_Nzcx)/cloud/3/x80ac48/d/live-480.m3u8
+#EXTINF:-1 tvg-ID="Teleantillas" tvg-name="" tvg-logo="https://i.ibb.co/31y5YRR/descarga-1.jpg" group-title="Latino Retro", Teleantillas | DO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8
+#EXTINF:-1 tvg-ID="Telecentro.do" tvg-name="" tvg-logo="https://i.imgur.com/Spp8rQs.png" group-title="Latino Retro", Telecentro | DO
+https://u.tvabierta.net/memfs/966badef-a62a-4386-9db4-0665ff13ae37_output_0.m3u8?session=D7oQXFGZ5oXbM2cuSouX3m
+#EXTINF:-1 tvg-ID="Digital15.do" tvg-name="" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Latino Retro", Digital 15 | DO
+http://51.81.93.29:8084/hls/d15.m3u8
+#EXTINF:-1 tvg-ID="751" tvg-name="Teleunion" tvg-logo="https://www.m3u.cl/logo/751_Teleunion.jpg" group-title="Latino Retro",  Teleunion  | DO
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+#EXTINF:-1 tvg-ID="751" tvg-name="PeliDom" tvg-logo="https://i.ibb.co/Fmr3ksP/PELIDOM.jpg" group-title="Latino Retro",  PeliDom  | DO
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2823/amlst:mainstream/media-uc3eoxcsd_b5236394_75499.ts?p=local&op_id=58&userId=0&channelId=2823&stime=1735953468&etime=1736039868&token=0e89bd1285274bf4cb87f
+#EXTINF:-1 tvg-ID="715" tvg-name="Canal" tvg-logo="https://www.m3u.cl/logo/715_Canal_25_Santiago.jpg" group-title="Latino Retro",  Canal 25 Santiago  | DO
+https://ss3.domint.net:3150/c25_str/canal25/chunklist_w897263989.m3u8
+#EXTINF:-1 tvg-ID="752" tvg-name="Teleuniverso" tvg-logo="https://www.m3u.cl/logo/752_Teleuniverso_Canal_29.png" group-title="Latino Retro",  Teleuniverso Canal 29  | DO
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:-1 tvg-ID="709" tvg-name="CDN" tvg-logo="https://i.postimg.cc/QVLGXWpQ/CDN-Canal-37.png" group-title="Latino Retro",  CDN | DO
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/ae3e71b4-52af-d834-7388-fc75f9401a03.m3u8 
+#EXTINF:-1 tvg-ID="19" tvg-name="TV" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png" group-title="Latino Retro",  TV Exitos  | DO
+https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
+#EXTINF:-1 tvg-ID="19" tvg-name="La" tvg-logo="https://pbs.twimg.com/profile_images/1429155252/LVM___4_0000_400x400.png" group-title="Latino Retro",  La Voz de Maria Tv  | DO
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w778843740.m3u8
+#EXTINF:-1 tvg-ID="19" tvg-name="TV" tvg-logo="https://i.imgur.com/TQMIFOD.png" group-title="Latino Retro",  Telecontacto Canal 57  | DO
+https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
+#EXTINF:-1 tvg-ID="861" tvg-name="Cielo" tvg-logo="https://www.m3u.cl/logo/861_Cielo_TV_Cristiana.png" group-title="Latino Retro",  Cielo TV Cristiana  | DO
+https://streaming.servervideo.net:1936/cielotv/cielotv/chunklist_w835623951.m3u8
+#EXTINF:-1 tvg-ID="853" tvg-name="La" tvg-logo="https://www.m3u.cl/logo/853_La_Fe_Mueve_Montanas.png" group-title="Latino Retro",  La Fe Mueve Montanas  | DO
+https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-ID="710" tvg-name="Amé" tvg-logo="https://www.m3u.cl/logo/710_Ame.jpg" group-title="Latino Retro",  Amé  | DO
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
+#EXTINF:-1 tvg-ID="713" tvg-name="Boreal" tvg-logo="https://www.m3u.cl/logo/713_Boreal_Television.jpg" group-title="Latino Retro",  Boreal Televisión  | DO
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:-1 tvg-ID="718" tvg-name="Cinevision" tvg-logo="https://www.m3u.cl/logo/718_Cinevision_Canal_19.jpg" group-title="Latino Retro",  Cinevision Canal 19  | DO
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
+#EXTINF:-1 tvg-ID="719" tvg-name="Entelevision" tvg-logo="https://www.m3u.cl/logo/719_Entelevision.jpg" group-title="Latino Retro",  Entelevision  | DO
+https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
+#EXTINF:-1 tvg-ID="721" tvg-name="Fuego" tvg-logo="https://www.m3u.cl/logo/721_Fuego_TV.jpg" group-title="Latino Retro",  Fuego TV  | DO
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
+#EXTINF:-1 tvg-ID="726" tvg-name="Luna" tvg-logo="https://www.m3u.cl/logo/726_Luna_TV.png" group-title="Latino Retro",  Luna TV  | DO
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
+#EXTINF:-1 tvg-ID="727" tvg-name="Megavision" tvg-logo="https://www.m3u.cl/logo/727_Megavision.png" group-title="Latino Retro",  Megavision  | DO
+https://server2grupocam.com/megavision/MV/chunklist_w1905912575.m3u8
+#EXTINF:-1 tvg-ID="734" tvg-name="RNN" tvg-logo="https://www.m3u.cl/logo/734_RNN.png" group-title="Latino Retro",  RNN  | DO
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-ID="742" tvg-name="Telecibao" tvg-logo="https://www.m3u.cl/logo/742_Telecibao.jpg" group-title="Latino Retro",  Telecibao  | DO
+https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
+#EXTINF:-1 tvg-ID="743" tvg-name="Telefuturo" tvg-logo="https://www.m3u.cl/logo/743_Telefuturo.png" group-title="Latino Retro",  Telefuturo  | DO
+https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
+#EXTINF:-1 tvg-ID="744" tvg-name="Telemilenio" tvg-logo="https://www.m3u.cl/logo/744_Telemilenio.png" group-title="Latino Retro",  Telemilenio  | DO
+https://vdo1.streamgato.us:3677/live/telemileniolive.m3u8
+#EXTINF:-1 tvg-ID="746" tvg-name="Telenord" tvg-logo="https://www.m3u.cl/logo/746_Telenord_10.png" group-title="Latino Retro",  Telenord 10  | DO
+https://rdn.essastream.com:3676/live/telenord10live.m3u8
+#EXTINF:-1 tvg-ID="747" tvg-name="Telenord" tvg-logo="https://www.m3u.cl/logo/747_Telenord_12.jpg" group-title="Latino Retro",  Telenord 12  | DO
+https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
+#EXTINF:-1 tvg-ID="745" tvg-name="Telenord" tvg-logo="https://www.m3u.cl/logo/745_Telenord_8.jpg" group-title="Latino Retro",  Telenord 8  | DO
+https://rdn.essastream.com:3170/live/telenord8live.m3u8
+#EXTINF:-1 tvg-ID="Antena21.do" tvg-name="" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-Latino Retro="News", Antena 21 | DO
+https://d1p8txxph783az.cloudfront.net/original.m3u8
+#EXTINF:-1 tvg-ID="TRANoticias.do" tvg-name="" tvg-logo="https://i.imgur.com/M6ZhJqM.png" group-Latino Retro="News", TRA Noticias | DO
+https://fl1002.bozztv.com/ssh101/rctvhdtra/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-ID="758" tvg-name="Telered" tvg-logo="https://www.voiceovercr.com/mayorkilling_weapons/2020/10/LOGO-TELERED-OFICIAL.png" group-title="Latino Retro",  TELERED  | CO
+https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-ID="759" tvg-name="TVS" tvg-logo="https://www.m3u.cl/logo/759_TVS_TV.png" group-title="Latino Retro",  TVS TV  | DO
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-ID="759" tvg-name="MI" tvg-logo="https://mi-television.com/img/imagen-final-2_orig.png" group-title="Latino Retro",  MI TV CLASICA  | USA
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:-1 tvg-ID="759" tvg-name="CLASICOS" tvg-logo="https://i.ibb.co/0FsjPdv/IUEIOLLO.png" group-title="Latino Retro",  CLASICOS RUNTIME  | USA
+https://run-cl-es.otteravision.com/run/cl_es/cl_es_720.m3u8
+#EXTINF:-1 tvg-ID="790" tvg-name="VISIÓN" tvg-logo="https://i.ibb.co/2N6L2tR/VISIIOASA.jpg" group-title="Latino Retro",  VISIÓN TV | DO
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 tvg-ID="761" tvg-name="Vegavision" tvg-logo="https://www.m3u.cl/logo/761_Vegavision_Canal_18.png" group-title="Latino Retro",  Vegavision Canal 18  | DO
+https://server2grupocam.com/megavision/MV/chunklist_w534390337.m3u8
+#EXTINF:-1 tvg-ID="763" tvg-name="Zol" tvg-logo="https://www.m3u.cl/logo/763_Zol_106_5_FM.jpg" group-title="Latino Retro",  Zol 106.5 FM  | DO
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
+#EXTINF:-1 tvg-ID="710" tvg-name="Dreiko" tvg-logo="https://platcon.tv/img/p/4/3/9/439-thickbox_default.jpg" group-title="Latino Retro",  Dreiko Tv  | PAN
+https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-ID="756" tvg-name="" tvg-logo="https://i.ibb.co/HNxN9st/locomotion1-120550-preview-1083-545-white.png" group-Latino Retro="Retro", Locomotion | AR
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-ID="780" tvg-name="TeleClasica" tvg-logo="https://i.ibb.co/WKCghWS/318953392-152520087525070-763550339019320332-n.jpg" group-title="Latino Retro",  TeleClasica  | PA
+https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8
+#EXTINF:-1 tvg-ID="781" tvg-name="STV" tvg-logo="https://i.ibb.co/hC9SXdy/SAARRARASPIQIQQ.jpg" group-title="Latino Retro",  STV  | PA
+https://lstv.duckdns.org:449/hls/stv.m3u8
+#EXTINF:-1 tvg-ID="782" tvg-name="FREE" tvg-logo="https://i.ibb.co/FHwmGPQ/FREEETEEEVV.jpg" group-title="Latino Retro",  FREE TV 8-2  | USA
+https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
+#EXTINF:-1 tvg-ID="1106" tvg-name="ACS" tvg-logo="https://i2.paste.pics/f4e6f06a328814e84dd4da2c89843129.png" group-title="Latino Retro",  ACS Network TV | PR
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w556318719.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.ibb.co/CHHb8C2/unnamed-1.png" group-title="Latino Retro", Rakuten TV Family Spain | ES
+https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-ID="Rakuten" tvg-name="" tvg-logo="https://i.imgur.com/H08jcJi.png" group-Latino Retro="Movies", Rakuten Comedy Movies | ES
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:-1 tvg-ID="EnerGeekRetro.cl" tvg-name="" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-Latino Retro="Animation", EnerGeek Retro | AR
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
+#EXTINF:-1 tvg-ID="WAAYDT8.us" tvg-name="" tvg-logo="https://www.cartoonbrew.com/wp-content/uploads/2024/05/metvtoons_logo.jpg" group-Latino Retro="Animation;Kids", MeTV Toons (720p)
+#EXTINF:-1 tvg-ID="RetroMusicTV.cz" tvg-name="" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-Latino Retro="Music", Retro Music Television (360p)
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-ID="Now80s.uk" tvg-name="" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-Latino Retro="Music", Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-ID="HallmarkChannelEast.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-Latino Retro="Family", Hallmark Channel East
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-ID="ClassicArtsShowcase.us" tvg-name="" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-Latino Retro="Culture;Education", Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="Latino Retro", Cine ¡¡jaja!!
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cedbdba-6871-4161-a12d-d20faa66e6b8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i2.paste.pics/b07b1dab89e9fb0ddbc3e830bf55b1be.png" group-title="Latino Retro",  AniRetro
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i2.paste.pics/ef0bf95dfe58815d33a87539bb6e3cd4.png" group-title="Latino Retro",  ZTV Anime
+https://mitv.zplay.cl/Ztv/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i2.paste.pics/e1ff8587666990c8f6c8a6fa24d3055f.png" group-title="Latino Retro",  Latino Kids TV
+https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i2.paste.pics/55bee1f7aa13803eacd319eaeb348b9a.png" group-title="Latino Retro",  Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i2.paste.pics/9ee335287b9df49409c9ecfd9303b73e.png" group-title="Latino Retro",  Suyai TV
+https://stream.skarnetchile.com:19360/suyai-tv/suyai-tv.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png" group-title="Latino Retro",  Retro Magico
+https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i2.paste.pics/67d9f3e4ef5510055f68b7edba6d87f0.png" group-title="Latino Retro",  Diti TV
+https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png" group-title="Latino Retro",  VariedTV
+https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png" group-title="Latino Retro",  Chilevisual Classic
+https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i2.paste.pics/50a9c65e95704dfb71609323ab845ded.png" group-title="Latino Retro",  TV Prime Peliculas
+https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png" group-title="Latino Retro",  +Cine
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.paste.pics/d4c6f55f55efbda0faf59a7835b568b7.png" group-title="Latino Retro",  Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.paste.pics/2187dd0bf17bc4d9120ec79f47ad0145.png" group-title="Latino Retro",  Radio Lado Oscuro TV
+https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i2.paste.pics/cf0fa48150c7a524d1b1cc37881a7928.png" group-title="Latino Retro",  Estacion TV
+https://v4.tustreaming.cl/limachemovil/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i2.paste.pics/c222500733a7a838f6c986f0b46c43cd.png" group-title="Latino Retro",  Canal 74 TeVe
+https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i2.paste.pics/f1bc9762fc091f72206cac3d4d4111da.png" group-title="Latino Retro",  El Galpon 80
+https://streamlov.alsolnet.com/amplificacion/live/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="Latino Retro",  AnimeStation
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.ibb.co/GJC20d5/81ppyq-EOn5-L.png" group-title="Latino Retro",  Anime Onegai 
+https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/chunks.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png" group-title="Latino Retro",  Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-ID="Retro" tvg-name="" tvg-logo="https://i.ibb.co/Pw6DrkQ/34298a-dbe9b2d0def84535beca857e505c19d8-mv2.png" group-title="Latino Retro",  Retro TV Online
+https://ssh101-fl.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-ID="Retro" tvg-name="" tvg-logo="https://i.ibb.co/JryHQxt/unnamed.png" group-title="Latino Retro",  Retro TV Palmare
+https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
+#EXTINF:-1 tvg-ID="Telesistema" tvg-name="" tvg-logo="https://i.ibb.co/4Y6qPkJ/images.jpg" group-title="Latino Retro",  Telesistema CR
+https://k20.usastreams.com:8081/telesistema/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-ID="Retrox" tvg-name="" tvg-logo="https://i.ibb.co/Fbj182j/1200x630bb.png" group-title="Latino Retro",  Retrox TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retrotvcr/chunks.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i2.paste.pics/13cbed7a89e361bba1e00c29db2e5336.png" group-title="Latino Retro",  Gogo Play Bolivia HD
+https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.ibb.co/G2fNxS4/unnamed.jpg" group-title="Latino Retro",  Moni TV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.ibb.co/XFvm8Hw/max-anime.jpg" group-title="Latino Retro",  MAX Anime
+https://vcp14.myplaytv.com/maxanime/maxanime/chunklist_w116236818.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.ibb.co/3ywhxTh/images.jpg" group-title="Latino Retro",  BayresTV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.ibb.co/6tXq9w5/220px-La-2-HD.png" group-title="Latino Retro",  La 2 HD
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_576.m3u8
+#EXTINF:-1 tvg-ID="TVSFlashbackNetwork.us" tvg-name="" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-flashback-network.jpg" group-Latino Retro="Entertainment", TVS Flashback Network
+https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
+#EXTINF:-1 tvg-ID="TVSHiTops.us" tvg-name="" tvg-logo="https://i.imgur.com/RiWg1IA.png" group-Latino Retro="Kids", TVS Hi Tops
+https://bozztv.com/gusa/gusa-hitops/index.m3u8
+#EXTINF:-1 tvg-ID="TVSClassicMovies.us" tvg-name="" tvg-logo="https://i.imgur.com/st1xMsw.png" group-Latino Retro="Classic", TVS Classic Movies
+https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-ID="TVSCipherNetwork.us" tvg-name="" tvg-logo="https://i.imgur.com/yyz1S2W.png" group-Latino Retro="Classic", TVS Cipher Network
+https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="Latino Retro",  US: TELEMUNDO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="Latino Retro",  US: UNIVISION
+http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/65453ee6056b97000880302a/colorLogoPNG.png" group-title="Latino Retro",  hay algo para todos." group-title="Season's Greetings"
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65453ee6056b97000880302a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f6714952-a515-11ef-aef5-e50e06b1764b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=13ec9385-5623-4d50-a961-293ae47f77f2&userId=&serverSideAds=true
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="Latino Retro", Canela Clasicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="Latino Retro", Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="Latino Retro", Canela Telenovelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="Latino Retro",  MX: LAS ESTRELLAS
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="Latino Retro",  MX: CANAL 5
+http://181.78.105.146:2000/play/a038/index.m3u8

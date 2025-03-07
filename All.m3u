@@ -119,6 +119,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/ef0bf95dfe58815d33a87539bb6e3cd4.png", ZTV Anime
 https://mitv.zplay.cl/Ztv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G18HFf8/h0OpUi6.jpg", Toonisaki
+https://mitv.zplay.cl/ZRetro/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e1ff8587666990c8f6c8a6fa24d3055f.png", Latino Kids TV
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/55bee1f7aa13803eacd319eaeb348b9a.png", Magic Kids

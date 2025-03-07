@@ -161,8 +161,8 @@ https://ssh101-fl.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
 https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
 #EXTINF:-1 tvg-id="Telesistema CR" tvg-logo="https://i.ibb.co/4Y6qPkJ/images.jpg" , Telesistema CR
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="Retrox TV" tvg-logo="https://i.ibb.co/Fbj182j/1200x630bb.png" , Retrox TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retrotvcr/chunks.m3u8
+#EXTINF:-1 tvg-id="RetroX TV" tvg-logo="https://i.ibb.co/Fbj182j/1200x630bb.png" , RetroX TV
+https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="LMS" tvg-logo="https://i.ibb.co/gZH8Zpgs/lms.png" , LMS
 https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/13cbed7a89e361bba1e00c29db2e5336.png", Gogo Play Bolivia HD

@@ -142,9 +142,9 @@ https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png", +Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/d4c6f55f55efbda0faf59a7835b568b7.png", Caracola TV
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8?nimblesessionid=139561669
 #EXTINF:-1 tvg-logo="https://i.paste.pics/2187dd0bf17bc4d9120ec79f47ad0145.png", Radio Lado Oscuro TV
-https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8
+https://stmv5.voxtvhd.com.br/cattotv/cattotv/chunklist_w779730419.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/cf0fa48150c7a524d1b1cc37881a7928.png", Estacion TV
 https://v4.tustreaming.cl/limachemovil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c222500733a7a838f6c986f0b46c43cd.png", Canal 74 TeVe

@@ -132,7 +132,7 @@ https://stream.skarnetchile.com:19360/suyai-tv/suyai-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png", Retro Magico
 https://stream.gia.tv/giatv/giatv-retromagico/retromagico/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/67d9f3e4ef5510055f68b7edba6d87f0.png", Diti TV
-https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/dititv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/9433332812f73a536d41248ff05a903c.png", Chilevisual Classic
@@ -174,7 +174,7 @@ https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 #EXTINF:-1 tvg-id="LMS" tvg-logo="https://i.ibb.co/Q7rm0926/Screenshot-2025-03-07-155652.png" , Xtrema Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/chunklist_w987570594.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/13cbed7a89e361bba1e00c29db2e5336.png", Gogo Play Bolivia HD
-https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G2fNxS4/unnamed.jpg", Moni TV
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFvm8Hw/max-anime.jpg", MAX Anime

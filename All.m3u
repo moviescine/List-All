@@ -19,7 +19,7 @@ http://51.81.93.29:8084/hls/d15.m3u8
 #EXTINF:-10 tvg-id="751" tvg-name="Teleunion" tvg-logo="https://www.m3u.cl/logo/751_Teleunion.jpg", Teleunion  | DO
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-11 tvg-id="751" tvg-name="PeliDom" tvg-logo="https://i.ibb.co/Fmr3ksP/PELIDOM.jpg", PeliDom  | DO
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2823/amlst:mainstream/chunklist_b3838964.m3u8?p=local&op_id=58&userId=0&channelId=2823&stime=1741376245&etime=1741462645&token=05739bde1b9b694315fd7
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2823/amlst:mainstream/chunklist_b5586336.m3u8?p=local&op_id=58&userId=0&channelId=2823&stime=1746222857&etime=1746309257&token=05c0c43a8dbdc2754e821
 #EXTINF:-12 tvg-id="715" tvg-name="Canal 25 Santiago" tvg-logo="https://www.m3u.cl/logo/715_Canal_25_Santiago.jpg", Canal 25 Santiago  | DO
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w897263989.m3u8
 #EXTINF:-13 tvg-id="752" tvg-name="Teleuniverso Canal 29" tvg-logo="https://www.m3u.cl/logo/752_Teleuniverso_Canal_29.png", Teleuniverso Canal 29  | DO
@@ -197,7 +197,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 #EXTINF:0 channel-id="hallmark-en-espanol-ptv1" channel-number="282" tvg-logo="https://images.pluto.tv/channels/65453ee6056b97000880302a/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65453ee6056b97000880302a/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Hallmark en español" tvc-guide-description="Hallmark en español te ofrece películas originales de romance y festividades orientadas a la familia que los hispanos adoran. Con una amplia colección de contenido del catálogo de Hallmark doblado al español, hay algo para todos." group-title="Season's Greetings", Hallmark en español
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65453ee6056b97000880302a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f6714952-a515-11ef-aef5-e50e06b1764b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=13ec9385-5623-4d50-a961-293ae47f77f2&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canela Clasicos
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Und efined",Canela Clasicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654

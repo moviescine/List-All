@@ -158,7 +158,7 @@ https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbe
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png", Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="Retro TV Online" tvg-logo="https://i.ibb.co/Pw6DrkQ/34298a-dbe9b2d0def84535beca857e505c19d8-mv2.png" , Retro TV Online
-wss://ssh101.bozztv.com/ssh101/retrotvcr
+https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974529.m3u8
 #EXTINF:-1 tvg-id="Retro TV Palmare" tvg-logo="https://i.ibb.co/JryHQxt/unnamed.png" , Retro TV Palmare
 https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
 #EXTINF:-1 tvg-id="Telesistema CR" tvg-logo="https://i.ibb.co/4Y6qPkJ/images.jpg" , Telesistema CR

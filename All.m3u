@@ -145,8 +145,6 @@ https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroX TV" tvg-logo="https://i.ibb.co/Fbj182j/1200x630bb.png" , RetroX TV
 https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="Retro TV" tvg-logo="https://i.ibb.co/RkpL3pQD/images.png" , Retro TV
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/UQJhsIsZErpHGcoLJVepFg/1745767787/media_mpegts_0.m3u8?channel_id=50177&source=othersites&device_id=8772489842-b0216e2a746ece5ff53d66aea52dba2d&lcp=2&client_id=225495949425521197&play_id=1745681387511158
 #EXTINF:-1 tvg-id="LMS" tvg-logo="https://i.ibb.co/gZH8Zpgs/lms.png" , LMS
 https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
 #EXTINF:-1 tvg-id="Video Club" tvg-logo="https://i.ibb.co/8THsmxB/Screenshot-2025-03-07-160601.png" , Video Club

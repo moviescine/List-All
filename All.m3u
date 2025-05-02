@@ -18,8 +18,6 @@ https://u.tvabierta.net/memfs/966badef-a62a-4386-9db4-0665ff13ae37_output_0.m3u8
 http://51.81.93.29:8084/hls/d15.m3u8
 #EXTINF:-10 tvg-id="751" tvg-name="Teleunion" tvg-logo="https://www.m3u.cl/logo/751_Teleunion.jpg", Teleunion  | DO
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
-#EXTINF:-11 tvg-id="751" tvg-name="PeliDom" tvg-logo="https://i.ibb.co/Fmr3ksP/PELIDOM.jpg", PeliDom  | DO
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2823/amlst:mainstream/chunklist_b5586336.m3u8?p=local&op_id=58&userId=0&channelId=2823&stime=1746222857&etime=1746309257&token=05c0c43a8dbdc2754e821
 #EXTINF:-12 tvg-id="715" tvg-name="Canal 25 Santiago" tvg-logo="https://www.m3u.cl/logo/715_Canal_25_Santiago.jpg", Canal 25 Santiago  | DO
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w897263989.m3u8
 #EXTINF:-13 tvg-id="752" tvg-name="Teleuniverso Canal 29" tvg-logo="https://www.m3u.cl/logo/752_Teleuniverso_Canal_29.png", Teleuniverso Canal 29  | DO
@@ -165,8 +163,6 @@ https://tv.arkeo.cl:19360/8134/8134.m3u8
 https://streamlov.alsolnet.com/maxanime/live/chunklist_w353100717.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3ywhxTh/images.jpg", BayresTV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6tXq9w5/220px-La-2-HD.png", La 2 HD
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_576.m3u8
 #EXTINF:-1 tvg-id="TVSFlashbackNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-flashback-network.jpg" group-title="Entertainment",TVS Flashback Network
 https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
 #EXTINF:-1 tvg-id="TVSHiTops.us" tvg-logo="https://i.imgur.com/RiWg1IA.png" group-title="Kids",TVS Hi Tops
@@ -187,5 +183,3 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 group-title="Bics MX", MX: LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 group-title="Bics MX", MX: CANAL 5
-http://181.78.105.146:2000/play/a038/index.m3u8

@@ -103,6 +103,8 @@ https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
  https://v1.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MeTVPlus.us" tvg-name="USA - ME TV HD" tvg-logo="http://103.176.90.118/picons-dino/logos/metv.png" group-title="|NA| USA GENERAL",USA - ME TV HD
 http://line.4kdd.online:80/0c360ece9b/ad15c7759ec2/469491
+#EXTINF:-1 tvg-id="" tvg-name="USA - METV PLUS" tvg-logo="http://103.176.90.118/picons/logos/USA/MeTV-PLUS.png" group-title="|NA| USA MOVIES",USA - METV PLUS
+http://line.4kdd.online:80/0c360ece9b/ad15c7759ec2/1218579
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Music",Retro Music Television (360p)
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80's

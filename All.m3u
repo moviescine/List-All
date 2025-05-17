@@ -101,6 +101,8 @@ https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 #EXTINF:-1 tvg-id="WAAYDT8.us" tvg-logo="https://www.cartoonbrew.com/wp-content/uploads/2024/05/metvtoons_logo.jpg" group-title="Animation;Kids",MeTV Toons (720p)
  https://v1.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MeTVPlus.us" tvg-name="METV+ HD" tvg-logo="http://103.176.90.118/picons-dino/logos/metv.png" group-title="METV+ HD
+http://line.4kdd.online:80/0c360ece9b/ad15c7759ec2/469491
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Music",Retro Music Television (360p)
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80's

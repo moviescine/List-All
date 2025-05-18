@@ -183,3 +183,5 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://line.4kdd.online:80/0c360ece9b/ad15c7759ec2/552089
 #EXTINF:-1 tvg-id="RetroPlex.us" tvg-name="USA - RETROPLEX HD" tvg-logo="http://51.158.145.100/picons/logos/USA/RETROPLEX.png" group-title="|NA| USA MOVIES",USA - RETROPLEX HD
 http://line.4kdd.online:80/0c360ece9b/ad15c7759ec2/469494
+#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA HD" group-title="Live",Turner Classic Movies USA HD
+https://tvpass.org/live/TCMEast/hd

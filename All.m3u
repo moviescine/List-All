@@ -105,8 +105,8 @@ https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 http://line.4kdd.online:80/0c360ece9b/ad15c7759ec2/469491
 #EXTINF:-1 tvg-id="" tvg-name="USA - METV PLUS" tvg-logo="http://103.176.90.118/picons/logos/USA/MeTV-PLUS.png" group-title="|NA| USA MOVIES",USA - METV PLUS
 http://line.4kdd.online:80/0c360ece9b/ad15c7759ec2/1218579
-#EXTINF:-1 tvg-id="" tvg-name="US: METV TOONS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12580.jpg?24364" group-title="US| KIDS HD/4K",US: METV TOONS HD
-http://cf.hi-max.me:80/b827f4d4874d/3764cde368/1015278
+#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey HD "tvg-logo="https://www.cartoonbrew.com/wp-content/uploads/2024/05/metvtoons_logo.jpg" group-title="Live",MeTV Toons (WJLP2) New Jersey HD
+https://tvpass.org/live/metv-toons/hd
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Music",Retro Music Television (360p)
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80's
@@ -185,5 +185,3 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://line.4kdd.online:80/0c360ece9b/ad15c7759ec2/552089
 #EXTINF:-1 tvg-id="RetroPlex.us" tvg-name="USA - RETROPLEX HD" tvg-logo="http://51.158.145.100/picons/logos/USA/RETROPLEX.png" group-title="|NA| USA MOVIES",USA - RETROPLEX HD
 http://line.4kdd.online:80/0c360ece9b/ad15c7759ec2/469494
-#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey HD" group-title="Live",MeTV Toons (WJLP2) New Jersey HD
-https://tvpass.org/live/metv-toons/hd

@@ -144,7 +144,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="Retro TV Online" tvg-logo="https://i.ibb.co/Pw6DrkQ/34298a-dbe9b2d0def84535beca857e505c19d8-mv2.png" , Retro TV Online
 https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974529.m3u8
 #EXTINF:-1 tvg-id="Retro TV Palmare" tvg-logo="https://i.ibb.co/JryHQxt/unnamed.png" , Retro TV Palmare
-https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 #EXTINF:-1 tvg-id="Telesistema CR" tvg-logo="https://i.ibb.co/4Y6qPkJ/images.jpg" , Telesistema CR
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroX TV" tvg-logo="https://i.ibb.co/Fbj182j/1200x630bb.png" , RetroX TV

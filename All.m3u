@@ -27,7 +27,7 @@ http://200.125.170.122:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png", TV Exitos  | DO
 https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="La Voz de Maria Tv" tvg-logo="https://pbs.twimg.com/profile_images/1429155252/LVM___4_0000_400x400.png", La Voz de Maria Tv  | DO
-https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w778843740.m3u8
+https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://i.imgur.com/TQMIFOD.png", Telecontacto Canal 57  | DO
 https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 #EXTINF:-1 tvg-id="861" tvg-name="Cielo TV Cristiana" tvg-logo="https://www.m3u.cl/logo/861_Cielo_TV_Cristiana.png", Cielo TV Cristiana  | DO
@@ -35,7 +35,7 @@ https://streaming.servervideo.net:1936/cielotv/cielotv/chunklist_w835623951.m3u8
 #EXTINF:-1 tvg-id="853" tvg-name="La Fe Mueve Montanas" tvg-logo="https://www.m3u.cl/logo/853_La_Fe_Mueve_Montanas.png", La Fe Mueve Montanas  | DO
 https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="710" tvg-name="Amé" tvg-logo="https://www.m3u.cl/logo/710_Ame.jpg", Amé  | DO
-https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
+https://ss2.tvrdomi.com:1936/ame47/ame47/chunklist.m3u8
 #EXTINF:-1 tvg-id="713" tvg-name="Boreal Televisión" tvg-logo="https://www.m3u.cl/logo/713_Boreal_Television.jpg", Boreal Televisión  | DO
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-id="718" tvg-name="Cinevision Canal 19" tvg-logo="https://www.m3u.cl/logo/718_Cinevision_Canal_19.jpg", Cinevision Canal 19  | DO
@@ -54,8 +54,6 @@ https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/playlist.m3u8
 https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
 #EXTINF:-1 tvg-id="743" tvg-name="Telefuturo" tvg-logo="https://www.m3u.cl/logo/743_Telefuturo.png", Telefuturo  | DO
 http://190.110.36.254:80/TELEFUTURO/index.m3u8
-#EXTINF:-1 tvg-id="744" tvg-name="Telemilenio" tvg-logo="https://www.m3u.cl/logo/744_Telemilenio.png", Telemilenio  | DO
-https://vdo1.streamgato.us:3677/live/telemileniolive.m3u8
 #EXTINF:-1 tvg-id="746" tvg-name="Telenord 10" tvg-logo="https://www.m3u.cl/logo/746_Telenord_10.png", Telenord 10  | DO
 https://rdn.essastream.com:3676/live/telenord10live.m3u8
 #EXTINF:-1 tvg-id="747" tvg-name="Telenord 12" tvg-logo="https://www.m3u.cl/logo/747_Telenord_12.jpg", Telenord 12  | DO
@@ -65,7 +63,7 @@ https://rdn.essastream.com:3170/live/telenord8live.m3u8
 #EXTINF:-11 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News",Antena 21 | DO
 https://d1p8txxph783az.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-id="TRANoticias.do" tvg-logo="https://i.imgur.com/M6ZhJqM.png" group-title="News",TRA Noticias | DO
-https://fl1002.bozztv.com/ssh101/rctvhdtra/tracks-v1a1/mono.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8
 #EXTINF:-1 tvg-id="758" tvg-name="Telered" tvg-logo="https://www.voiceovercr.com/mayorkilling_weapons/2020/10/LOGO-TELERED-OFICIAL.png", TELERED  | CO
 https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="759" tvg-name="TVS TV" tvg-logo="https://www.m3u.cl/logo/759_TVS_TV.png", TVS TV  | DO
@@ -81,7 +79,7 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-id="761" tvg-name="Vegavision Canal 18" tvg-logo="https://www.m3u.cl/logo/761_Vegavision_Canal_18.png", Vegavision Canal 18  | DO
 https://server2grupocam.com/megavision/MV/chunklist_w534390337.m3u8
 #EXTINF:-1 tvg-id="763" tvg-name="Zol 106.5 FM" tvg-logo="https://www.m3u.cl/logo/763_Zol_106_5_FM.jpg", Zol 106.5 FM  | DO
-https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(NklFabzIGCKnurBi9mvcoH-n49TZGNbHORn4HYfOh_jC4WrK39spGZi7s04YkhBrsYRo8MANdYKFtycuiWZKxQJHkcRnRjo1vyr2_ME2_kfVP1NOXhA4FpeKAHIHgLAf)/cloud/3/x9ijobo/s/live-720.m3u8
 #EXTINF:-1 tvg-id="710" tvg-name="Dreiko Tv" tvg-logo="https://platcon.tv/img/p/4/3/9/439-thickbox_default.jpg", Dreiko Tv  | PAN
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-id="756" tvg-logo="https://i.ibb.co/HNxN9st/locomotion1-120550-preview-1083-545-white.png" group-title="Retro",Locomotion | AR
@@ -146,14 +144,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/gogoplaysd/chunks.m3u8
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFvm8Hw/max-anime.jpg", MAX Anime
 https://streamlov.alsolnet.com/maxanime/live/chunklist_w353100717.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3ywhxTh/images.jpg", BayresTV
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="TVSFlashbackNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-flashback-network.jpg" group-title="Entertainment",TVS Family Channel
 https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="TVSHiTops.us" tvg-logo="https://i.imgur.com/RiWg1IA.png" group-title="Kids",TVS Hi Tops
 https://rpn.bozztv.com/gusa/gusa-hitops/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="Canala Clasicos" tvg-logo="https://i.ibb.co/0jRs3vdx/2c3b4aa60708c5ede46578dbf85320b4.webp" group-title="Classic",Canela Classic Movies
-https://amg00658-amg00658c26-canelatv-international-5056.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicos-canelatvinternational/cb543d1a736c648e99d43d63d2ef49a0f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7557db80148b61299bce8c37683f03409a5e5afba358b1ebb00c13d939f2b41b55972814b69f43c8821ca6d18159995e8227f5169d91f28b8241878e9b4a936de3241967206897847596bb36dcb3996837997d29080a43bccff99b4d339657422e9b95aaef3f8879a18d20976934be3f944e8a379f6aad0cd58524c2a8a8852c2b5badc729094dc6cc81a8aa7864e71391cfe8cd63438ae21b6a42f678ca2e595cfa9fe535debc7ffca330baa47b142ec1925ce9ecd8ece1a58146a330d9f8e48a34544f601d58f637ca936bda16c961b8cb6145362f6a8ca8aea5eca436ec96f9e7fa3cf03c59cbff848ed60032c961151ada65c94e0760c5371e048f4fd7bb4ca10dbb68ff5813f44a218802ddb529e7aed8e47c4edd3059f79e1d819004c1f70caa6539192da9f3215e073f15683ed36c421b93149ebbe4e074000fe2f6c1b4a7395d566842025dd9a98f15ea25010ccb85dc010619ed7f9e41cbc1587f4a3c2123cc0cdaaf083bb6072f39e9981b52576598cfbebb4ab7a04b9870c9c6f1352e740c2ded734d1167ddb2824eee78654a3a0cd0413418fd30534cbcc192a581d63a87dc45ba286e1154c0f23c481d1d26305dd5c33e9716c9bb2994b7861cc0e6861705a239a00a1fd790ff64eae28cc2005ec3ff194929c79d7785402cc116c622c787238ffe06506e492a22f5875afb50aeccda967be84b837b432fba36ebe6a0d9b04159e89646364979761f6d5d7b294cf59ae26d0e7fe3ab34a43ac2ee46a2565b2335258dd6183f6689e6dd299518667b117b479842879af797e1d8affb90/34/1920x1080_6423560/index.m3u8
 #EXTINF:-1 group-title="Bics US", US: TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="Bics US", US: UNIVISION

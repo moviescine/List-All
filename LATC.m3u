@@ -737,4 +737,35 @@ http://209.45.20.210:50001/play/a02p/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",ESPN DEPORTES
 http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES",FOX DEPORTES
+
+
 https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+#EXTINF:-1 tvg-id="LMS" tvg-logo="https://i.ibb.co/gZH8Zpgs/lms.png" , LMS
+https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/67d9f3e4ef5510055f68b7edba6d87f0.png", Diti TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/dititv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/b07b1dab89e9fb0ddbc3e830bf55b1be.png", AniRetro
+https://tv.arkeo.cl:19360/8000/8000.m3u8
+#EXTINF:-1 tvg-id="LMS" tvg-logo="https://i.ibb.co/Q7rm0926/Screenshot-2025-03-07-155652.png" , Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/chunklist_w987570594.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G2fNxS4/unnamed.jpg", Moni TV
+https://tv.arkeo.cl:19360/8134/8134.m3u8
+#EXTINF:-1 tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/e1ff8587666990c8f6c8a6fa24d3055f.png", Latino Kids TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/onlinezyoontv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.paste.pics/2187dd0bf17bc4d9120ec79f47ad0145.png", Radio Lado Oscuro TV
+https://stmv5.voxtvhd.com.br/cattotv/cattotv/chunklist_w779730419.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png", +Cine
+https://tv.arkeo.cl:19360/8128/8128.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/c222500733a7a838f6c986f0b46c43cd.png", Canal 74 TeVe
+https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-12 tvg-id="715" tvg-name="Canal 25 Santiago" tvg-logo="https://www.m3u.cl/logo/715_Canal_25_Santiago.jpg", Canal 25 Santiago  | DO
+https://ss3.domint.net:3150/c25_str/canal25/chunklist_w897263989.m3u8
+#EXTINF:-1 tvg-id="744" tvg-name="Telemilenio" tvg-logo="https://www.m3u.cl/logo/744_Telemilenio.png", Telemilenio  | DO
+https://vdo1.streamgato.us:3677/live/telemileniolive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ywhxTh/images.jpg", BayresTV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1 tvg-id="Canala Clasicos" tvg-logo="https://i.ibb.co/0jRs3vdx/2c3b4aa60708c5ede46578dbf85320b4.webp" group-title="Classic",Canela Classic Movies
+https://amg00658-amg00658c26-canelatv-international-5056.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicos-canelatvinternational/cb543d1a736c648e99d43d63d2ef49a0f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7557db80148b61299bce8c37683f03409a5e5afba358b1ebb00c13d939f2b41b55972814b69f43c8821ca6d18159995e8227f5169d91f28b8241878e9b4a936de3241967206897847596bb36dcb3996837997d29080a43bccff99b4d339657422e9b95aaef3f8879a18d20976934be3f944e8a379f6aad0cd58524c2a8a8852c2b5badc729094dc6cc81a8aa7864e71391cfe8cd63438ae21b6a42f678ca2e595cfa9fe535debc7ffca330baa47b142ec1925ce9ecd8ece1a58146a330d9f8e48a34544f601d58f637ca936bda16c961b8cb6145362f6a8ca8aea5eca436ec96f9e7fa3cf03c59cbff848ed60032c961151ada65c94e0760c5371e048f4fd7bb4ca10dbb68ff5813f44a218802ddb529e7aed8e47c4edd3059f79e1d819004c1f70caa6539192da9f3215e073f15683ed36c421b93149ebbe4e074000fe2f6c1b4a7395d566842025dd9a98f15ea25010ccb85dc010619ed7f9e41cbc1587f4a3c2123cc0cdaaf083bb6072f39e9981b52576598cfbebb4ab7a04b9870c9c6f1352e740c2ded734d1167ddb2824eee78654a3a0cd0413418fd30534cbcc192a581d63a87dc45ba286e1154c0f23c481d1d26305dd5c33e9716c9bb2994b7861cc0e6861705a239a00a1fd790ff64eae28cc2005ec3ff194929c79d7785402cc116c622c787238ffe06506e492a22f5875afb50aeccda967be84b837b432fba36ebe6a0d9b04159e89646364979761f6d5d7b294cf59ae26d0e7fe3ab34a43ac2ee46a2565b2335258dd6183f6689e6dd299518667b117b479842879af797e1d8affb90/34/1920x1080_6423560/index.m3u8
+

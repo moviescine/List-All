@@ -135,6 +135,8 @@ https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.ts.m3u8
 https://live21.bozztv.com/akamaissh101/ssh101/retroxcrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Video Club" tvg-logo="https://i.ibb.co/8THsmxB/Screenshot-2025-03-07-160601.png" , Video Club
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SHjJCg1/ecb5be2017e0e0ae994907a480c22f77f67a496357eaa36467d0bb85623cc681.jpg" group-title="Cartoons",Cartoon Classics
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 #EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Animation;Kids" http-referrer="https://xtrematv.com/?p=1390",Xtrema Cartoons
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8

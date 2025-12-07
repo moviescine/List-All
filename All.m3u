@@ -133,6 +133,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="RetroX TV" tvg-logo="https://i.ibb.co/Fbj182j/1200x630bb.png" , RetroX TV
 https://live21.bozztv.com/akamaissh101/ssh101/retroxcrtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/V0dWcZwj/Hallmark-En-Espanol.png" group-title="Películas",Hallmark en español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
 #EXTINF:-1 tvg-id="Video Club" tvg-logo="https://i.ibb.co/8THsmxB/Screenshot-2025-03-07-160601.png" , Video Club
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SHjJCg1/ecb5be2017e0e0ae994907a480c22f77f67a496357eaa36467d0bb85623cc681.jpg" group-title="Cartoons",Cartoon Classics

@@ -1,21 +1,21 @@
 #EXTINF:-2 tvg-id="714" tvg-name="Canal 4 RD" tvg-logo="https://www.m3u.cl/logo/714_Canal_4_RD.png", Canal 4 RD  | DO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-3 tvg-id="Telemicro" tvg-logo="https://i.ibb.co/mN7P5Sd/Logo-Creation.jpg" group-title="Undefined", Telemicro 5 | DO
-https://cors-proxy.cooks.fyi/http://190.123.76.22:8000/play/a023/index.m3u8
+https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
 #EXTINF:-4 tvg-id="754" tvg-name="Antena Latina" tvg-logo="https://i.postimg.cc/4x6Zxw2m/antenalatina.jpg", Antena Latina  | DO
 https://alba-do-antena7-antena7.stream.mediatiquestream.com:443/original.m3u8
 #EXTINF:-5 tvg-id="709" tvg-name="Color Vision" tvg-logo="https://i.ibb.co/b5NZGjB/unnamed-2.png", Color Vision | DO
-https://cors-proxy.cooks.fyi/http://190.123.76.22:8000/play/a024/index.m3u8
+http://38.159.232.166:8000/play/a00z/index.m3u8
 #EXTINF:-6 tvg-id="728" tvg-name="Microvision" tvg-logo="https://www.m3u.cl/logo/728_Microvision.jpg", Microvision  | DO
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1882494547.m3u8
 #EXTINF:-7 tvg-id="Telesistema.do" tvg-logo="https://i.imgur.com/XVcUUy3.png" group-title="Undefined",Telesistema | DO
-http://190.123.76.22:8000/play/a045/index.m3u8
+http://200.125.170.122:8000/play/a0ci/index.m3u8
 #EXTINF:-1 tvg-id="Teleantillas" tvg-logo="https://i.ibb.co/31y5YRR/descarga-1.jpg" group-title="Undefined",Teleantillas | DO
-https://cors-proxy.cooks.fyi/http://190.123.76.22:8000/play/a043/index.m3u8
+http://200.125.170.122:8000/play/a0cg/index.m3u8
 #EXTINF:-8 tvg-id="Telecentro.do" tvg-logo="https://i.imgur.com/Spp8rQs.png" group-title="Undefined",Telecentro | DO
-https://cors-proxy.cooks.fyi/http://200.125.170.122:8000/play/a03n/index.m3u8
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
 #EXTINF:-9 tvg-id="Digital15.do" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Undefined",Digital 15 | DO
-http://190.123.76.22:8000/play/a02u/index.m3u8
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
 #EXTINF:-10 tvg-id="751" tvg-name="Teleunion" tvg-logo="https://www.m3u.cl/logo/751_Teleunion.jpg", Teleunion  | DO
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-13 tvg-id="752" tvg-name="Teleuniverso Canal 29" tvg-logo="https://www.m3u.cl/logo/752_Teleuniverso_Canal_29.png", Teleuniverso Canal 29  | DO

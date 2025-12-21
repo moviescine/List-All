@@ -97,8 +97,6 @@ https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="MeTVPlus.us" tvg-name="USA - ME TV HD" tvg-logo="http://103.176.90.118/picons-dino/logos/metv.png" group-title="|NA| USA GENERAL",USA - ME TV HD
 http://line.4kdd.online:80/0c360ece9b/ad15c7759ec2/469491
-#EXTINF:-1 tvg-id="" tvg-name="USA - METV PLUS" tvg-logo="http://103.176.90.118/picons/logos/USA/MeTV-PLUS.png" group-title="|NA| USA MOVIES",USA - METV PLUS
-http://line.4kdd.online:80/0c360ece9b/ad15c7759ec2/1218579
 #EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey HD "tvg-logo="https://www.cartoonbrew.com/wp-content/uploads/2024/05/metvtoons_logo.jpg" group-title="Live",MeTV Toons (WJLP2) New Jersey HD
 https://tvpass.org/live/metv-toons/hd
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Music",Retro Music Television (360p)
@@ -162,7 +160,3 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://line.4kdd.online:80/0c360ece9b/ad15c7759ec2/552089
 #EXTINF:-1 tvg-id="RetroPlex.us" tvg-name="USA - RETROPLEX HD" tvg-logo="http://51.158.145.100/picons/logos/USA/RETROPLEX.png" group-title="|NA| USA MOVIES",USA - RETROPLEX HD
 http://line.4kdd.online:80/0c360ece9b/ad15c7759ec2/469494
-#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA HD" group-title="Live",Turner Classic Movies USA HD
-https://tvpass.org/live/TCMEast/hd
-#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey SD" group-title="Live",MeTV Toons (WJLP2) New Jersey SD
-https://tvpass.org/live/metv-toons/sd

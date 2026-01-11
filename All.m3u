@@ -160,3 +160,27 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://line.4kdd.online:80/0c360ece9b/ad15c7759ec2/552089
 #EXTINF:-1 tvg-id="RetroPlex.us" tvg-name="USA - RETROPLEX HD" tvg-logo="http://51.158.145.100/picons/logos/USA/RETROPLEX.png" group-title="|NA| USA MOVIES",USA - RETROPLEX HD
 http://line.4kdd.online:80/0c360ece9b/ad15c7759ec2/469494
+http://cord-cutter.net:8080/bn80NG/909467/21360
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MX: Foro TV HD" .LATINO",MX: Foro TV HD
+http://cord-cutter.net:8080/bn80NG/909467/57594
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MX | CNN " .LATINO",MX | CNN
+http://cord-cutter.net:8080/bn80NG/909467/57619
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MX | Discovery Channel" .LATINO",MX | Discovery Channel
+http://cord-cutter.net:8080/bn80NG/909467/57625
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MX: Cinemax" .LATINO",MX: Cinemax
+http://cord-cutter.net:8080/bn80NG/909467/57638
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MX  DISTRITO COMEDIA" .LATINO",MX  DISTRITO COMEDIA
+http://cord-cutter.net:8080/bn80NG/909467/57639
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="US Latin Discovery (F)" .LATINO",US Latin Discovery (F)
+http://cord-cutter.net:8080/bn80NG/909467/57645
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MX: Multimedios " .LATINO",MX: Multimedios
+http://cord-cutter.net:8080/bn80NG/909467/57646
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES: CANAL COCINA" .LATINO",ES: CANAL COCINA
+http://cord-cutter.net:8080/bn80NG/909467/57698
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MX Multimedios HD" .LATINO",MX Multimedios HD
+http://cord-cutter.net:8080/bn80NG/909467/57711
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MX | TNT " .LATINO",MX | TNT
+http://cord-cutter.net:8080/bn80NG/909467/57719
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="LAT: TELEMUNDO 51 MIAMI HD" .LATINO",LAT: TELEMUNDO 51 MIAMI HD
+http://cord-cutter.net:8080/bn80NG/909467/56410
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="US Latin Hola TV (A)" .LATINO",US Latin Hola TV (A)

@@ -189,4 +189,5 @@ http://cord-cutter.net:8080/bn80NG/909467/20976
 http://cord-cutter.net:8080/bn80NG/909467/57969
 #EXTINF:-1 tvg-id="univision23wltv.us" tvg-logo="" tvg-name="US Univision (East) (SP)" .USA",US Univision (East) (SP)
 http://cord-cutter.net:8080/bn80NG/909467/46692
-
+#EXTINF:-1 tvg-id="estrellamedia" tvg-logo="https://i.postimg.cc/76DPtJZd/ESTRELLA-TV.png" group-title="VARIEDADES",ESTRELLA TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8

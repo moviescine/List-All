@@ -215,13 +215,4 @@ http://cord-cutter.net:8080/bn80NG/909467/78700
 http://cord-cutter.net:8080/bn80NG/909467/164869
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ARG: TELEFE INTERNACIONAL HD" .Argentina",ARG: TELEFE INTERNACIONAL HD
 http://cord-cutter.net:8080/bn80NG/909467/164870
-#EXTINF:-1 group-title="© De Pelicula" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/220px-DPel%C3%ADcula_2021.svg.png",DE PELICULA HD 
-http://190.60.42.86:8000/play/a013/index.m3u8
-#EXTINF:-1,DE PELICULA
-http://179.49.163.34:45000/play/a013/index.m3u8
-#EXTINF:-1,DE PELICULA
-http://190.60.33.237:1010/play/a0ec/index.m3u8
-#EXTINF:-1,DE PELICULA
-http://181.78.106.127:9000/play/ca073/index.m3u8
-#EXTINF:-1,Cine Latino
-http://38.180.133.31:8000/play/a0qa/index.m3u8
+

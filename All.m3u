@@ -215,4 +215,15 @@ http://cord-cutter.net:8080/bn80NG/909467/78700
 http://cord-cutter.net:8080/bn80NG/909467/164869
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ARG: TELEFE INTERNACIONAL HD" .Argentina",ARG: TELEFE INTERNACIONAL HD
 http://cord-cutter.net:8080/bn80NG/909467/164870
-
+#EXTINF:-1 tvg-id="garavitotv" tvg-logo="https://i.postimg.cc/3xhCFB6f/GARAVITO-TV.png" group-title="CINE-SERIES",GARAVITO TV
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+#EXTINF:-1 tvg-id="tigueritos" tvg-logo="https://i.postimg.cc/qMXVzjc3/TIGUERITOS-TV.jpg" group-title="ANIME-INFANTIL",TIGUERITOS TV 
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7 (720p)
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-id="AztecaHonduras.hn@SD" tvg-logo="https://i.imgur.com/sxFh1dw.png" group-title="General",Azteca Honduras (720p)
+https://dvrfl03.bozztv.com/hondu-azteca/index.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment",Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno (720p)
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8

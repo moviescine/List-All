@@ -48,8 +48,6 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="kids" tvg-logo="https://i.postimg.cc/Bny8FgvG/3-ABN-KIDS-LOGO.png" group-title="ANIME-INFANTIL",3ABN KIDS
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="peque-pequetv" tvg-logo="https://i.postimg.cc/ZYpnbj6p/PEQUERADIOS.jpg" group-title="ANIME-INFANTIL",PEQUERADIO TV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="xtrema" tvg-logo="https://i.postimg.cc/6pM6TFLS/XTREMA-KIDS-TV.jpg" group-title="ANIME-INFANTIL",XTREMA ANIME
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1 tvg-id="ztvplay" tvg-logo="https://i.postimg.cc/5N0Vbs3R/ZTV-ANIME.jpg" group-title="ANIME-INFANTIL",ZTV ANIME
@@ -64,8 +62,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5
 https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
 #EXTINF:-1 tvg-id="cosmostv" tvg-logo="https://i.postimg.cc/nV7JQSYC/COSMOS-TV.jpg" group-title="CINE-SERIES",COSMOS TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-id="persiana" tvg-logo="https://i.postimg.cc/wjysj8c7/PERSIANA-LATINO.png" group-title="CINE-SERIES",PERSIANA LATINO
-https://latinohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="horrortv" tvg-logo="https://i.postimg.cc/D0Ny90Nm/HORROR-VISION.png" group-title="CINE-SERIES",HORROR VISION
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=sci-fi%2Cmystery%2Chorror&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=DarkMatterTV&ads.content_livestream=0&ads.csid=zeus_es_tricoastdarkmatteres_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4070&ads.rakuten_streaming_id=063cf442-8adc-4e40-84c5-f86d67b38d83&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883019&ads.xumo_contentId=3479&ads.xumo_contentName=TriCoastDarkMatterES&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3479&ads.xumo_providerName=dark-matter-spa-rakutentv&ads.xumo_streamId=88883019
 #EXTINF:-1 tvg-id="friki" tvg-logo="https://i.postimg.cc/8zszspPX/CINE-FRIKI.jpg" group-title="CINE-SERIES",CINE FRIKI
@@ -90,12 +86,6 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bjtjme" tvg-logo="https://i.postimg.cc/q7vfHTLj/channels4-profile.jpg" group-title="CINE-SERIES",BIGTIME
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
-#EXTINF:-1 tvg-id="freetv" tvg-logo="https://i.postimg.cc/NfrSdHBc/CIBAE-A-TV.png" group-title="CINE-SERIES",FREE TV LIVE
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="freetv" tvg-logo="https://i.postimg.cc/PxSD1WPs/FREE-TV.png" group-title="CINE-SERIES",FREE TV
-https://freetv.stream.olympusatmedia.com/index.m3u8
-#EXTINF:-1 tvg-id="amc2" tvg-logo="https://i.postimg.cc/xTTDNL6p/AMC-2.png" group-title="CINE-SERIES",AMC ESPAÑOL
-https://d38fxgxhpllpfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="amcplex" tvg-logo="https://i.postimg.cc/T3pzCfMr/AMC-PLEX.jpg" group-title="CINE-SERIES",AMC PLEX
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="classiquetv" tvg-logo="https://i.postimg.cc/CKXnY4gj/CLASSIQUE-TV.jpg" group-title="CINE-SERIES",CLASSIQUE TV

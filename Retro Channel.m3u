@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="48" tvg-logo="" group-title="Entretenimiento",TV Retro Palmares Music 
+http://localhost:3000/proxy?url=https%3A%2F%2Flbgo.bozztv.com%2Fssh101%2Fssh101%2Fretrohitsmusic%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="47" tvg-logo="" group-title="Entretenimiento",GogoPlay
+http://localhost:3000/proxy?url=https%3A%2F%2Flbgo.bozztv.com%2Fssh101%2Fssh101%2Fgogoplay%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="46" tvg-logo="" group-title="Entretenimiento",Laika Channel Galicia
+http://localhost:3000/proxy?url=https%3A%2F%2Flive20.bozztv.com%2Fgiatvplayout7%2Fgiatv-210596%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="45" tvg-logo="" group-title="Entretenimiento",STV SarapiquiTV
+http://localhost:3000/proxy?url=https%3A%2F%2Flstv.duckdns.org%3A449%2Fhls%2Fstv.m3u8
+#EXTINF:-1 tvg-id="44" tvg-logo="" group-title="Entretenimiento",EnerGeek Retro
+http://localhost:3000/proxy?url=https%3A%2F%2Fbackend.energeek.cl%2Fwebtv%2Fegretroweb%2Findex.m3u8%3Ftoken%3DS3r3noTV
+#EXTINF:-1 tvg-id="43" tvg-logo="" group-title="Entretenimiento",Anime Station 
+http://localhost:3000/proxy?url=https%3A%2F%2F183.bozztv.com%2Fgiatv%2Fgiatv-Retrotoonstv%2FRetrotoonstv%2Fchunks.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="" group-title="Entretenimiento",Delmi TV 
+http://localhost:3000/proxy?url=https%3A%2F%2Flive20.bozztv.com%2Fgiatvplayout7%2Fgiatv-210634%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="41" tvg-logo="" group-title="Entretenimiento",Xtrema Cartoons 
+http://localhost:3000/proxy?url=https%3A%2F%2Fstmv6.voxtvhd.com.br%2Fxtremacartoons%2Fxtremacartoons%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="40" tvg-logo="" group-title="Entretenimiento",ZYooTV
+http://localhost:3000/proxy?url=https%3A%2F%2Flive20.bozztv.com%2Fgiatv%2Fgiatv-ZYOONTV%2FZYOONTV%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="39" tvg-logo="" group-title="Entretenimiento",Telecontacto 57
+http://localhost:3000/proxy?url=https%3A%2F%2Fstreaming.grupomediosdelnorte.com%3A19360%2Ftelecontacto%2Ftelecontacto.m3u8
+#EXTINF:-1 tvg-id="38" tvg-logo="" group-title="Entretenimiento",Teleunion canal 12 
+http://localhost:3000/proxy?url=https%3A%2F%2F68aff552e1684.streamlock.net%2Fteleunion%2FTU%2Fchunklist_w1930905338.m3u8
+#EXTINF:-1 tvg-id="37" tvg-logo="" group-title="Entretenimiento",Luna TV canal 25 
+http://localhost:3000/proxy?url=https%3A%2F%2Ftv.wracanal10.com%3A3671%2Flive%2Flunatvcanal53live.m3u8
+#EXTINF:-1 tvg-id="36" tvg-logo="" group-title="Entretenimiento",Teleuniverso Canal 29
+http://localhost:3000/proxy?url=https%3A%2F%2Fvideoserver.tmcreativos.com%3A19360%2Fkptjeckkaa%2Fkptjeckkaa.m3u8
+#EXTINF:-1 tvg-id="35" tvg-logo="" group-title="Entretenimiento",RNN Canal 27 
+http://localhost:3000/proxy?url=https%3A%2F%2F2-fss-2.streamhoster.com%2Fpl_138%2F206532-6829902-1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="34" tvg-logo="" group-title="Entretenimiento",Telemicro Canal 5
+http://localhost:3000/proxy?url=https%3A%2F%2Flive2.telemicro.com.do%2Flive%2F55%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="33" tvg-logo="" group-title="Entretenimiento",RTVD 
+http://localhost:3000/proxy?url=https%3A%2F%2Fprotvradiostream.com%3A1936%2Fcanal4rd-1%2Fngrp%3Acanal4rd-1_all%2Fchunklist_w240286473_b4628000.m3u8
+#EXTINF:-1 tvg-id="32" tvg-logo="" group-title="Entretenimiento",Digital 15
+http://localhost:3000/proxy?url=https%3A%2F%2Flive4.telemicro.com.do%2Flive%2Fdigital15cast_1080p%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="" group-title="Entretenimiento",Telecentro 13
+http://localhost:3000/proxy?url=https%3A%2F%2Flive2.telemicro.com.do%2Flive%2Ftelecentrocast_1080p%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="30" tvg-logo="" group-title="Entretenimiento",Telesistema Canal 11 
+http://localhost:3000/proxy?url=https%3A%2F%2Fcors-proxy.cooks.fyi%2Fhttp%3A%2F%2F190.122.104.210%3A5080%2FLiveApp%2Fstreams%2FYpEgxoW1AywHuG6b366663247164879.m3u8
+#EXTINF:-1 tvg-id="29" tvg-logo="" group-title="Entretenimiento",CDN Canal 37
+http://localhost:3000/proxy?url=https%3A%2F%2Flive.eu-north-1b.cf.dmcdn.net%2Fsec2(2CQGmHMcNFYMe-MZCl1R7Er5NW7h4qSy5Bew-YDQh_Qhy25HIBHPBz8BdOTQhuQHbD_FG26I4HVIeIWKCryCHRc8nXw_mge6u_5wus_W5Q0cqtlXhr4BYNHuok76fpRSFy0wjfmcLOAROYWRBVtkuw)%2Fdm%2F3%2Fx9lincs%2Fs%2Flive-480.m3u8%3Fstartdate%3D2026-06-12T19%253A21%253A09%252B0000%23cell%3Dlcf-eu-north-1b
+#EXTINF:-1 tvg-id="28" tvg-logo="" group-title="Entretenimiento",Colorvision
+http://localhost:3000/proxy?url=https%3A%2F%2Flive.eu-north-1a.cf.dmcdn.net%2Fsec2(voVFbo06u6JgIUG8uuo5QSNzuT96E9qMZh1VN2sH8UuTvnyFLplcB8_zCbmSQCZZ8QlZddxhHOjINwW6imK5UhejsO08OcPMoZDXwiFWFMkYwH5Mw0wK5Tp_cHjIjDvj)%2Fdm%2F3%2Fx7gy059%2Fd%2Flive-480.m3u8%3Fstartdate%3D2026-05-28T01%253A25%253A09%252B0000%23cell%3Dlcf-eu-north-1a
+#EXTINF:-1 tvg-id="27" tvg-logo="" group-title="Entretenimiento",Antena 7 
+http://localhost:3000/proxy?url=https%3A%2F%2Fds.tvabierta.net%2Fmemfs%2F33981d0f-ff9a-40a7-9cf2-29b75f373037_output_0.m3u8
+#EXTINF:-1 tvg-id="26" tvg-logo="" group-title="Entretenimiento",Teleantillas 
+http://localhost:3000/proxy?url=https%3A%2F%2Fds.tvabierta.net%2Fmemfs%2Ffde81577-b1ae-48ab-bac4-4ae5908af483_output_0.m3u8
+#EXTINF:-1 tvg-id="25" tvg-logo="" group-title="Entretenimiento",The Retro Channel 
+http://localhost:3000/proxy?url=https%3A%2F%2F583ed2f226ac2.streamlock.net%2Ftheretrochannel%2Fstream%2Fchunklist_w1254287817.m3u8
+#EXTINF:-1 tvg-id="24" tvg-logo="" group-title="Entretenimiento",TV Retro Palmares 
+http://localhost:3000/proxy?url=https%3A%2F%2Flive20.bozztv.com%2Fakamaissh101%2Fssh101%2Ftvretropalmares%2Fchunks.m3u8
+#EXTINF:-1 tvg-id="23" tvg-logo="" group-title="Entretenimiento",Pluto TV Cine Clásico
+http://localhost:3000/proxy?url=https%3A%2F%2Fcfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv%2Fv2%2Fstitch%2Fhls%2Fchannel%2F609059dc63be6e0007b4eca6%2Fmaster.m3u8%3FadvertisingId%3D%26appName%3Dweb%26appVersion%3D9.22.0-ba99318afe50de3c8a02021f4c92fd52f2c47a00%26app_name%3Dweb%26clientDeviceType%3D0%26clientID%3D15c2d6e0-baa6-4c3a-b312-8f96eb13d3d4%26clientModelNumber%3D1.0.0%26country%3DDO%26deviceDNT%3Dfalse%26deviceId%3D15c2d6e0-baa6-4c3a-b312-8f96eb13d3d4%26deviceLat%3D19.4900%26deviceLon%3D-70.7300%26deviceMake%3Dchrome%26deviceModel%3Dweb%26deviceType%3Dweb%26deviceVersion%3D149.0.0%26marketingRegion%3DVE%26serverSideAds%3Dfalse%26sessionID%3Ddca83155-7869-11f1-aabb-563000e8113a%26sid%3Ddca83155-7869-11f1-aabb-563000e8113a%26userId%3D%26jwt%3DeyJhbGciOiJIUzI1NiIsImtpZCI6IjEzYzMzNzI5LTk2ODEtNGFmNy05YWYwLTNlMjJjMThiNzVlOCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkY2E4MzE1NS03ODY5LTExZjEtYWFiYi01NjMwMDBlODExM2EiLCJjbGllbnRJUCI6IjE0OC4xMDMuMjUyLjkwIiwiY2l0eSI6IlNhbnRpYWdvIERlIExvcyBDYWJhbGxlcm9zIiwicG9zdGFsQ29kZSI6IjUxMDczIiwiY291bnRyeSI6IkRPIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6MTkuNDg5OTk5NzcxMTE4MTY0LCJkZXZpY2VMb24iOi03MC43MzAwMDMzNTY5MzM2LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxNDkuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIyLjAtYmE5OTMxOGFmZTUwZGUzYzhhMDIwMjFmNGM5MmZkNTJmMmM0N2EwMCIsImNsaWVudElEIjoiMTVjMmQ2ZTAtYmFhNi00YzNhLWIzMTItOGY5NmViMTNkM2Q0IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvRG9taW5pY2EiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9LCJzdGl0Y2hlckhsc05nVmxsIjp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nVm9kIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIxNWMyZDZlMC1iYWE2LTRjM2EtYjMxMi04Zjk2ZWIxM2QzZDQiLCJmd1ZjSUQyQ29wcGEiOiIxNWMyZDZlMC1iYWE2LTRjM2EtYjMxMi04Zjk2ZWIxM2QzZDQiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjE1YzJkNmUwLWJhYTYtNGMzYS1iMzEyLThmOTZlYjEzZDNkNCIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDksMTAwMTMsMTAwMTQsMTAwMTYsMTAwMTUsMTAwMjAsMTAwMjEsMTAwMDAifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODMyNTMxNDk0MTAsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpNVFZqTW1RMlpUQXRZbUZoTmkwMFl6TmhMV0l6TVRJdE9HWTVObVZpTVROa00yUTAiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgzMzM5NTQ5LCJpYXQiOjE3ODMyNTMxNDksImp0aSI6ImExYzFmZWQ1LTc2ZTgtNGIzOC1iZDdkLTdjYzdjNTc0NDQ2NyJ9.52QXhg2VLzXK3mudc-ECg28Db7P5FvlBedRo6KA_Llw%26masterJWTPassthrough%3Dtrue%26includeExtendedEvents%3Dtrue%26paln%3DAQzzBGQEeGRJEpEdHoM9hgxYlOebE6I_MGsTEc4Mvufxh6BoUVCyB2iDAoXbxED_tSKo-T50neBxv3o54nqegVKOQL7Evs8mp6JWyOHXBoE7VB-44kueIoDdLB1O7WYZn8_8t8VajD6Qj3Q3Mz5l_8s93kaOXpSjJV-T0ZgA4GPTIfFDHro_U03aR0SjKBgeKc9Glt_-r5fX-RO4Ddahc6oRTEq25hhEiIN7npQtREWmfZIP-LpYlALtopXTgZceuxMZBB_4_1d46vxtLxgszXDFgPteHo_xws6cVWTbPlZlnDBEQhfuzsTs_7rSArgTtcTG4w4IwoVFYeAdjXMldgoS_xSavqz_ZHonMQq2b95tD-kLda3Nbwr9Tl92Bryhwamqyhv4rgTW-3aQKvYRGkNbnPnNBpUT40l5DcU3CBJzbZ3syk7Y7922vBeVLFF_pvkyBM5ETL2KPIx6Irfolc2IX-Px7Kk0IzVklfyVyj4rpAMr8EBRxlUMdTkflrrCBXxYdXEAvcQyTRzgESUAk4BTONzltlq0Ky1VWWhroUeyX0lgW327nf-i20mmgnSNDNkndLdjXKQHgR5oWFOCV5GZaFRBtoWL_VRpwRZ83CyArbwtAxVA5qlrRyVgdUFazvZ-zMPi7jAYDNxEr6oV2BrF48RCmnNi3f0PUW6pmGIvTwqaA1kRDzXCW5nEgP_d6cs44HCcIb5y5GU_Nj1iZ_ahE6vV4vu9AvmPXvLa6xt7bGYq_udHrYGBYRCCuLYMSO0K7ooV5MypWqQ9DMFBtWrCOtw5_y11jP-PBe9wXDuT_HYxn_g4Q7x3EjdwuiqxGdPl2P9q3cQEPHwVrg__1hDiIWyTBq1TOLK5oxfr1z4VlB5s06OvRUHSj3eWrskLxJxi6zsNXI137dM64s7DNze07hjybOBR-EN2ggaMjIZL1iFcr2903EtLkEhg51d0gP5HFL8Pkhxjf_SuGOstNtjiEPKxhABkNmbqSenEolnzUeQrPd1lKA0UCg9fonFkBXXLdepa2btUrCg_M5WBJU6gBfLVJBeddx9l9cDS8xdxw0-IZvJ7tzgeOdzZom49QGWT42LBPFj2YcNhjfGUNoZOG_FwHSon_c0M2WwMZJ8ozJQKnVHjmVgpExuKBnKsKj9qzM8Q1kwcK3kyquP21rwcZTZos9AqU58Gq9W6nQuwTM9z8qBMAdUIqWENtKe2tq_XsY4XnYl0_l0YRZCIEFVx-N9T03nRyIMntNhkQ-l5nDVUzA..%26eventVOD%3Dfalse%26CMCD%3Dmtp%253D8400%252Cot%253Dm%252Csf%253Dh%252Csid%253D%25220dadfb4c-24c8-4f1b-8849-ad286dc2b12c%2522%252Csu
+#EXTINF:-1 tvg-id="22" tvg-logo="" group-title="Entretenimiento",Telered 
+http://localhost:3000/proxy?url=https%3A%2F%2Fk20.usastreams.com%3A8081%2Fteleredcablera%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="" group-title="Entretenimiento",Mi Televisión Clásica 
+http://localhost:3000/proxy?url=https%3A%2F%2Fmitv.getstreamhosting.com%3A1936%2Flive%2Flive%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="19" tvg-logo="" group-title="Entretenimiento",Tigueritos
+http://localhost:3000/proxy?url=https%3A%2F%2Fss2.tvrdomi.com%3A1936%2Ftigueritostv%2Ftigueritostv%2Fchunklist_w673102388.m3u8
+#EXTINF:-1 tvg-id="18" tvg-logo="" group-title="Entretenimiento",CBN Español 
+http://localhost:3000/proxy?url=https%3A%2F%2Ffastly.live.brightcove.com%2F6383462549112%2Fus-east-1%2F734546207001%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U%2Fchunklist__3.m3u8
+#EXTINF:-1 tvg-id="17" tvg-logo="" group-title="Entretenimiento",Series Classic: TV
+http://localhost:3000/proxy?url=https%3A%2F%2Fvideo10.logicahost.com.br%2Fserieclassic%2Fserieclassic%2Fchunklist_w387773533.m3u8
+#EXTINF:-1 tvg-id="16" tvg-logo="" group-title="Entretenimiento",Best Clásicos TV
+http://localhost:3000/proxy?url=https%3A%2F%2Facceso.mediosdecostarica.com%3A3873%2Fhybrid%2Fplay.m3u8
+#EXTINF:-1 tvg-id="15" tvg-logo="" group-title="Entretenimiento",Tele+
+http://localhost:3000/proxy?url=https%3A%2F%2Facceso.mediosdecostarica.com%3A3192%2Fhybrid%2Fplay.m3u8
+#EXTINF:-1 tvg-id="14" tvg-logo="" group-title="Entretenimiento",Retro X
+http://localhost:3000/proxy?url=https%3A%2F%2Flbgo.bozztv.com%2Fssh101%2Fssh101%2Fretyroxtv%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="13" tvg-logo="" group-title="Entretenimiento",Teleclásica
+http://localhost:3000/proxy?url=https%3A%2F%2Fstmv7.voxtvhd.com.br%2Fteleclasica%2Fteleclasica%2Fplaylist.m3u8%3Fhls_ctx%3D01q46663
+#EXTINF:-1 tvg-id="12" tvg-logo="" group-title="Entretenimiento",Dreiko TV
+http://localhost:3000/proxy?url=https%3A%2F%2Frtv.fullhd-streaming.com%3A19360%2Fdreikotv%2Fdreikotv.m3u8
+#EXTINF:-1 tvg-id="11" tvg-logo="" group-title="Entretenimiento",Retro Music
+http://localhost:3000/proxy?url=https%3A%2F%2Flbgo.bozztv.com%2Fssh101%2Fssh101%2Ftvtutv%2Fchunks.m3u8%3Flb_backend_hint%3D6
+#EXTINF:-1 tvg-id="9" tvg-logo="" group-title="Entretenimiento",RetroX Plus
+http://localhost:3000/proxy?url=https%3A%2F%2Flbgo.bozztv.com%2Fssh101%2Fssh101%2Fretp%2Fchunks.m3u8%3Flb_backend_hint%3D6
+#EXTINF:-1 tvg-id="7" tvg-logo="" group-title="Entretenimiento",RetroToon
+http://localhost:3000/proxy?url=https%3A%2F%2Flbgo.bozztv.com%2Fssh101%2Fssh101%2Ferenay%2Fchunks.m3u8%3Flb_backend_hint%3D7

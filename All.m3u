@@ -90,15 +90,17 @@ https://lbgo.bozztv.com/ssh101/ssh101/timetraveltv/playlist.m3u8
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Music",Retro Music Television
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-2 tvg-id="714" tvg-name="Tele Plus" tvg-logo="https://i.ibb.co/nst9Gy4m/Tele.png" group-title="Cine y Seies", Tele Plus
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="The Retro Channel" tvg-logo="https://i.ibb.co/Rp1fBwgv/theretrofb.jpg" group-title="Music",The Retro Channel
 https://583ed2f226ac2.streamlock.net/theretrochannel/stream/chunklist_w1254287817.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase" tvg-logo="https://i.ibb.co/84bMcX01/classic-arts-showcase.jpg" group-title="Musica",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
-#EXTINF:-1 tvg-id="Latino Clasic" tvg-logo="" group-title="Undefined" group-title="Cine Clasico",Latino Classic TV
+#EXTINF:-1 tvg-id="Latino Clasic" tvg-logo="https://i.ibb.co/Q7F4X1jz/LClasico.jpg" group-title="Undefined" group-title="Cine Clasico",Latino Classic TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksmzJKkq/Locomotion-Anime-Station-Imagotipo.png" group-title="Anime Classic", AnimeStation
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png" group-title="Anime Classic", Neo TV
+#EXTINF:-1 tvg-id="714" tvg-name="Neo TV" tvg-logo="https://i.ibb.co/S4s26G4V/Neo.jpg" group-title="Cine y Series", Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="Retro TV Online" tvg-logo="https://i.ibb.co/Pw6DrkQ/34298a-dbe9b2d0def84535beca857e505c19d8-mv2.png" group-title="Cine y Series", Retro TV Online
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
@@ -126,5 +128,5 @@ https://streamlov.alsolnet.com/maxanime/live/chunklist_w353100717.m3u8
 https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="garavitotv" tvg-logo="https://i.postimg.cc/3xhCFB6f/GARAVITO-TV.png" group-title="Cine y Series",Garavito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w467509490.m3u8
-#EXTINF:-1 tvg-id="tigueritos" tvg-logo="https://i.postimg.cc/qMXVzjc3/TIGUERITOS-TV.jpg" group-title="Cartoon Retro",Tigueritos TV 
+#EXTINF:-1 tvg-id="709" tvg-name="Tigueritos TV" tvg-logo="https://i.postimg.cc/qMXVzjc3/TIGUERITOS-TV.jpg" group-title="Cartoon Retro",Tigueritos TV 
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8

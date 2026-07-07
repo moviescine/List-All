@@ -78,44 +78,29 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-id="761" tvg-name="Vegavision Canal 18" tvg-logo="https://www.m3u.cl/logo/761_Vegavision_Canal_18.png", Vegavision Canal 18  | DO
 https://server2grupocam.com/megavision/MV/chunklist_w534390337.m3u8
-#EXTINF:-1 tvg-id="763" tvg-name="Zol 106.5 FM" tvg-logo="https://www.m3u.cl/logo/763_Zol_106_5_FM.jpg", Zol 106.5 FM  | DO
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(NklFabzIGCKnurBi9mvcoH-n49TZGNbHORn4HYfOh_jC4WrK39spGZi7s04YkhBrsYRo8MANdYKFtycuiWZKxQJHkcRnRjo1vyr2_ME2_kfVP1NOXhA4FpeKAHIHgLAf)/cloud/3/x9ijobo/s/live-720.m3u8
-#EXTINF:-1 tvg-id="710" tvg-name="Dreiko Tv" tvg-logo="https://platcon.tv/img/p/4/3/9/439-thickbox_default.jpg", Dreiko Tv  | PAN
+#EXTINF:-1 tvg-id="710" tvg-name="Dreiko Tv" tvg-logo="https://platcon.tv/img/p/4/3/9/439-thickbox_default.jpg" group-title="Cartoon Retro", Dreiko Tv  | PAN
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
-#EXTINF:-1 tvg-id="756" tvg-logo="https://i.ibb.co/HNxN9st/locomotion1-120550-preview-1083-545-white.png" group-title="Retro",Locomotion | AR
+#EXTINF:-1 tvg-id="756" tvg-logo="https://i.ibb.co/HNxN9st/locomotion1-120550-preview-1083-545-white.png" group-title="Anime Classic",Locomotion | AR
 http://85.239.54.197:81/live/loco_hi/index.m3u8
-#EXTINF:-1 tvg-id="780" tvg-name="TeleClasica Tv" tvg-logo="https://i.ibb.co/WKCghWS/318953392-152520087525070-763550339019320332-n.jpg", TeleClasica  | PA
+#EXTINF:-1 tvg-id="780" tvg-name="TeleClasica Tv" tvg-logo="https://i.ibb.co/WKCghWS/318953392-152520087525070-763550339019320332-n.jpg" group-title="Cine y Series", TeleClasica  | PA
 https://sc1.wasidata.com/Teleclasica/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="781" tvg-name="STV" tvg-logo="https://i.ibb.co/hC9SXdy/SAARRARASPIQIQQ.jpg", STV  | PA
+#EXTINF:-1 tvg-id="781" tvg-name="STV" tvg-logo="https://i.ibb.co/hC9SXdy/SAARRARASPIQIQQ.jpg" group-title="Cine y Series", STV  | PA
 https://lstv.duckdns.org:449/hls/stv.m3u8
-#EXTINF:-1 tvg-id="782" tvg-name="FREE TV 8-2" tvg-logo="https://i.ibb.co/FHwmGPQ/FREEETEEEVV.jpg", FREE TV 8-2  | USA
-https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
-#EXTINF:-1 tvg-id="1106" tvg-name="ACS Network TV" tvg-logo="https://i2.paste.pics/f4e6f06a328814e84dd4da2c89843129.png", ACS Network TV | PR
+#EXTINF:-1 tvg-id="1106" tvg-name="Time Travel TV " tvg-logo="https://i.ibb.co/j9P9L22Z/Time-Travel.jpg" group-title="Cine y Series", Time Travel TV | PR
 https://lbgo.bozztv.com/ssh101/ssh101/timetraveltv/playlist.m3u8
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro | AR
+#EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Anime Classic",EnerGeek Retro | AR
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Music",Retro Music Television (360p)
+#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Music",Retro Music Television
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80's
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Culture;Education",Classic Arts Showcase
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cine ¡¡jaja!!
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cedbdba-6871-4161-a12d-d20faa66e6b8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/ef0bf95dfe58815d33a87539bb6e3cd4.png", ZTV Anime
-https://mitv.zplay.cl/Ztv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Latino Classic TV
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.ibb.co/Rp1fBwgv/theretrofb.jpg" group-title="Music",The Retro Channel
+https://583ed2f226ac2.streamlock.net/theretrochannel/stream/chunklist_w1254287817.m3u8
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.ibb.co/84bMcX01/classic-arts-showcase.jpg" group-title="Musica",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" group-title="Cine Clasico",Latino Classic TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/55bee1f7aa13803eacd319eaeb348b9a.png", Magic Kids
-https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.paste.pics/9c22ea0df4ad9c0affc8fe065875781f.png", Retro Magico
-https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/cf0fa48150c7a524d1b1cc37881a7928.png", Estacion TV
-https://v4.tustreaming.cl/limachemovil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title=" Anime Classic", AnimeStation
+#EXTINF:-1 tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="Anime Classic", AnimeStation
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png", Neo TV
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png" group-title="Anime Classic", Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="Retro TV Online" tvg-logo="https://i.ibb.co/Pw6DrkQ/34298a-dbe9b2d0def84535beca857e505c19d8-mv2.png" group-title="Cine y Series", Retro TV Online
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
@@ -133,7 +118,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/13cbed7a89e361bba1e00c29db2e5336.png",group-title="Cartoon Retro" Gogo Play Bolivia HD
 https://lbgo.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title=" Anime Classic",RetroCrush (1080p)
+#EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Anime Classic",RetroCrush (1080p)
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFvm8Hw/max-anime.jpg" group-title="Cartoon Retro", MAX Anime
 https://streamlov.alsolnet.com/maxanime/live/chunklist_w353100717.m3u8

@@ -91,7 +91,7 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Music",Retro Music Television
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-2 tvg-id="714" tvg-name="Tele Plus" tvg-logo="https://i.ibb.co/nst9Gy4m/Tele.png" group-title="Cine y Seies", Tele Plus
-https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="The Retro Channel" tvg-logo="https://i.ibb.co/Rp1fBwgv/theretrofb.jpg" group-title="Music",The Retro Channel
 https://583ed2f226ac2.streamlock.net/theretrochannel/stream/chunklist_w1254287817.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase" tvg-logo="https://i.ibb.co/84bMcX01/classic-arts-showcase.jpg" group-title="Musica",Classic Arts Showcase

@@ -115,8 +115,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
 https://v4.tustreaming.cl/limachemovil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png", AnimeStation
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GJC20d5/81ppyq-EOn5-L.png", Anime Onegai 
-https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/e6d7f495-4ecd-472f-a807-cb4a648886e9/3.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png", Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="Retro TV Online" tvg-logo="https://i.ibb.co/Pw6DrkQ/34298a-dbe9b2d0def84535beca857e505c19d8-mv2.png" , Retro TV Online
@@ -127,34 +125,19 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="RetroX TV" tvg-logo="https://i.ibb.co/Fbj182j/1200x630bb.png" , RetroX TV
 https://live21.bozztv.com/akamaissh101/ssh101/retroxcrtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/V0dWcZwj/Hallmark-En-Espanol.png" group-title="Películas",Hallmark en español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
-#EXTINF:-1 tvg-id="Video Club" tvg-logo="https://i.ibb.co/8THsmxB/Screenshot-2025-03-07-160601.png" , Video Club
-https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SHjJCg1/ecb5be2017e0e0ae994907a480c22f77f67a496357eaa36467d0bb85623cc681.jpg" group-title="Cartoons",Cartoon Classics
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
-#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Animation;Kids" http-referrer="https://xtrematv.com/?p=1390",Xtrema Cartoons
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Animation",Xtrema Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/13cbed7a89e361bba1e00c29db2e5336.png", Gogo Play Bolivia HD
-https://live20.bozztv.com/akamaissh101/ssh101/gogoplaysd/chunks.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Animation;Classic",RetroCrush (1080p)
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFvm8Hw/max-anime.jpg", MAX Anime
 https://streamlov.alsolnet.com/maxanime/live/chunklist_w353100717.m3u8
 #EXTINF:-1 tvg-id="TVSFlashbackNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-flashback-network.jpg" group-title="Entertainment",TVS Family Channel
 https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="TVSHiTops.us" tvg-logo="https://i.imgur.com/RiWg1IA.png" group-title="Kids",TVS Hi Tops
-https://rpn.bozztv.com/gusa/gusa-hitops/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="garavitotv" tvg-logo="https://i.postimg.cc/3xhCFB6f/GARAVITO-TV.png" group-title="CINE-SERIES",GARAVITO TV
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w467509490.m3u8
 #EXTINF:-1 tvg-id="tigueritos" tvg-logo="https://i.postimg.cc/qMXVzjc3/TIGUERITOS-TV.jpg" group-title="ANIME-INFANTIL",TIGUERITOS TV 
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7 (720p)
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-id="AztecaHonduras.hn@SD" tvg-logo="https://i.imgur.com/sxFh1dw.png" group-title="General",Azteca Honduras (720p)
-https://dvrfl03.bozztv.com/hondu-azteca/index.m3u8
-#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment",Azteca Internacional (1080p)
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno (720p)
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8

@@ -3,15 +3,15 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-3 tvg-id="714" tvg-name="Telemicro 5" tvg-logo="https://i.ibb.co/mN7P5Sd/Logo-Creation.jpg" group-title="Variedad", Telemicro 5 | DO
 http://200.229.147.142:8000/play/a057/index.m3u8
 #EXTINF:-4 tvg-id="754" tvg-name="Antena Latina" tvg-logo="https://i.postimg.cc/4x6Zxw2m/antenalatina.jpg" group-title="Variedad", Antena Latina  | DO
-https://alba-do-antena7-antena7.stream.mediatiquestream.com/original.m3u8
+https://ds.tvabierta.net/memfs/33981d0f-ff9a-40a7-9cf2-29b75f373037_output_0.m3u8
 #EXTINF:-5 tvg-id="709" tvg-name="Color Vision" tvg-logo="https://i.ibb.co/b5NZGjB/unnamed-2.png" group-title="Variedad", Color Vision | DO
 http://38.159.232.166:8000/play/a00z/index.m3u8
 #EXTINF:-6 tvg-id="728" tvg-name="Microvision" tvg-logo="https://www.m3u.cl/logo/728_Microvision.jpg" group-title="Variedad", Microvision  | DO
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1882494547.m3u8
 #EXTINF:-7 tvg-id="728" tvg-name="Telesistema" tvg-logo="https://i.imgur.com/XVcUUy3.png" group-title="Variedad",Telesistema | DO
-http://200.125.170.122:8000/play/a0ci/index.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(wh38TKWIrqWZQ4l6L0sYcUU_EX64zOzctp0x0a76WVAc3NCPsSUmGB-6Wn_kdFkhPXjsLnOciW01gkLI0jo1n64SZ0_gFtpkIaRh7UNgvIfiiX6ofuH-jJokNE2fkkuS)/cloud/3/x80ac48/d/live-720.m3u8#cell=lcf2-eu-north-1a
 #EXTINF:-1 tvg-id="728" tvg-name="Teleantillas" tvg-logo="https://i.ibb.co/31y5YRR/descarga-1.jpg" group-title="Variedad",Teleantillas | DO
-http://200.125.170.122:8000/play/a0cg/index.m3u8
+https://ds.tvabierta.net/memfs/fde81577-b1ae-48ab-bac4-4ae5908af483_output_0.m3u8
 #EXTINF:-8 tvg-id="728" tvg-name="Telecentro.do" tvg-logo="https://i.imgur.com/Spp8rQs.png" group-title="Variedad",Telecentro | DO
 https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
 #EXTINF:-9 tvg-id="Digital15.do" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Variedad",Digital 15 | DO
@@ -49,7 +49,7 @@ https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 #EXTINF:-1 tvg-id="727" tvg-name="Megavision" tvg-logo="https://www.m3u.cl/logo/727_Megavision.png" group-title="Variedad", Megavision  | DO
 https://server2grupocam.com/megavision/MV/chunklist_w1905912575.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="RNN" tvg-logo="https://www.m3u.cl/logo/734_RNN.png" group-title="Noticia", RNN  | DO
-https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/playlist.m3u8
+https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
 #EXTINF:-1 tvg-id="742" tvg-name="Telecibao" tvg-logo="https://www.m3u.cl/logo/742_Telecibao.jpg" group-title="Noticia", Telecibao  | DO
 https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
 #EXTINF:-1 tvg-id="743" tvg-name="Telefuturo" tvg-logo="https://www.m3u.cl/logo/743_Telefuturo.png" group-title="Variedad", Telefuturo  | DO
@@ -106,6 +106,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 #EXTINF:-1 tvg-id="Retro TV Palmare" tvg-logo="https://i.ibb.co/JryHQxt/unnamed.png" group-title="Cine y Series", Retro TV Palmare
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
+#EXTINF:-2 tvg-id="714" tvg-name="Best Clasicos TV" tvg-logo="https://i.ibb.co/cKNWCW9M/3896-800x450-FFFFFF.png" group-title="Cine y Series", Best Clasicos TV
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Telesistema CR" tvg-logo="https://i.ibb.co/4Y6qPkJ/images.jpg" group-title="Cine y Series" , Telesistema CR
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="RetroX TV" tvg-logo="https://i.ibb.co/Fbj182j/1200x630bb.png"  group-title="Cine y Series", RetroX TV

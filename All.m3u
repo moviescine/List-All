@@ -21,7 +21,7 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-13 tvg-id="752" tvg-name="Teleuniverso Canal 29" tvg-logo="https://www.m3u.cl/logo/752_Teleuniverso_Canal_29.png" group-title="Variedad", Teleuniverso Canal 29  | DO
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(A3Z4Cvfevtm-ROWr51v8lXkDDofUNfh-euRWX5iYlp8cfdNVZFjI7w5tbZY9W9d061bJfn_y-lNbbQKdTDRtRNabbcWItphre5G49giEOuhrXRNz87mk80vh0YdMo3E6)/cloud/3/xaio352/s/live-720.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="CDN" tvg-logo="https://i.postimg.cc/QVLGXWpQ/CDN-Canal-37.png" group-title="Noticias", CDN | DO
-http://190.123.76.22:8000/play/a025/index.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(sBA6HytHb7EtD9pMScsY5a7uUlTa1GLRpeBGN0xGb1BKgvjT99wuZ_OeZV-qZDCDqUh7lcrVMLTpA87L5VQCplwwmbUA3LrHiYz7TXYX1i4y4OZkhEBgUu6A1NOEPzVBy8L20Ubx0lerJQNAktE_CQ)/dm/3/x9lincs/s/live-720.m3u8?startdate=2026-06-12T19%3A21%3A09%2B0000#cell=lcf-eu-north-1b
 #EXTINF:-1 tvg-id="709" tvg-name="CDN Deporte" tvg-logo="https://i.postimg.cc/QVLGXWpQ/CDN-Canal-37.png" group-title="Deportes", CDN Deporte | DO
 http://200.125.170.122:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png" group-title="Musica", TV Exitos  | DO
@@ -55,11 +55,11 @@ https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
 #EXTINF:-1 tvg-id="743" tvg-name="Telefuturo" tvg-logo="https://www.m3u.cl/logo/743_Telefuturo.png" group-title="Variedad", Telefuturo  | DO
 http://190.110.36.254:80/TELEFUTURO/index.m3u8
 #EXTINF:-1 tvg-id="746" tvg-name="Telenord 10" tvg-logo="https://www.m3u.cl/logo/746_Telenord_10.png" group-title="Variedad", Telenord 10  | DO
-https://rdn.essastream.com:3676/live/telenord10live.m3u8
+https://cdnfox.hostlagarto.com/telenord10/index.m3u8
 #EXTINF:-1 tvg-id="747" tvg-name="Telenord 12" tvg-logo="https://www.m3u.cl/logo/747_Telenord_12.jpg" group-title="Variedad", Telenord 12  | DO
-https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
+https://cdnfox.hostlagarto.com/telenord12/index.m3u8
 #EXTINF:-1 tvg-id="745" tvg-name="Telenord 8" tvg-logo="https://www.m3u.cl/logo/745_Telenord_8.jpg" group-title="Variedad", Telenord 8  | DO
-https://rdn.essastream.com:3170/live/telenord8live.m3u8
+https://cdnfox.hostlagarto.com/telenord8/index.m3u8
 #EXTINF:-11 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News" group-title="Variedad",Antena 21 | DO
 https://d1p8txxph783az.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-id="TRANoticias.do" tvg-logo="https://i.imgur.com/M6ZhJqM.png" group-title="Noticia",TRA Noticias | DO

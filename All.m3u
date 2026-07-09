@@ -107,7 +107,7 @@ https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Telesistema CR" tvg-logo="https://i.ibb.co/4Y6qPkJ/images.jpg" group-title="Cine y Series" , Telesistema CR
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="RetroX TV" tvg-logo="https://i.ibb.co/Fbj182j/1200x630bb.png"  group-title="Cine y Series", RetroX TV
-https://live21.bozztv.com/akamaissh101/ssh101/retroxcrtv/playlist.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroX Plus" tvg-logo="https://i.ibb.co/k6G2Bch9/3922-800x450-FFFFFF.png"  group-title="Cine Clasico", RetroX Plus
 https://lbgo.bozztv.com/ssh101/ssh101/retp/chunks.m3u8?lb_backend_hint=6
 #EXTINF:-1 tvg-id="RetroToonsTV" tvg-logo="https://i.ibb.co/N2JKF3gt/Retrotoontv.jpg" group-title="Cartoon Retro", RetroToons TV

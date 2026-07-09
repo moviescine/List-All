@@ -59,7 +59,7 @@ https://cdnfox.hostlagarto.com/telenord8/index.m3u8
 #EXTINF:-11 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News" group-title="Variedad",Antena 21 | DO
 https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="TRANoticias.do" tvg-logo="https://i.imgur.com/M6ZhJqM.png" group-title="Noticia",TRA Noticias | DO
-https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJhYTMxMDMwZGJjNjAzMDVlMmQwOTNjNDYwNzdhYjZmMSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzgzNjU3MDIzLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.gVXfoyE5nymadBccYZVfP1i3uwtwkbbH8iurHUZSOC8l7zvP91GKCeD83I94ZaVpjq2vI-O_4jgcIIwypnMtUeMlPVT1WBuiZ_YvIWWHBlZlgQacLUsSJ2KeHwcz81h5qNm5T6JmBPnaW4Z7ti7MRDwM5gXUWptN2PQCrGUxAySEaj8j0wGe6SzRCUZAYVEWNuKIF3KtQYVln5XBRL3jHfvOzuvwdFvvLo67pxfXFLsU9qb9xHsvSsNstb6ubqH69HLY9HYcACGhSk3PjNHprGE3Y4ImA7PUmDK5B4dqDAdez1UiusUWb9gvMqzECsbpyPdP_j6ld5TvJO2Rc3HuLA/manifest/stream_t99c37391b9f6e880ab6106e4ee1e2f0c_r1782180006.m3u8?llhlsHBs=0.5&CMCD=cid%3D%221783613822992%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22b9d5c138-22c4-49f0-a186-b64321fea205%22%2Csu
 #EXTINF:-1 tvg-id="758" tvg-name="Telered" tvg-logo="https://www.voiceovercr.com/mayorkilling_weapons/2020/10/LOGO-TELERED-OFICIAL.png" group-title="Variedad", TELERED  | CO
 https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="759" tvg-name="TVS TV" tvg-logo="https://www.m3u.cl/logo/759_TVS_TV.png" group-title="Cine y Series", TVS TV  | DO

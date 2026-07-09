@@ -1,7 +1,7 @@
 #EXTINF:-2 tvg-id="714" tvg-name="Canal 4 RD" tvg-logo="https://www.m3u.cl/logo/714_Canal_4_RD.png" group-title="Variedad", Canal 4 RD  | DO
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-3 tvg-id="714" tvg-name="Telemicro 5" tvg-logo="https://i.ibb.co/mN7P5Sd/Logo-Creation.jpg" group-title="Variedad", Telemicro 5 | DO
-http://200.229.147.142:8000/play/a057/index.m3u8
+https://live4.telemicro.com.do/live/telemicrocast_1080p/playlist.m3u8
 #EXTINF:-4 tvg-id="754" tvg-name="Antena Latina" tvg-logo="https://i.postimg.cc/4x6Zxw2m/antenalatina.jpg" group-title="Variedad", Antena Latina  | DO
 https://ds.tvabierta.net/memfs/33981d0f-ff9a-40a7-9cf2-29b75f373037_output_0.m3u8
 #EXTINF:-5 tvg-id="709" tvg-name="Color Vision" tvg-logo="https://i.ibb.co/b5NZGjB/unnamed-2.png" group-title="Variedad", Color Vision | DO
@@ -13,9 +13,9 @@ https://live2.eu-north-1a.cf.dmcdn.net/sec2(wh38TKWIrqWZQ4l6L0sYcUU_EX64zOzctp0x
 #EXTINF:-1 tvg-id="728" tvg-name="Teleantillas" tvg-logo="https://i.ibb.co/31y5YRR/descarga-1.jpg" group-title="Variedad",Teleantillas | DO
 https://ds.tvabierta.net/memfs/fde81577-b1ae-48ab-bac4-4ae5908af483_output_0.m3u8
 #EXTINF:-8 tvg-id="728" tvg-name="Telecentro.do" tvg-logo="https://i.imgur.com/Spp8rQs.png" group-title="Variedad",Telecentro | DO
-https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
 #EXTINF:-9 tvg-id="Digital15.do" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Variedad",Digital 15 | DO
-https://live4.telemicro.com.do/live/digital15cast_1080p/chunks.m3u8?nimblesessionid=29117392
+http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
 #EXTINF:-10 tvg-id="751" tvg-name="Teleunion" tvg-logo="https://www.m3u.cl/logo/751_Teleunion.jpg" group-title="Variedad", Teleunion  | DO
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-13 tvg-id="752" tvg-name="Teleuniverso Canal 29" tvg-logo="https://www.m3u.cl/logo/752_Teleuniverso_Canal_29.png" group-title="Variedad", Teleuniverso Canal 29  | DO
@@ -39,7 +39,7 @@ https://ss2.tvrdomi.com:1936/ame47/ame47/chunklist.m3u8
 #EXTINF:-1 tvg-id="713" tvg-name="Boreal Televisión" tvg-logo="https://www.m3u.cl/logo/713_Boreal_Television.jpg" group-title="Noticia", Boreal Televisión  | DO
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-id="718" tvg-name="Cinevision Canal 19" tvg-logo="https://www.m3u.cl/logo/718_Cinevision_Canal_19.jpg" group-title="Variedad", Cinevision Canal 19  | DO
-https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
+https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="719" tvg-name="Entelevision" tvg-logo="https://www.m3u.cl/logo/719_Entelevision.jpg" group-title="Variedad", Entelevision  | DO
 https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 #EXTINF:-1 tvg-id="721" tvg-name="Fuego TV" tvg-logo="https://www.m3u.cl/logo/721_Fuego_TV.jpg" group-title="Variedad", Fuego TV  | DO
@@ -53,7 +53,7 @@ https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
 #EXTINF:-1 tvg-id="742" tvg-name="Telecibao" tvg-logo="https://www.m3u.cl/logo/742_Telecibao.jpg" group-title="Noticia", Telecibao  | DO
 https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
 #EXTINF:-1 tvg-id="743" tvg-name="Telefuturo" tvg-logo="https://www.m3u.cl/logo/743_Telefuturo.png" group-title="Variedad", Telefuturo  | DO
-http://190.110.36.254:80/TELEFUTURO/index.m3u8
+http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
 #EXTINF:-1 tvg-id="746" tvg-name="Telenord 10" tvg-logo="https://www.m3u.cl/logo/746_Telenord_10.png" group-title="Variedad", Telenord 10  | DO
 https://cdnfox.hostlagarto.com/telenord10/index.m3u8
 #EXTINF:-1 tvg-id="747" tvg-name="Telenord 12" tvg-logo="https://www.m3u.cl/logo/747_Telenord_12.jpg" group-title="Variedad", Telenord 12  | DO
@@ -61,14 +61,14 @@ https://cdnfox.hostlagarto.com/telenord12/index.m3u8
 #EXTINF:-1 tvg-id="745" tvg-name="Telenord 8" tvg-logo="https://www.m3u.cl/logo/745_Telenord_8.jpg" group-title="Variedad", Telenord 8  | DO
 https://cdnfox.hostlagarto.com/telenord8/index.m3u8
 #EXTINF:-11 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News" group-title="Variedad",Antena 21 | DO
-https://d1p8txxph783az.cloudfront.net/original.m3u8
+https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="TRANoticias.do" tvg-logo="https://i.imgur.com/M6ZhJqM.png" group-title="Noticia",TRA Noticias | DO
 https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8
 #EXTINF:-1 tvg-id="758" tvg-name="Telered" tvg-logo="https://www.voiceovercr.com/mayorkilling_weapons/2020/10/LOGO-TELERED-OFICIAL.png" group-title="Variedad", TELERED  | CO
 https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="759" tvg-name="TVS TV" tvg-logo="https://www.m3u.cl/logo/759_TVS_TV.png" group-title="Cine y Series", TVS TV  | DO
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 tvg-id="759" tvg-name="MI TV CLASICA" tvg-logo="https://mi-television.com/img/imagen-final-2_orig.png" group-title="Cine y Series", MI TV CLASICA  | USA
+#EXTINF:-1 tvg-id="759" tvg-name="MI TV CLASICA" tvg-logo="https://mi-television.com/img/imagen-final-2_orig.png" group-title="Cine y Series", Mi TV Clasica  | USA
 https://mitv.getstreamhosting.com:1936/live/live/chunklist_w873624024.m3u8
 #EXTINF:-1 tvg-id="759" tvg-name="CLASICOS RUNTIME" tvg-logo="https://i.ibb.co/0FsjPdv/IUEIOLLO.png", Clasicos Runtime  | USA
 https://run-cl-es.otteravision.com/run/cl_es/cl_es_720.m3u8
@@ -81,7 +81,7 @@ https://server2grupocam.com/megavision/MV/chunklist_w534390337.m3u8
 #EXTINF:-1 tvg-id="710" tvg-name="Dreiko Tv" tvg-logo="https://i.ibb.co/B2Zkwdf0/Draiko.png" group-title="Cartoon Retro", Dreiko Tv  | PAN
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-id="Teleclasica" tvg-name="TeleClasica Tv" tvg-logo="https://i.ibb.co/WKCghWS/318953392-152520087525070-763550339019320332-n.jpg" group-title="Cine y Series", TeleClasica  | PA
-https://sc1.wasidata.com/Teleclasica/tracks-v1/index.fmp4.m3u8
+https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
 #EXTINF:-1 tvg-id="STV" tvg-name="STV" tvg-logo="https://i.ibb.co/hC9SXdy/SAARRARASPIQIQQ.jpg" group-title="Cine y Series", STV  | PA
 https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1 tvg-id="1106" tvg-name="Time Travel TV " tvg-logo="https://i.ibb.co/j9P9L22Z/Time-Travel.jpg" group-title="Cine y Series", Time Travel TV | PR
@@ -119,13 +119,13 @@ https://183.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SHjJCg1/ecb5be2017e0e0ae994907a480c22f77f67a496357eaa36467d0bb85623cc681.jpg" group-title="Cartoon Retro",Cartoon Classics
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 #EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Cartoon Retro",Xtrema Cartoons
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8?hls_ctx=5080p100
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/13cbed7a89e361bba1e00c29db2e5336.png",group-title="Cartoon Retro" Gogo Play Bolivia HD
 https://lbgo.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Anime Classic",RetroCrush 
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFvm8Hw/max-anime.jpg" group-title="Anime Classic", MAX Anime
-https://streamlov.alsolnet.com/maxanime/live/chunklist_w353100717.m3u8
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSFlashbackNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-flashback-network.jpg" group-title="Entretenimiento",TVS Family Channel
 https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="garavitotv" tvg-logo="https://i.postimg.cc/3xhCFB6f/GARAVITO-TV.png" group-title="Cine y Series",Garavito TV

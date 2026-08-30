@@ -75,7 +75,7 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-id="761" tvg-name="Vegavision Canal 18" tvg-logo="https://www.m3u.cl/logo/761_Vegavision_Canal_18.png" group-title="Variedad", Vegavision Canal 18  | DO
 https://server2grupocam.com/megavision/MV/chunklist_w534390337.m3u8
 #EXTINF:-1 tvg-id="710" tvg-name="Dreiko Tv" tvg-logo="https://i.ibb.co/B2Zkwdf0/Draiko.png" group-title="Cartoon Retro", Dreiko Tv  | PAN
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+https://cloudvideo.servers10.com:8081/8020/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Teleclasica" tvg-name="TeleClasica Tv" tvg-logo="https://i.ibb.co/WKCghWS/318953392-152520087525070-763550339019320332-n.jpg" group-title="Cine y Series", TeleClasica  | PA
 https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
 #EXTINF:-1 tvg-id="STV" tvg-name="STV" tvg-logo="https://i.ibb.co/hC9SXdy/SAARRARASPIQIQQ.jpg" group-title="Cine y Series", STV  | PA
